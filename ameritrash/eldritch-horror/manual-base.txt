@@ -1,0 +1,2142 @@
+1
+REGLAMENTO
+
+2
+UNA CONSPIRACIÓN REVELADA
+Harrigan pasó la mano vendada por el mapa de la pared de la habitación del hotel. Había decenas de documentos y trozos de papel de todo
+el mundo clavados en sus ubicaciones correspondientes, interconectados
+por una compleja red de hilos de colores. Siguió un hilo rojo desde el
+testimonio transcrito de un lunático de Arkham hasta un calco a lápiz
+de unas pictografías que encontró en el Amazonas. Desde allí, recorrió
+un hilo azul hasta una página arrancada del diario de ese astrónomo
+asesinado en Sídney.
+Pero seguía sin sacar la imagen total. Algo lo distraía. ¿Qué era? El
+vendedor de la estación de tren tenía un tatuaje en el dorso de la mano.
+Quizá fuera eso. Harrigan estaba seguro de que había visto antes ese
+símbolo. Puede que no fuera nada. Puede que sólo estuviese siendo paranoico. Pero debería dibujar el tatuaje y enseñárselo a Diana. Seguro
+que ella lo sabría.
+De pronto, un ruido en la calle atrajo su atención. No, era medio ruido.
+Era algo que iba a ser un ruido, quizá un grito, pero que se había cortado bruscamente. Se alejó del mapa y se aseguró de que la puerta de su
+habitación estuviera cerrada con llave.
+Durante las nueve horas que llevaba en la ciudad, había ido derecho
+de la estación de tren al museo, y luego al hotel. ¿Quién podría haberlo
+encontrado tan rápido?
+¿Sería el conservador del museo? El anciano había mostrado mucho entusiasmo, enseñándole alegremente diminutas fi guras grabadas en fragmentos de cerámica. Le dio una larguísima charla sobre una creencia
+primitiva en un antiguo mal que algún día entraría en este mundo
+mediante portales mágicos. ¿Acaso el viejo ratón de biblioteca había
+hecho que siguieran a Harrigan?
+Algo pesado cayó al suelo en el pasillo, al otro lado de la puerta, y fuerzas arcanas comenzaron a hacer vibrar violentamente la puerta en su
+marco. Harrigan suspiró. No tendría tiempo de recoger. Podría coger
+lo esencial y basta. Cogió el arma, comprobó el cargador, confi rmó que
+había una bala en la recámara y quitó el seguro.
+La madera esmaltada de la puerta comenzó a astillarse, y una de las
+bisagras vibró hasta hacerse pedazos. Harrigan sabía que no podía dejar
+pistas. Con un movimiento fruto de la práctica, abrió el mechero y recorrió el borde inferior del mapa con la llama. El fuego se extendió por los
+hilos, devorando los documentos.
+«Si se trata de la camarera –pensó Harrigan–, voy a tener mucho que
+explicar.»
+La puerta explotó hacia dentro con un ensordecedor chasquido, y la cosa
+cruzó el umbral.
+No era la camarera.
+La visión de la criatura envió un temblor frío por la columna de Harrigan, pero no podía dejar que eso detuviera su acción, no si quería llegar
+a Londres antes del fi nal de la semana. Harrigan cerró los ojos y corrió
+hacia la ventana abierta. La habitación estaba llena del rugido de los
+disparos, el fuego y la locura.
+DESCRIPCIÓN DEL JUEGO
+Eldritch Horror es un juego cooperativo de investigación y terror
+inspirado en las obras de H.P. Lovecraft. En cada partida, uno de
+los Primigenios, un ser de inimaginable poder anterior al propio
+tiempo, está despertando. Los jugadores asumen el papel de investigadores que intentan resolver misterios, defender a la humanidad de
+horrores inimaginables y cuyo fi n último es expulsar al Primigenio
+de este mundo. Si los investigadores fracasan en su labor, el Primigenio despierta y la humanidad está perdida.
+CÓMO USAR ESTE REGLAMENTO
+Este reglamento está escrito con el solo propósito de enseñar
+a los nuevos jugadores cómo jugar a Eldritch Horror. Por este
+motivo, este reglamento omite muchas excepciones de las
+reglas e interacciones de cartas. Además de este reglamento,
+este juego incluye también una guía de referencia.
+La guía de referencia aborda preguntas sobre las reglas
+y excepciones especiales que no se contemplan en este
+reglamento. La guía también incluye reglas opcionales de
+puntuación, para ajustar la difi cultad de juego y para jugar
+partidas de un jugador.
+JUGADORES E INVESTIGADORES
+Al jugar a Eldritch Horror, cada jugador controla un
+investigador. En este reglamento, la palabra “investigador”
+se refi ere tanto al jugador que controla el investigador como
+al propio personaje del juego.
+La visión de la criatura envió un temblor frío por la columna de Harrigan, pero no podía dejar que eso detuviera su acción, no si quería llegar
+a Londres antes del fi nal de la semana. Harrigan cerró los ojos y corrió
+hacia la ventana abierta. La habitación estaba llena del rugido de los
+
+3
+CONTENIDO
+8 de América
+51 cartas de Mitos
+16 cartas de
+Misterio
+8 de Asia/Australia
+24 de Otros Mundos 18 de Expedición
+(6 dorsos, 3 de cada)
+12 Generales
+12 Especiales
+(2 dorsos, 6 de cada)
+32 de Investigación
+(4 dorsos, 8 de cada)
+3 3 2 2 3
+5 7 Saber Influencia Observación Fuerza Voluntad
+NOMBRE
+PROFESIÓN
+RASGOS DISTINTIVOS
+ÍNDICE FISIOLÓGICO ÍNDICE PSICOLÓGICO
+• Acción: Cada investigador que esté en tu casilla recupera 1 punto de Cordura.
+• Los investigadores que estén en tu casilla tiran 1 dado adicional al resolver pruebas durante Encuentros de Combate.
+“No, no son nada callados. Los muertos se vuelven muy revoltosos cuando toco la trompeta.”
+El músico
+Jim Culver
+4 hojas de Primigenio
+0
+1
+2 1
+3
+2 4
+2
+1
+1 1
+— —
+{
+15
+Sectarios
+Preparacio´n
+Mazo de Mitos
+Etapa I:
+Etapa II:
+Etapa III:
+Coloca 1 fi cha de Arcano
+en la casilla verde del
+medidor de Augurio.
+Después de resolver la
+prueb a de {, pierde 1 punto de Salud y derrota
+a este Monstruo.
+Azathoth
+El Sultán Demoníaco
+• Cuando el Augurio avanza a
+la casilla verde del medidor de
+Augurio, haz avanzar la Perdición
+1 casilla por cada ficha de Arcano
+que haya en la casilla verde.
+• Cuando se hayan resuelto 3 Misterios,
+los investigadores ganan la partida.
+• Cuando Azathoth despierte, da la vuelta a esta hoja y resuelve el efecto
+“¡El mundo es devorado!” del dorso.
+El Dios Idiota se sienta en el centro
+de todas las cosas extendiendo muerte y locura. Su semilla desciende
+desde las estrellas, amenazando con
+partir el mundo por la mitad.
+1 tablero de juego
+Mejorar tu |
+San FranciSco Obtener Hechizos Ensalmo
+arkham
+Obtener Hechizos Ritual BuenoS aireS
+Generar f chas de Pista
+LondreS
+Mejorar tu ]
+eStamBuL
+Mejorar tu {
+roma
+eL corazón de
+ÁFrica
+LaS pirÁmideS
+eL himaLaya
+tunguSka
+B Leyenda A
+B Reserva A
+B Medidor de Perdición A
+Rutas
+Tren Ciudad
+Inexplorada Naturaleza
+Barco Mar
+Casillas
+B Medidor de Augurio A
+Servicio
+Cuando realices una acción
+de adquirir Apoyos, puedes
+obtener un Estado Deuda para
+añadir inmediatamente 2 éxitos
+al resultado de la prueba.
+Préstamo del banco
+Mejorar tu [
+ShanghÁi
+Mejorar tu }
+Sídney
+Derrotar Monstruos
+tokio
+antÁrtida
+eL amazonaS
+1 4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+2
+3
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+0
+1
+Cómo usar esta guía
+de referenCia
+Este documento está pensado como referencia para todas las consultas sobre reglas a las que no responda el reglamento principal. A diferencia de
+éste, la guía de referencia no enseña a los jugadores cómo jugar al juego. Los
+jugadores deberían leer el reglamento completo en primer lugar, para luego
+usar esta guía de referencia cuando lo necesiten al jugar.
+Esta guía tiene 5 secciones principales:
+Glosario......................................... páGinas 2–12
+La mayoría de este documento es el glosario, el cual contiene aclaraciones a las reglas detalladas en orden alfabético por tema.
+preGuntas frecuentes .......................páGina 12
+Esta sección responde algunas de las preguntas más frecuentes.
+capacidades de los investiGadores ....páGina 13
+Esta sección contiene aclaraciones detalladas de las capacidades de
+los investigadores.
+reGlas opcionales ..............................páGina 14
+Aquí se incluyen opciones para ajustar la dificultad del juego y la puntuación al final de la partida.
+Índice ...................................................páGina 15
+Esta sección contiene una lista exhaustiva de temas y números de página
+que los jugadores podrían necesitar consultar a lo largo de la partida.
+referencia rápida .............................. páGina 16
+El dorso de esta guía indica las fases de la partida de forma sencilla para
+su consulta.
+!
+Alto!
+Lee el reglamento antes de leer este documento. Tras leer
+el reglamento, los jugadores están listos para jugar su primera
+partida. A medida que surjan preguntas durante la partida,
+los jugadores deberían consultar esta guía en lugar del
+reglamento.
+Las regLas de oro
+Esta guía de referencia es la fuente definitiva de información
+sobre reglas. Si alguna parte de esta guía contradice al
+reglamento, la guía de referencia prevalece.
+Los efectos que indiquen los componentes (como las cartas) a
+veces contradicen la información del reglamento o de la guía de
+referencia. En esta situación, el efecto del componente prevalece.
+Si un efecto emplea la fórmula “no puede”, dicho efecto es
+absoluto.
+GUÍA DE REFERENCIA
+8 de Europa
+12 hojas de Investigador con sus correspondientes fi chas y soportes de plástico
+1 guía de referencia
+122 cartas de Encuentro
+(21 amarillas, 18 verdes (4 dorsos, 4 de cada)
+y 12 azules)
+14 cartas de
+Artefacto
+Deuda
+TRATO – COMÚN
+Acción local: Realiza una
+prueba de ]. Si superas la
+prueba, descarta esta carta.
+@: Unos hombres han venido
+a cobrar tu deuda. Dale la
+vuelta a esta carta.
+Estado
+RITUAL
+Acción: Elige un investigador que esté en tu casilla y que no tenga
+el Estado Bendecido. Realiza una
+prueba de [ –1. Si superas la prueba, el investigador elegido
+obtiene el Estado Bendecido.
+A continuación, dale la
+vuelta a esta carta.
+Bendición de Isis
+Hechizo
+Acción: Elige un investigador que
+36 cartas de Estado 20 cartas de Hechizo
+40 cartas de Apoyo
+2
+1 1
+1
+Referencia de iconos
+Generar Pistas
+Número de jugadores
+Oleada de Montruos
+Generar Portales
+4 cartas de Referencia
+1 fi cha de Perdición
+43 fi chas de
+Monstruo
+1 fi cha de Augurio
+36 fi chas de Pista 20 fi chas de Arcano
+30 fi chas
+de Mejora
+(6 por cada habilidad)
+20 fi chas de
+Billete de viaje
+(8 de tren,
+12 de barco)
+4 dados
+78 fi chas de Salud y
+de Cordura
+30 de “1 de Salud”
+12 de “3 de Salud”
+24 de “1 de Cordura”
+12 de “3 de Cordura”
+34 normales, 9 épicos
+9 fi chas de Portal
+1 fi cha de
+Expedición activa 4 fi chas de Rumor
+1 fi cha de Misterio
+1 fi cha de
+Investigador jefe
+1 fi cha de Perdición
+de Mejora
+(6 por cada habilidad)
+Billete de viaje
+(8 de tren,
+4 fi chas de Rumor
+1 fi cha de Misterio
+1 fi cha de Augurio
+Investigador jefe
+30 de “1 de Salud”
+78 fi chas de Salud y
+de Cordura
+9 fi chas de Portal
+Sectario
+34 normales, 9 épicos
+Cthulhu
+20 fi chas de Arcano
+Expedición activa
+36 fi chas de Pista
+
+4
+PREPARACIÓN
+Antes de jugar una partida, realiza los siguientes pasos en orden.
+El diagrama de preparación de la página 5 muestra un ejemplo de
+estos pasos.
+1. COLOCAR EL TABLERO DE JUEGO
+Despliega el tablero de juego y colócalo en el centro de la zona de
+juego al alcance de todos los jugadores.
+2. ORGANIZAR LAS FICHAS
+Organiza las siguientes fi chas como se indica a continuación:
+A. Crea el montón de Portales mezclando las nueve fi chas de Portal
+y colocándolas boca abajo (con el lado común boca arriba) en
+un montón al alcance de todos los jugadores.
+B. Crea la reserva de Pistas mezclando las fi chas de Pista boca abajo
+(con el lado común boca arriba) y colocándolas en un montón
+al alcance de todos los jugadores.
+C. Crea la reserva general de fi chas cogiendo todas las fi chas de
+Salud, Cordura, Mejora, Billete de viaje, Arcano, Misterio
+y Rumor y colocándolas en montones al alcance de todos los
+jugadores.
+3. ELEGIR Y COLOCAR LOS INVESTIGADORES
+Los jugadores decidirán qué jugador recibe la fi cha de Investigador
+jefe. Si no llegan a un acuerdo, los jugadores asignarán esta fi cha
+a un jugador aleatorio por el método que prefi eran (por ejemplo,
+tirando un dado).
+Comenzando por el investigador jefe y siguiendo en el sentido de las
+agujas del reloj, cada jugador elige un investigador. Coge la hoja de
+Investigador correspondiente y luego coloca la fi cha de Investigador
+correspondiente en la casilla del tablero de juego indicada en el dorso de su hoja de Investigador.
+4. RECIBIR SALUD, CORDURA Y
+PERTENENCIAS INICIALES
+Cada investigador recibe las pertenencias iniciales indicadas en el
+dorso de su hoja de Investigador (ver imagen anterior). Obtiene
+cualquier Apoyo o Hechizo indicado cogiendo la carta correspondiente de la caja del juego.
+A continuación coge una cantidad de fi chas de Salud y de Cordura
+igual a la Salud y Cordura máximas de su investigador indicadas en
+el anverso de su hoja de Investigador (ver “Salud y Cordura” en la
+página 14). Coloca estas fi chas junto a su hoja de Investigador.
+5. DETERMINAR EL PRIMIGENIO
+Como grupo, los jugadores eligen una de
+las hojas de Primigenio. Cada Primigenio
+proporciona una experiencia de juego distinta. Para su primera partida se recomienda que los jugadores elijan a “Azathoth”, pues es el Primigenio más
+sencillo de jugar. Coloca la hoja elegida boca arriba (con el valor de
+Perdición en la esquina superior izquierda) junto al tablero de juego
+y resuelve cualquier efecto de preparación de la hoja.
+6. CREAR RESERVA DE MONSTRUOS
+Coge todas las fi chas de Monstruo no épico y colócalas en un recipiente opaco como un cuenco o taza o la tapa de la caja del juego
+(no se muestra en el diagrama de preparación). Luego agita este recipiente para mezclar las fi chas de Monstruos.
+No coloques las fi chas de Monstruo épico en la reserva de
+Monstruos.
+Las fi chas de Monstruo épico se distinguen por su color rojo y su esquina inferior izquierda cortada (ver “Monstruos épicos” en la página 15).
+7. SEPARAR Y COLOCAR LOS MAZOS
+Coge todas las cartas de Encuentro de Investigación, de Encuentro
+Especial y de Misterio que no se correspondan con el Primigenio
+elegido y devuélvelas a la caja del juego (ver cuadro a continuación).
+Estas cartas no se usarán durante esta partida.
+Luego separa todas las demás cartas como se indica a continuación
+y colócalas junto al tablero de juego.
+^ Baraja todas las cartas de Encuentro de Expedición y forma un
+solo mazo con ellas, sin importar sus dorsos.
+^ Baraja las cartas de Hechizo y las cartas de Estado y crea sus respectivos mazos. Coloca estos mazos boca arriba, con el nombre
+e ilustración de la primera carta visibles.
+^ Deja aparte las cartas de Mitos para el paso 8. Luego separa
+todas las demás cartas en mazos según el dorso de las cartas y
+baraja cada mazo.
+UBICACIÓN INICIAL
+OBJETOS QUE DECLARAR NOMBRE
+1 Apoyo Red de pesca
+Sídney, Australia
+Silas Marsh
+Casilla inicial
+Pertenencias iniciales
+UBICACIÓN INICIAL
+OBJETOS QUE DECLARAR
+1 Apoyo Red de pesca
+Sídney, Australia
+Casilla inicial
+Pertenencias iniciales OBJETOS QUE DECLARAR
+Sídney, Australia
+Pertenencias iniciales
+Dorso de la hoja de Investigador
+Preparacio´n
+Mazo de Mitos
+Coloca 1 fi cha de Arcano
+en la casilla verde del
+medidor de Augurio.
+Efecto de preparación
+de Primigenio
+CARTAS ESPECÍFICAS DE PRIMIGENIO
+Cada Primigenio tiene dos mazos de cartas únicos: el mazo
+de Misterio y el mazo de Investigación. Algunos Primigenios
+tienen un mazo de Encuentro Especial al que se alude en su
+efecto de preparación. Cada carta puede identifi carse por una
+ilustración de su Primigenio correspondiente en el dorso.
+Cartas de Misterio
+de Cthulhu
+Cartas de Encuentro de
+Investigación de Cthulhu
+Cartas de Encuentro
+Especial de Cthulhu
+
+5
+8. CREAR EL MAZO DE MITOS
+Sigue las instrucciones de la parte inferior de la hoja de Primigenio
+para crear el mazo de Mitos. Consulta el diagrama “Crear el mazo
+de Mitos” en la página 6.
+9. RESOLVER EFECTOS INICIALES
+Resuelve los siguientes efectos para completar la preparación:
+A. Coloca la carta de Referencia que se corresponda con el número de jugadores junto al mazo de
+Mitos. Los jugadores usan la carta de Referencia al resolver efectos de Mitos. Devuelve todas
+las demás cartas de Referencia a la caja.
+B. Coloca la fi cha de Perdición en la casilla del
+medidor de Perdición indicada en la esquina
+superior izquierda de la hoja de Primigenio. Por
+ejemplo, la hoja de Azathoth muestra que la fi -
+cha de Perdición comienza en la casilla “15” del
+medidor de Perdición.
+C. Coloca la fi cha de Augurio en la casilla verde (cometa) del medidor de Augurio.
+D. Coloca las cuatro primeras cartas del mazo de Apoyo boca arriba
+en los cuatro espacios de la reserva (en la parte inferior izquierda
+del tablero de juego).
+E. Genera la cantidad de Portales indicada en la hoja de Referencia.
+Para generar un Portal, coge la primera fi cha de Portal del montón de Portales y colócala boca arriba en la casilla indicada en la
+fi cha de Portal. Luego roba una fi cha de Monstruo aleatoria de
+la reserva de Monstruos y colócala en la misma casilla.
+F. Coloca la fi cha de Expedición activa en la casilla que se corresponda con la ilustración del dorso de la primera carta del mazo
+de Encuentros de Expedición.
+G. Genera la cantidad de Pistas indicada en la hoja de Referencia.
+Para generar una Pista, coge una fi cha de Pista aleatoria de la
+reserva de Pistas y colócala boca abajo en la casilla indicada en el
+anverso de la fi cha de Pista.
+H. Por último, roba una carta de Misterio y colócala junto a la hoja
+de Primigenio. Luego resuelve cualquier efecto “Cuando esta
+carta entra en juego” de dicha carta.
+Número de jugadores
+Icono de nº
+de jugadores
+15
+Perdición
+inicial
+PREPARACIÓN DE UNA PARTIDA DE DOS JUGADORES
+4 4
+1 3 3 3 3
+4 8 Saber Influencia Observación Fuerza Voluntad
+NOMBRE
+PROFESIÓN
+RASGOS DISTINTIVOS
+ÍNDICE FISIOLÓGICO ÍNDICE PSICOLÓGICO
+• Acción: Muévete 1 casilla por una ruta de Barco y a continuación realiza 1 acción adicional.
+• Si estás en una casilla de Mar, los investigadores que estén en tu casilla tiran 1 dado adicional al
+resolver pruebas.
+“Dejad los miedos en el puerto, chicos. No voy a llevarlos en mi bodega. ¡Tenemos viento! ¡A toda vela!”
+El marinero
+Silas Marsh
+2 2 2 4 3
+6 6 Saber Influencia Observación Fuerza Voluntad
+NOMBRE
+PROFESIÓN
+RASGOS DISTINTIVOS
+ÍNDICE FISIOLÓGICO ÍNDICE PSICOLÓGICO
+• Acción: Gasta cualquier cantidad de Salud o Cordura, a continuación recupera una cantidad igual de Salud o Cordura.
+• Cuando mejores una habilidad, puedes mejorar esa habilidad otra vez inmediatamente.
+“Llevo toda la vida preparándome para enfrentarme a este mal. Mi concentración debe ser absoluta.”
+La artista marcial
+Lily Chen
+1
+BARATIJA
+Una vez por ronda, puedes
+volver a tirar 1 dado cuando
+resuelvas una prueba.
+1 Pata de conejo
+OBJETO
+Obtén +1 { durante
+Encuentros de Combate.
+2 Amuleto protector
+OBJETO
+Puedes volver a tirar
+1 dado cuando resuelvas
+una prueba } durante un
+Encuentro de Combate.
+Reduce en 1 (hasta un mínimo
+de 1) el daño de los Monstruos
+con los que resuelvas encuentros.
+Red de pesca
+3
+Mejorar tu |
+San FranciSco Obtener Hechizos Ensalmo
+arkham
+Obtener Hechizos Ritual BuenoS aireS
+Generar f chas de Pista
+LondreS
+Mejorar tu ]
+eStamBuL
+Mejorar tu {
+roma
+eL corazón de
+ÁFrica
+LaS pirÁmideS
+eL himaLaya
+tunguSka
+B Leyenda A
+B Reserva A
+B Medidor de Perdición A
+Rutas
+Tren Ciudad
+Inexplorada Naturaleza
+Barco Mar
+Casillas
+B Medidor de Augurio A
+Servicio
+Cuando realices una acción
+de adquirir Apoyos, puedes
+obtener un Estado Deuda para
+añadir inmediatamente 2 éxitos al resultado de la prueba.
+Préstamo del banco
+Mejorar tu [
+ShanghÁi
+Mejorar tu }
+Sídney
+Derrotar Monstruos
+tokio
+antÁrtida
+eL amazonaS
+1 4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+2
+3
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
+0 2
+ALIADO
+Obtén +1 [.
+Puedes volver a tirar
+1 dado cuando resuelvas
+una prueba de [.
+Erudito arcano
+2
+1 1
+1
+Referencia de iconos
+Generar Pistas
+Número de jugadores
+Oleada de Montruos
+Generar Portales
+2
+OBJETO – ARMA, MÁGICO
+Obtén +1 { y +2 } durante Encuentros de Combate.
+Daga espiritual 4
+SERVICIO
+Cuando obtengas esta carta, elige
+inmediatamente una casilla. Cada
+Monstruo que esté en la casilla
+elegida pierde 4 puntos de Salud.
+A continuación,
+descarta esta carta.
+Cuarentena de
+la Agencia 1
+OBJETO – ARMA
+Obtén +2 } durante Encuentros de Combate.
+Revólver del .38
+19 18 17 16
+4
+Mejorar tu |
+San FranciSco
+6
+Rutas Casillas
+5
+La Luna Némesis aparece en el cielo
+nocturno, visible para todo el mundo y
+anunciando un desastre inminente.
+Augurio de devastación
+Cuando un investigador cierre un Portal que se
+corresponda con el Augurio actual, puede gastar 1 Pista
+para colocar 1 fi cha de Arcano sobre esta carta.
+Al fi nal de la fase de Mitos, si hay una cantidad de fi chas de Arcano
+sobre esta carta igual a la mitad del ~, resuelve este Misterio.
+8
+1
+1
+Referencia de iconos
+Oleada de Montruos
+Generar Portales
+9A
+Cuando un investigador cierre un Portal que se
+corresponda con el Augurio actual, puede gastar 1 Pista para colocar 1 fi cha de Arcano sobre esta carta.
+Al fi nal de la fase de Mitos, si hay una cantidad de fi chas de Arcano , resuelve este Misterio.
+9H
+1
+9E
+20 19 1
+Deuda
+TRATO – COMÚN
+Acción local: Realiza una
+prueba de ]. Si superas la
+prueba, descarta esta carta.
+@: Unos hombres han venido
+a cobrar tu deuda. Dale la
+vuelta a esta carta.
+Estado
+RITUAL
+Acción: Elige un investigador que
+esté en tu casilla y que no tenga
+el Estado Bendecido. Realiza una
+prueba de [ –1. Si superas la prueba, el investigador elegido
+obtiene el Estado Bendecido.
+A continuación, dale la
+vuelta a esta carta.
+Bendición de Isis
+Hechizo
+Acción: Elige un investigador que
+15
+9
+13 12 11
+9
+9B
+b H hi E l
+arkham
+ARKHAM
+Sectario
+18
+9F
+7
+2B
+2C
+Mejorar tu [
+ShanghÁi
+Derrota
+to
+r M
+kio
+onstru
+kio
+uos
+3
+7
+dor de A
+2 1 0
+B Medid
+9 o
+C
+0
+1
+2 1
+3
+2 4
+2
+1
+1 1
+— —
+{
+15
+Sectarios
+Preparacio´n
+Mazo de Mitos
+Etapa I:
+Etapa II:
+Etapa III:
+Coloca 1 fi cha de Arcano
+en la casilla verde del
+medidor de Augurio.
+Después de resolver la
+prueb a de {, pierde
+1 punto de Salud y derrota
+a este Monstruo.
+Azathoth
+El Sultán Demoníaco
+• Cuando el Augurio avanza a
+la casilla verde del medidor de
+Augurio, haz avanzar la Perdición
+1 casilla por cada ficha de Arcano
+que haya en la casilla verde.
+• Cuando se hayan resuelto 3 Misterios,
+los investigadores ganan la partida.
+• Cuando Azathoth despierte, da la
+vuelta a esta hoja y resuelve el efecto
+“¡El mundo es devorado!” del dorso.
+El Dios Idiota se sienta en el centro
+de todas las cosas extendiendo
+muerte y locura. Su semilla desciende
+desde las estrellas, amenazando con
+partir el mundo por la mitad.
+Azathoth
+El Sultán Demoníaco
+5
+2A
+B Leyenda A
+Rutas Casillas
+2
+9G
+2
+OBJETO – ARMA, MÁGICO
+Obtén +1 { y +2 } durante Encuentros de Combate.
+Daga espiritual 4
+SERVICIO
+Cuando obtengas esta carta, elige
+inmediatamente una casilla. Cada
+Monstruo que esté en la casilla
+Cuarentena de
+la Agencia 1
+OBJETO – ARMA
+Obtén +2 } durante Encuentros de Combate.
+Revólver del .38
+Monstruo que esté en la casilla
+elegida pierde 4 puntos de Salud.
+A continuación,
+descarta esta carta.
+0 Préstamo del banco 2
+ALIADO
+Obtén +1 [.
+Puedes volver a tirar
+Erudito arcano
+1 dado cuando resuelvas
+una prueba de
+0 Préstamo del banco
+de adquirir Apoyos, puedes
+obtener un Estado Deuda para
+añadir inmediatamente 2 éxitos
+al resultado de la prueba.
+Servicio
+Cuando realices una acción
+de adquirir Apoyos, puedes
+obtener un Estado Deuda para
+añadir inmediatamente 2 éxitos
+al resultado de la prueba. 9D
+
+6
+OBJETIVO DEL JUEGO
+Eldritch Horror es un juego cooperativo. Todos los jugadores están
+en el mismo equipo y ganan o pierden la partida juntos. El objetivo
+de los investigadores es desterrar el Primigenio de este mundo resolviendo Misterios (ver página 16).
+Además, los investigadores deben enfrentarse a las numerosas amenazas y crisis de todo el mundo. Éstas aparecen en forma de Portales
+(que generan Monstruos y pueden despertar al Primigenio) y cartas
+de Mitos RUMOR (que pueden dañar a los investigadores y terminar
+la partida prematuramente).
+Consulta “Ganar la partida” en la página 11 para más detalles.
+CÓMO JUGAR
+Eldritch Horror se juega a lo largo de varias rondas de juego. Cada
+ronda está formada por tres fases que se resuelven en el siguiente
+orden:
+1. Fase de Acción: Los investigadores realizan acciones para moverse por el tablero de juego y prepararse para las tareas que les
+esperan.
+2. Fase de Encuentros: Los investigadores combaten monstruos o
+resuelven cartas de Encuentro en su casilla actual.
+3. Fase de Mitos: El investigador jefe resuelve una carta de Mitos.
+Estas cartas a menudo hacen avanzar la fi cha de Perdición, generan Portales o crean otros desafíos que los investigadores tendrán
+que superar.
+Al comienzo de cada fase de Mitos, el investigador jefe puede pasar
+la fi cha de Investigador jefe a cualquier jugador que elija. A continuación, los jugadores comienzan una nueva ronda de juego con
+la fase de Acción. Los jugadores continúan resolviendo rondas de
+juego hasta que ganen o pierdan la partida.
+El dorso de la guía de referencia contiene una referencia rápida de
+estas fases.
+CREAR EL MAZO DE MITOS
+Durante el paso 8 de la preparación, los jugadores crean el
+mazo de Mitos. Este mazo se crea de forma distinta en cada
+partida, según las instrucciones de la hoja de Primigenio. Para
+crear este mazo, realiza los siguientes pasos:
+1. Separa todas las cartas de Mitos en tres montones según
+el color del anverso de las cartas (verde, amarillo y azul).
+Baraja cada montón por separado y colócalos boca abajo.
+2. Crea la etapa I del mazo de Mitos cogiendo tantas cartas
+aleatorias de los colores mostrados como se indica en la
+parte inferior de la hoja de Primigenio y barajándolas.
+No mires las cartas.
+3. Luego crea la etapa II del mazo de Mitos siguiendo los
+mismos pasos que en la etapa I y colócala bajo el mazo de
+la etapa I.
+4. Por último, crea la etapa III del mazo de Mitos y colócala
+bajo el mazo de la etapa II para crear un único mazo de
+Mitos. Una vez creado, no barajes el mazo. Coloca el mazo
+junto a la hoja de Primigenio. Devuelve todas las cartas de
+Mitos restantes a la caja del juego sin mirarlas.
+0
+1
+2 1
+3
+2 4
+2
+1
+Mazo de Mitos
+Etapa I:
+Etapa II:
+Etapa III:
+medidor de Augurio.
+Composición del mazo de Mitos
+Montón en la hoja de Primigenio verde
+Montón
+amarillo
+Montón
+azul
+You hear it again and again on the news. Every day the world takes another step toward utter annihilation. You ask yourself, how much would you sacrifice to prevent that disaster? Even if you could only grant humanity one more day of existence, could you honestly say that the price was too high?
+Desperate Times
+EvEnt
+Doom advances by 2 unless the Lead
+Investigator gains a Dark Pact Condition.
+You hear it again and again on the
+An article on the back page of the newspaper catches your attention. An unexplained attack on a remote outpost left no survivors. You’ve read about two other similar attacks happening in the same region. You can see that the forgotten corners of the globe are growing more dangerous.
+Ancient Guardians
+EvEnt
+Spawn 2 Monsters on the Active Expedition space.
+An article on the back page of the newspaper
+Un relámpago cruza el cielo. Tienes un agobiante temor de que todo el bien que has logrado va a ser deshecho.
+Un oscuro poder
+EVENTO
+Todos los Monstruos recuperan toda la Salud.
+A continuación, cada investigador resuelve
+inmediatamente un encuentro con cada Monstruo
+que haya en su casilla en el orden de su elección.
+Un relámpago cruza el cielo. Tienes un
+Piece by piece, you are falling apart. It’s getting harder to successfully negotiate simple human interactions. Your wounds won’t stop bleeding, and your hands won’t stop shaking.
+From Bad to Worse
+EvEnt
+Each investigator loses 1 Health for each Injury Condition he has, loses 1 Sanity for each MadnEss Condition he has, and discards 1 Clue
+for each dEal Condition he has.
+Piece by piece, you are falling apart. It’s
+An article on the back page of the newspaper catches your attention. An unexplained attack on a remote outpost left no survivors. You’ve read about two other similar attacks happening in the same region. You can see that the forgotten corners of the globe are growing more dangerous.
+Ancient Guardians
+EvEnt
+Spawn 2 Monsters on the Active Expedition space.
+The soldiers refuse to explain why you must pass through this checkpoint, and simply asking makes you more suspicious in their eyes.
+Patrolling the Border
+OngOing
+When this card enters play, the Lead Investigator
+chooses 1 investigator to become Delayed.
+@: Each investigator on a City space tests |. If he fails, he becomes Delayed and gains a Detained Condition.
+Then discard this card.
+When this card enters play, the Lead Investigator
+@
+The soldiers refuse to explain why you must
+According to the police report, several individuals entered the warehouse in the middle of the night. They performed some sort of ritual which culminated in their death. What you know that the police don’t is that, afterward, something inhuman left that warehouse.
+Calling the Elder Things
+EvEnt
+Spawn 1 Monster on each space
+that contains a Cultist Monster.
+According to the police report, several
+The man in the suit slides the contract across the desk. “We’ve spoken to the police and the customs agents, and all of the necessary payments have been made. If you’ll just sign this, indicating that you understand your obligations, you can be on your way.” His assistant places a pen in your hand.
+Legitimate Banking
+EvEnt
+The Lead Investigator gains a Debt Condition.
+If the Lead Investigator already had a Debt
+Condition, he resolves the reckoning effect on that card, treating all die rolls as 1’s.
+The man in the suit slides the contract across
+According to the police report, several individuals entered the warehouse in the middle of the night. They performed some sort of ritual which culminated in their death. What you know that the police don’t is that, afterward, something inhuman left that warehouse.
+Calling the Elder Things
+EvEnt
+Spawn 1 Monster on each space
+that contains a Cultist Monster.
+According to the police report, several
+You cannot believe that this gibbering lunatic was once the smiling, lucid lawyer you spoke to this morning. “Collapsed,” his trembling hands indicated empty air. “The worlds collided, and the door collapsed!” He abruptly pulls himself off the floor and looks out the small window of his cell. “But so too will they pull. They will rip and tear, and a new door will open elsewhere.”
+Dimensional Instability
+EvEnt
+Discard each Gate that corresponds to the current Omen and advance Doom by 1 for each Gate discarded.
+Your contact in the capital is hesitant to speak about those called “The Watches.” He says they work for a number of different governments, but answer to some other authority.
+Lost Knowledge
+OngOing — RumOR
+When this card enters play, spawn the Tick Tock
+Men Epic Monster on space 21. When it is defeated, solve this RumOR.
+When there are no Eldritch tokens on this card,
+discard all Clues on the game board, then each investigator discards all Clues.
+@: Discard 1 Eldritch token from this card.
+3
+When this card enters play, spawn the Tick Tock
+Your contact in the capital is hesitant to speak
+The weather grows worse. Snow and ice cover cities that have never seen such weather before in their history
+The Wind-Walker
+OngOing — RumOR
+When this card enters play, spawn the WindWalker Epic Monster on space 4. When it is defeated, solve this RumOR.
+When there are no Eldritch tokens on this card,
+each investigator becomes Delayed and loses 6 Health, then solve this RumOR.
+@: Discard 1 Eldritch token from this card.
+4
+The weather grows worse. Snow and ice
+Some dark magic has taken hold in you. Friends have started ignoring you as if you weren’t even in the room. It’s getting worse, and you fear that soon you will be invisible to every other person on Earth!
+Faded From Society
+OngOing — RumOR
+As an encounter, an investigator on space 16 may
+attempt to research similar occurrences from the
+past (|). If he passes, he learns about a Russian
+folktale where children go missing; he may spend Clues equal to half ~ to solve this RumOR.
+@: Search the Asset deck, discard pile, and reserve for all Assets with value equal to or greater than the
+number of Eldritch tokens on this card and return
+them to the game box. Then discard 1 Eldritch
+token from this card. If there are no Eldritch tokens on this card, solve this RumOR.
+Space 16 Space 16 4
+You’ve never seen the Aurora Borealis flashing with such intensity. Even south of the arctic circle, the air feels alive with alien energies that cannot be dispelled.
+Mysterious Lights
+OngOing — RumOR
+Gates cannot be closed.
+As an encounter, an investigator on space 13
+may fly a plane over the arctic ice to scout for
+the source of these unusually intense northern
+lights (|). If he passes, he catches sight of an unoccupied mi-go outpost and attempts to turn
+off their bizarre devices; he may spend Clues
+equal to half ~ to solve this RumOR.
+Space 13
+You’ve never seen the Aurora Borealis flashing
+Space 13
+A dozen unpleasant-looking strangers have settled into Panama with a large collection of astronomical reference books. There is something unique about this place and time that allows them to rip apart the fabric of reality.
+Stars Aligned
+OngOing — RumOR
+As an encounter, an investigator on space 7 may
+attempt to find these strangers based on his
+observations of the stars (|). If he passes, he
+convinces la policía to remove these strangers;
+he may spend Clues equal to half ~ to solve this RumOR.
+@: Advance the Omen by 1.
+Space 7
+The Lead Investigator gains a Debt Condition.
+Condition, he resolves the reckoning effect on
+You cannot believe that this gibbering lunatic was once the smiling, lucid lawyer you spoke to this morning. “Collapsed,” his trembling hands indicated empty air. “The worlds collided, and the door collapsed!” He abruptly pulls himself off the floor and looks out the small window of his cell. “But so too will they pull. They will rip and tear, and a new door will open elsewhere.”
+Dimensional Instability
+Discard each Gate that corresponds to the current Omen and advance Doom by 1 for each Gate discarded.
+You cannot believe that this gibbering lunatic
+inmediatamente un encuentro con cada Monstruo
+que haya en su casilla en el orden de su elección.
+Injury
+M
+An article on the back page of the newspaper catches your attention. An unexplained attack on a remote outpost left no survivors. You’ve read about two other similar attacks happening in the same region. You can see that the forgotten corners of the globe are growing more dangerous.
+Ancient Guardians
+EvEnt
+Spawn 2 Monsters on the Active
+Expedition space.
+An article on the back page of the newspaper When this card enters play, spawn the Tick Tock
+When there are no Eldritch tokens on this card,
+discard all Clues on the game board, then each
+When this card enters play, spawn the WindWhen there are no Eldritch tokens on this card,
+@
+for all Assets with value equal to or greater than the
+number of Eldritch tokens on this card and return
+As an encounter, an investigator on space 16 may
+attempt to research similar occurrences from the
+past (
+folktale where children go missing; he may spend
+@
+for all Assets with value equal to or greater than the
+number of Eldritch tokens on this card and return
+them to the game box. Then discard 1 Eldritch
+may fly a plane over the arctic ice to scout for
+the source of these unusually intense northern
+lights (
+unoccupied mi-go outpost and attempts to turn
+A dozen unpleasant-looking strangers have settled into Panama with a large collection of astronomical reference books. There is something unique about this place and time that allows them to rip apart the fabric of reality.
+Stars Aligned
+OngOing — RumOR
+As an encounter, an investigator on space 7 may
+attempt to find these strangers based on his
+observations of the stars (|). If he passes, he
+convinces la policía to remove these strangers;
+he may spend Clues equal to half ~ to solve this RumOR.
+@: Advance the Omen by 1.
+A dozen unpleasant-looking strangers have
+Space 7
+Discard each Gate that corresponds to the current Omen and advance Doom by 1 for each Gate discarded.
+1
+Etapa I
+1 verde, 2 amarillas, 1 azul
+Etapa II
+2 verdes, 3 amarillas, 1 azul
+Etapa III
+2 verdes, 4 amarillas
+2 1 verde, 2 amarillas, 1 azul
+3
+4 2 verdes, 4 amarillas
+
+7
+FASE 1: FASE DE ACCIÓN
+Durante esta fase, cada investigador resuelve un máximo de dos acciones. Realizar acciones es el principal método con el que los jugadores se mueven por el tablero de juego y adquieren cartas y fi chas
+benefi ciosas como cartas de Apoyo y fi chas de Billetes de viaje.
+Esta fase comienza con el investigador jefe. Realiza las dos acciones
+que elija y a continuación el investigador que tenga a su izquierda
+realiza dos acciones. Esto se repite hasta que cada investigador haya
+realizado sus acciones.
+Durante la fase de Acción, los investigadores pueden realizar las siguientes acciones. Las reglas detalladas de estas acciones se explican
+en las próximas secciones.
+^ Viajar
+^ Descansar
+^ Intercambiar
+^ Prepararse para viajar
+^ Adquirir Apoyos
+^ Acciones de componente
+Importante: Cada investigador puede realizar cada acción sólo una
+vez por ronda. Por ejemplo, un investigador no puede realizar dos
+acciones de descansar.
+ACCIÓN DE VIAJAR
+El investigador mueve su fi cha de Investigador a cualquier casilla
+adyacente (ver “¿Qué son las casillas y las rutas?” en el cuadro de
+esta página).
+Después de moverse, el investigador puede gastar cualquier cantidad
+de billetes de viaje para moverse una casilla adicional por cada billete
+gastado. Los investigadores sólo pueden gastar billetes de tren para
+moverse por rutas de Tren, y billetes de barco para moverse por rutas
+de Barco (ver “¿Qué son las casillas y las rutas?” en el cuadro de esta
+página). Consulta el diagrama “Ejemplo de fase de Acción” en la
+página 8 para ver un ejemplo de una acción de viajar.
+ACCIÓN DE DESCANSAR
+El investigador recupera 1 punto de Salud y 1 punto de Cordura
+(ver “Salud y Cordura” en la página 14).
+Un investigador no puede realizar esta acción si hay un Monstruo
+en su casilla.
+ACCIÓN DE INTERCAMBIAR
+El investigador puede intercambiar pertenencias (Apoyos, Artefactos, Pistas, Hechizos y billetes de viaje) con otro investigador que
+esté en su casilla.
+ACCIÓN DE PREPARARSE PARA VIAJAR
+Si el investigador está en una casilla de Ciudad, obtiene un billete
+de viaje de su elección. El investigador no puede obtener un billete
+de tren si no hay al menos una ruta de Tren conectada a su casilla.
+De igual modo, no puede obtener un billete de barco si no hay al
+menos una ruta de Barco conectada a su casilla.
+Si en algún momento un jugador tiene más de dos billetes de viaje,
+debe elegir dos para quedárselos y descartar el resto.
+?
+QUÉ SON LAS CASILLAS Y LAS RUTAS?
+Los distintos tipos de casillas y rutas aparecen en la
+“Leyenda” del tablero de juego.
+Las fi chas a menudo se colocan en las CASILLAS del tablero
+de juego. Las casillas incluyen lugares con nombre (como
+“Arkham”) y lugares con números.
+Cada casilla está conectada al menos a una casilla adyacente
+mediante una línea llamada RUTA.
+Cada ruta tiene un tipo (color) que se corresponde con un
+tipo de billete de viaje (ver “Acción de viajar”).
+Fichas de Salud Fichas de Cordura
+Billete de viaje de barco Billete de viaje de tren
+Obtener Hechizos Ensalmo
+arkham
+21
+Ejemplos de investigadores en casillas
+20
+arkham
+7
+Billete de viaje de barco
+
+8
+ACCIÓN DE ADQUIRIR APOYOS
+Si el investigador está en una casilla de Ciudad, puede intentar
+adquirir cartas de Apoyo de la reserva. Pone a prueba su Infl uencia (]) lanzando los dados y obteniendo Apoyos de su elección de
+la reserva que tengan un VALOR total igual o menor que la cantidad
+de éxitos sacados en la tirada (ver “Pruebas” en la página 12).
+Si no obtiene ninguna carta, el investigador puede descartar una
+carta de su elección de la reserva.
+Tras realizar una acción de adquirir Apoyos, roba cartas de sustitución del mazo de Apoyos para reemplazar las cartas descartadas o
+robadas.
+Un investigador no puede realizar esta acción si hay un Monstruo
+en su casilla.
+ACCIONES DE COMPONENTES
+El investigador puede realizar una acción indicada en uno de sus
+componentes (como una carta o su hoja de Investigador). Estas acciones vienen precedidas por la palabra “Acción” en negrita.
+Aunque un investigador no puede realizar una acción de componente de un mismo componente más de una vez por ronda, puede
+realizar acciones de componente de distintos componentes.
+Ejemplo: Lily Chen usa la capacidad de acción impresa en su hoja de
+Investigador. A continuación, con su segunda acción, podría realizar
+una acción impresa en una carta de Apoyo que tenga.
+Un investigador también puede realizar algunas acciones usando
+componentes de otros investigadores que estén en su casilla. Estas
+acciones vienen precedidas por “Acción local” en negrita.
+Una carta de Apoyo
+4
+SERVICIO
+Cuando obtengas esta carta, elige
+inmediatamente una casilla. Cada
+Monstruo que esté en la casilla
+elegida pierde 4 puntos de Salud.
+A continuación,
+descarta esta carta.
+Cuarentena de 4 la Agencia
+Cuando obtengas esta carta, elige
+inmediatamente una casilla. Cada
+Monstruo que esté en la casilla
+elegida pierde 4 puntos de Salud.
+Cuarentena de
+la Agencia
+ERVICIO
+Cuando obtengas esta carta, elige
+inmediatamente una casilla. Cada
+Monstruo que esté en la casilla
+elegida pierde 4 puntos de Salud.
+Valor
+Efecto
+Nombre
+Rasgo
+Una acción en una hoja de Investigador.
+NOMBRE
+PROFESIÓN
+RASGOS DISTINTIVOS
+• Acción: Gasta cualquier cantidad de Salud o
+Cordura, a continuación recupera una cantidad
+igual de Salud o Cordura.
+• Cuando mejores una habilidad, puedes mejorar
+esa habilidad otra vez inmediatamente.
+La artista marcial
+Lily Chen
+EJEMPLO DE FASE DE ACCIÓN
+1. Silas Marsh está en San Francisco al comienzo de la fase de
+Acción. Puesto que tiene la fi cha de Investigador jefe, Silas
+es el primero en resolver sus dos acciones.
+2. Para su primera acción, Silas realiza una acción de viajar. Se
+mueve de San Francisco a la casilla 5.
+3. Durante su acción de viajar, decide gastar su billete de tren
+para moverse una casilla adicional por la ruta de Tren hacia
+Arkham.
+4. Para su segunda acción, Silas decide realizar una acción de
+descansar para recuperar 1 punto de Salud y 1 de Cordura.
+Puesto que ya tiene una cantidad de fi chas de Cordura igual
+a su Cordura máxima, sólo recupera 1 punto de Salud.
+Coge 1 fi cha de 1 de Salud de la reserva de fi chas y la coloca
+junto a su hoja de Investigador.
+ Silas ha realizado sus dos acciones. El investigador que tiene
+a su izquierda puede realizar sus dos acciones a continuación.
+Mejorar tu |
+San FranciSco Obtener Hechizos Ensalmo
+arkham
+6
+8
+2 1 3 3 3 3
+4 8 Saber Influencia Observación Fuerza Voluntad
+NOMBRE
+PROFESIÓN
+RASGOS DISTINTIVOS
+ÍNDICE FISIOLÓGICO ÍNDICE PSICOLÓGICO
+• Acción: Muévete 1 casilla por una ruta de Barco y a continuación realiza 1 acción adicional.
+• Si estás en una casilla de Mar, los investigadores que estén en tu casilla tiran 1 dado adicional al
+resolver pruebas.
+“Dejad los miedos en el puerto, chicos. No voy a llevarlos en mi bodega. ¡Tenemos viento! ¡A toda vela!”
+El marinero
+Silas Marsh
+5
+4
+2
+3
+4
+1
+1
+3
+X
+1
+
+9
+FASE 2: FASE DE ENCUENTROS
+Durante esta fase, cada investigador resuelve un encuentro. Los encuentros suelen suponer leer un texto narrativo corto de una carta de
+Encuentro que puede tener efectos positivos y/o negativos.
+Esta fase comienza con el investigador jefe, quien resuelve un encuentro. A continuación, el investigador que tiene a su izquierda
+resuelve un encuentro, y eso se repite hasta que cada investigador
+haya resuelto un encuentro.
+Durante la fase de Encuentros, si un investigador está en una casilla
+que contenga uno o más Monstruos, debe resolver un solo Encuentro de Combate contra cada Monstruo que haya en esa casilla, de
+uno en uno, en el orden de su elección. Si no hay Monstruos en la
+casilla de un investigador, éste resuelve un Encuentro de Lugar o
+un Encuentro de Ficha, a su elección, de la forma descrita en las
+siguientes secciones.
+ENCUENTROS DE COMBATE
+Si un investigador está en una casilla que contenga uno o más Monstruos, debe resolver un solo Encuentro de Combate contra cada
+Monstruo que haya en esa casilla, de uno en uno, en el orden de su
+elección. Los Encuentros de Combate se describen con más detalle
+en la página 14.
+Después de que un investigador resuelva todos los Encuentros
+de Combate, si no hay Monstruos en su casilla, puede resolver
+otro encuentro.
+ENCUENTROS DE LUGAR
+El investigador roba una carta de Encuentro que coincida con la
+ilustración de su casilla o del mazo de Encuentros Generales. Resuelve el efecto correspondiente a su casilla actual y luego descarta
+la carta.
+Si hay varios tipos de cartas de Encuentro posibles para poder robar,
+el investigador elige de qué mazo robará.
+Ejemplo: Un investigador está en Arkham. Puede elegir robar una carta
+del mazo de Encuentros Generales o del mazo de Encuentros de América. Si elige robar una carta de Encuentro General, resolverá la parte
+“Ciudad” de la carta.
+El texto que hay bajo cada casilla con
+nombre del tablero de juego indica
+los efectos más comunes que aparecerán en sus cartas de Encuentro
+específi cas.
+ENCUENTROS DE FICHA
+Algunas fi chas se colocan en las casillas del tablero de juego y proporcionan opciones de encuentro adicionales para los investigadores
+de esa casilla.
+^ Las fi chas de Pista permiten a los investigadores robar y resolver
+cartas de Encuentro de Investigación.
+^ Las fi chas de Portal permiten a los investigadores robar y resolver
+cartas de Encuentro de Otros Mundos.
+^ La fi cha de Expedición activa permite a los investigadores robar
+y resolver cartas de Encuentro de Expedición.
+^ Las fi chas de Rumor permiten a los investigadores resolver el
+encuentro indicado en la carta de Mitos RUMOR que se refi era a
+esa casilla.
+^ Las fi chas de Investigador derrotado permiten a los investigadores resolver el encuentro indicado en el dorso de la hoja del
+investigador derrotado (ver “Investigadores derrotados” en la
+página 14).
+Mejorar tu {
+roma
+Los encuentros de Roma a
+menudo mejoran la Voluntad
+del investigador ({)
+Carta de
+Encuentro de
+América
+Carta de
+Encuentro de
+Europa
+Carta de
+Encuentro de
+Asia/Australia
+Carta de
+Encuentro
+General
+Carta de Encuentro
+de Investigación
+Ficha de Pista
+Carta de Encuentro
+de Otros Mundos
+Ficha de Portal
+ARKHAM
+Carta de Encuentro
+de Expedición
+Ficha de Expedición
+activa
+Una docena de extraños de aspecto inquietante se han asentado en Panamá con una enorme colección de libros de consulta sobre astronomía. Hay algo único en este lugar y tiempo que les permite desgarrar el tejido de la realidad.
+Estrellas alineadas
+ACTIVO – RUMOR
+Como encuentro, un investigador que esté
+en la casilla 7 puede intentar encontrar a
+estos extraños según sus observaciones de las
+estrellas (|). Si supera la prueba, convence a la policía de que detenga a los extraños;
+puede gastar una cantidad de Pistas igual a
+la mitad del ~ para resolver este RUMOR.
+@: Haz avanzar el Augurio 1 casilla.
+C 
+Carta de Mitos
+Rumor
+Ficha de Rumor
+Una fi cha de
+Investigador derrotado
+EN CASO DE HERIDA INCAPACITANTE O MUERTE
+EN CASO DE LOCURA U OTRAS PSICOSIS
+UBICACIÓN INICIAL
+OBJETOS QUE DECLARAR NOMBRE
+HISTORIA PERSONAL
+FIRMA
+–Estoy bien, cielo. Sírvete tú mismo.
+Lola señala con la cabeza las cosas que tiene
+por toda la habitación del hotel. Obtén
+todas sus posesiones. Por convincente que
+sea, sabes que sufre mucho dolor. Intentas
+convencerla de que vaya al hospital (]). Si superas la prueba, suspira aliviada y te
+cuenta todos los horrores con los que se
+ha encontrado; haz retirarse la Perdición 1
+casilla. Si fallas, Lola sucumbe a sus heridas
+al día siguiente de dejar la ciudad. Tanto si
+la superas como si no, descarta su fi cha de
+Investigador.
+El rastro de las cosas de Lola te lleva
+a un decrépito teatro. Obtén todas
+sus pertenencias. Está en el escenario
+retorciéndose las manos empapadas de
+sangre y recitando “¿No he de poder ver
+limpias estas manos?” Intentas dirigir su
+actuación, con la esperanza de revelar su
+personaje (]). Si superas la prueba,
+te habla del Rey Andrajoso, señalando
+una cabra que ha matado; haz retirarse la
+Perdición 1 casilla. Si fallas, el diálogo de
+Lola degenera hasta ser un galimatías. Tanto
+si la superas como si no, descarta su fi cha de
+Investigador.
+Lola ha colgado el cartel de no hay billetes interpretando
+papeles dramáticos en teatros de todo el mundo. Sin embargo,
+tras participar en la controvertida obra El Rey Amarillo,
+Lola necesitaba “tomarse un tiempo” para recuperarse de su
+“agotamiento”. Ahora que ha pedido el alta voluntaria del
+manicomio, está lista para su gran regreso. Pero esta vez tendrá
+un papel distinto en la lucha contra los horrores que amenazan
+al mundo. Su primer paso es viajar a Tokio para encontrar
+al único miembro del reparto de su anterior obra teatral que
+queda con vida.
+Lola Hayes 1 Apoyo Derringer del .18
+Mejora 1 habilidad de tu
+elección
+Tokio, Japón
+Dorso de hoja de
+Investigador
+
+10
+Hacer
+avanzar el
+Augurio
+Mueve la fi cha de Augurio una casilla en el sentido de las agujas del reloj por el medidor. A continuación, haz avanzar la fi cha de Perdición
+una casilla por cada Portal del tablero de juego
+que coincida con la casilla actual de la fi cha de
+Augurio (ver “¿Qué son los medidores de Perdición y Augurio?”).
+Resolver
+efectos de
+retribución
+Resuelve todos los efectos precedidos de un
+icono · en los componentes que estén en juego. Estos componentes están indicados con un
+icono de retribución rojo en la esquina inferior
+derecha como recordatorio visual.
+Resuelve estos efectos en el siguiente orden:
+Monstruos, hoja de Primigenio, cartas de Mitos
+ACTIVO y, por último, pertenencias de los investigadores y Estados.
+Generar
+Portales Genera la cantidad de Portales especifi cada en
+la carta de Referencia (ver “Generar Portales” a
+la derecha).
+Oleada de
+Monstruos
+Genera la cantidad de Monstruos indicada en
+la carta de Referencia (ver “Generar Monstruos”
+en la página 11) en cada Portal que coincida
+con la casilla actual de la fi cha de Augurio. Si
+en el tablero de juego no hay ningún Portal que
+coincida, en lugar de eso genera un Portal.
+Generar
+Pistas
+Genera una cantidad de Pistas como indique la
+carta de Referencia (ver “Generar Pistas” en la
+página 11).
+Colocar fi cha
+de Rumor
+Coloca una fi cha de Rumor en la casilla indicada
+(ver “Rumores” en la página 16).
+Colocar fi chas
+de Arcano
+Coloca la cantidad indicada de fi chas de Arcano
+sobre esta carta de Mitos.
+Resolver
+efecto
+EVENTO
+Todos los Monstruos recuperan toda la Salud.
+A continuación, cada investigador resuelve inmediatamente un encuentro con cada Monstruo
+que haya en su casilla en el orden de su elección.
+Si la carta tiene el rasgo EVENTO indicado sobre
+el texto del efecto, resuelve inmediatamente el
+efecto y luego descarta la carta. Si tiene el rasgo ACTIVO, colócala en juego junto a la hoja de
+Primigenio. Permanecerá en juego hasta que sea
+descartada por un efecto del juego.
+FASE 3: FASE DE MITOS
+Durante esta fase, el investigador jefe roba la primera carta del mazo
+de Mitos. En una carta de Mitos hay siete efectos posibles, y el investigador jefe los resuelve en el orden en que aparecen (de izquierda
+a derecha, comenzando por arriba). El orden y los efectos de cada
+elemento se indican a continuación:
+GENERAR PORTALES
+Cuando un efecto genera un Portal, coge la primera fi cha de Portal
+del montón de Portales y colócala boca arriba en la casilla indicada
+en la fi cha de Portal.
+Cuando se genera un Portal, se genera un Monstruo en la misma
+casilla (ver “Generar Monstruos” en la página 11).
+Los investigadores sólo resuelven los efectos mostrados en la carta
+de Mitos actual. Por ejemplo, si la carta de Mitos no tiene el icono
+de generar Pistas, los investigadores no resuelven el paso de generar
+Pistas.
+Un Portal y un Monstruo generados en Arkham
+Obtener Hechizos Ensalmo
+arkham
+ARKHAM
+Sectario
+?
+QUÉ SON LOS PORTALES?
+Las fi chas de Portal representan rupturas en el tejido de
+la realidad. Estos portales pueden llevar a otros mundos,
+dimensiones o incluso momentos temporales. Estas
+peligrosas anomalías permiten que letales poderes entren en
+nuestro mundo, como Monstruos e incluso los Primigenios.
+Los Portales son la principal forma que tiene de avanzar
+la Perdición (ver el paso “Hacer avanzar el Augurio” de
+la fase de Mitos). Para evitar que la Perdición avance (y
+que el Primigenio despierte), los investigadores deben
+resolver cartas de Encuentro de Otros Mundos para cerrar
+(descartar) Portales.
+?
+QUÉ SON LOS MEDIDORES DE
+PERDICIÓN Y AUGURIO?
+El MEDIDOR DE PERDICIÓN mide el tiempo restante hasta que
+el Primigenio despierte (ver página 16). Cuando la Perdición
+AVANZA, mueve la fi cha de Perdición hacia la casilla “0” del
+medidor de Perdición. Cuando la Perdición RETROCEDE,
+mueve la fi cha de Perdición en dirección contraria a la
+casilla “0” del medidor de Perdición.
+El propósito del MEDIDOR DE AUGURIO es hacer avanzar
+la Perdición. Cuando la fi cha de Augurio avanza, los
+investigadores hacen avanzar la Perdición 1 casilla por cada
+Portal del tablero de juego que coincida con el símbolo de
+Augurio actual.
+Hacer avanzar el
+Augurio
+2 0
+Hacer retroceder
+la Perdición
+Hacer avanzar la Perdición
+1
+
+11
+GENERAR MONSTRUOS
+Cuando un efecto genera un Monstruo, roba una fi cha de Monstruo
+aleatoria de la reserva de Monstruos y colócala en la casilla indicada
+por el efecto.
+Si el Monstruo tiene el icono de generación, mira el
+dorso de la fi cha de Monstruo y resuelve su efecto
+inmediatamente después de generarlo (por ejemplo,
+“Cuando se genere este Monstruo, muévelo al corazón de África”).
+GANAR LA PARTIDA
+Los investigadores ganan la partida inmediatamente si resuelven tres
+de los Misterios del Primigenio. Si el Primigenio despierta, los investigadores también tendrán que resolver el Misterio fi nal para ganar
+la partida (ver página 16).
+Los investigadores pierden la partida si ocurre cualquiera de las
+siguientes situaciones:
+^ Si la fi cha de Perdición llega a la casilla “0” del medidor de
+Perdición, el Primigenio despierta. El dorso de la hoja de Primigenio indica cómo pueden perder la partida los investigadores
+(ver “El Primigenio despierta” en la página 16).
+^ Todos los investigadores han sido eliminados de la partida.
+^ El efecto de una carta hace que los investigadores pierdan la
+partida. Esto suele aparecer en algunas cartas de Mitos RUMOR.
+^ Los investigadores deben robar una carta de Mitos pero no pueden porque el mazo de Mitos está vacío.
+?
+QUÉ ES LA RESERVA DE MONSTRUOS?
+Durante la preparación, los jugadores eligen un recipiente
+opaco cualquiera, como la tapa de la caja del juego, para
+usarlo como reserva de Monstruos. Cuando se genera
+un Monstruo, un jugador roba una fi cha de Monstruo
+aleatoria de la reserva de Monstruos sin mirar. Cuando se
+derrota o descarta un Monstruo, devuélvelo a la reserva de
+Monstruos y luego agita el recipiente para mezclar las fi chas
+de Monstruo.
+Icono de
+generación en un
+Monstruo.
+Esta Pista se coloca sobre Arkham.
+Obtener Hechizos Ensalmo
+arkham
+?
+QUÉ SON LAS PISTAS?
+Las pistas de Ficha representan secretos y conocimientos
+sobre el Primigenio. Los investigadores pueden obtener
+estas fi chas resolviendo Encuentros de Investigación (ver
+página 9).
+Los investigadores usan Pistas para resolver Misterios (ver
+página 16), resolver Rumores (ver página 16) y repetir
+tiradas de dados durante las pruebas (ver página 12).
+Dorso de carta de
+Misterio de Azathoth
+Anverso de carta de
+Misterio de Azathoth
+La Luna Némesis aparece en el cielo
+nocturno, visible para todo el mundo y
+anunciando un desastre inminente.
+Augurio de devastación
+Cuando un investigador cierre un Portal que se
+corresponda con el Augurio actual, puede gastar 1 Pista
+para colocar 1 fi cha de Arcano sobre esta carta.
+Al fi nal de la fase de Mitos, si hay una cantidad de fi chas de Arcano
+sobre esta carta igual a la mitad del ~, resuelve este Misterio.
+GENERAR PISTAS
+Cuando un efecto genere una Pista, coge una fi cha de Pista aleatoria
+de la reserva de Pistas y colócala boca abajo en la casilla indicada en
+la fi cha de Pista.
+11
+Las pistas de Ficha representan secretos y conocimientos
+sobre el Primigenio. Los investigadores pueden obtener
+estas fi chas resolviendo Encuentros de Investigación (ver
+Los investigadores usan Pistas para resolver Misterios (ver
+página 16), resolver Rumores (ver página 16) y repetir
+11
+Las pistas de Ficha representan secretos y conocimientos
+sobre el Primigenio. Los investigadores pueden obtener
+estas fi chas resolviendo Encuentros de Investigación (ver
+De: Ramsay
+A: Cámara Negra
+El 8 de octubre, uno de nuestros Relojes interceptó el
+siguiente mensaje de un conocido miembro de la Logia
+del Crepúsculo de Plata de Berlín. Nuestros intentos
+iniciales por descodi carlo han sido infructuosos. Le
+ruego que dé máxima prioridad a este material.
+delwgejcufreeevlumvlequufkceeeidppuefmvleiu
+vfvmgsuvgfigdvugmjcrubfmcrbjvcbbevmpwumedv
+lfmmcrbicquegfigdvalugeubjcqrpfgmeuvcugvml
+iumefmcrbluurbejrpdgfigijpuemecrbvqspuee
+vleacdpfkgmalugrsscalugrgedcfkegmqfgyquo
+ugfigufrrdedppmppghdrhjcerefcpvlvsyggre
+El 8 de octubre, uno de nuestros Relojes interceptó el
+siguiente mensaje de un conocido miembro de la Logia
+del Crepúsculo de Plata de Berlín. Nuestros intentos
+iniciales por descodi carlo han sido infructuosos. Le
+Necesitaremos una clave para resolver esto. Contacte con nuestro
+agente en la Logia. No use los Relojes.
+-Scarborough
+Este documento es alto secreto y está clasi cado.
+La posesión de este documento o el conocimiento
+de sus contenidos sin la autorización de seguridad
+necesaria es un acto de traición que se castiga
+con la muerte.
+
+12
+REGLAS ADICIONALES
+Esta sección recoge todas las demás reglas necesarias para jugar al
+juego.
+PRUEBAS
+Muchos efectos requieren que los investigadores resuelvan una
+PRUEBA. Para resolver una prueba, el investigador tira dados para
+determinar si supera o falla la prueba. Superar pruebas a menudo
+da benefi cios a los investigadores, mientras que fallar pruebas suele
+tener efectos secundarios negativos.
+Para resolver una prueba, el investigador tira una cantidad de dados igual a su valor de la habilidad indicada, teniendo en cuenta
+cualquier efecto que sume o reste puntos a su habilidad. Los investigadores tiran un mínimo de 1 dado en cada prueba.
+Si saca al menos un  (un “5” o un “6”), SUPERA la prueba. Si
+no saca ningún éxito, FALLA la prueba. La cantidad de éxitos obtenidos se llama RESULTADO DE LA PRUEBA.
+Cuando un investigador supera o falla una prueba, sigue las instrucciones del efecto original para el resultado obtenido.
+Ejemplo: Lily Chen tiene una carta de Apoyo “Tomo arcano” que dice:
+“Cuando realices una acción de descansar, puedes realizar una prueba
+de [. Si la superas, obtén 1 Hechizo.” Cuando descansa, Lily resuelve
+esta prueba usando su Saber ([) de 2. Tira 2 dados y saca un “1” y
+un “3”. Puesto que no ha sacado ningún “5” ó “6”, falla la prueba y no
+obtiene un Hechizo.
+Un investigador sólo puede usar un efecto de una carta que le proporcione una bonifi cación de habilidad por cada prueba (por ejemplo, un Apoyo que diga “Obtén +1 [”). Si tiene varios efectos
+de cartas que proporcionen una bonifi cación, usa la bonifi cación
+más alta.
+PRUEBAS EN CARTAS
+En muchas cartas, las pruebas se declaran usando su icono de habilidad entre paréntesis tras un corto texto narrativo. Cuando un
+investigador resuelve un efecto que incluye un icono de habilidad en
+el texto, debe realizar una prueba de esa habilidad inmediatamente.
+La declaración de la prueba también puede indicar un modifi cador
+(como “–1”), que haga que el investigador tire más o menos dados
+en la prueba.
+Ten en cuenta que la mayoría de los términos de juego aparecen con
+mayúscula en las cartas para que sea más sencillo diferenciarlos del
+texto narrativo.
+REPETIR TIRADAS DE DADOS
+Inmediatamente después de tirar los dados durante una prueba, un
+investigador puede gastar una fi cha de Pista para repetir la tirada de
+un dado. Puede hacer esto varias veces, siempre que gaste una fi cha
+de Pista cada vez. Tras resolver todas las tiradas de dados repetidas, el
+investigador determina si ha superado o fallado la prueba.
+FICHAS DE MEJORA
+Estas fi chas representan la formación de un investigador en determinadas habilidades. Cuando un efecto
+permite que un investigador mejore una habilidad,
+obtiene una fi cha de Mejora con el icono correspondiente y la coloca bajo dicha habilidad en la hoja de
+Investigador con el lado “+1” boca arriba. Si mejora esa habilidad
+por segunda vez, da la vuelta a la fi cha para mostrar el lado “+2”. La
+habilidad de un investigador es igual al valor impreso en su hoja más
+el valor de la fi cha de Mejora correspondiente.
+ENCUENTROS COMPLEJOS
+Los Encuentros de Expedición, los Encuentros de Otros Mundos y
+los Encuentros Especiales son aventuras fructíferas pero peligrosas
+llamadas encuentros complejos. Cada una de estas cartas tiene tres
+efectos. Para resolver estos encuentros, un investigador resuelve en
+primer lugar el efecto inicial (el cuadro superior de la carta). Según
+el resultado de este efecto, resuelve inmediatamente uno de los otros
+dos efectos.
+Si supera la prueba del efecto inicial, resuelve el efecto de superación
+de la carta. Si falla la prueba, resuelve el efecto de fallo de la carta.
+Debe resolver todo el efecto del cuadro apropiado (lo que puede
+suponer pruebas adicionales) y a continuación descartar la carta.
+Si la instrucción de una carta de Encuentro de Otros Mundos es
+“cierra este Portal”, el investigador descarta la fi cha de Portal de su
+casilla.
+Después de resolver un Encuentro de Expedición, el investigador
+mueve la fi cha de Expedición activa a la casilla que coincida con la
+primera carta recién revelada del mazo de Encuentros de Expedición.
+Ficha de
+Mejora de
+Saber
+1
+Gran sala de Celeno
+Te enteras de lo que está leyendo y te das cuenta de
+que ha abierto un portal entre los mundos; cierra
+este Portal. Después examinas el libro que estaba
+leyendo ([). Si superas la prueba, obtén 1 Pista o
+1 Hechizo. Si fallas, nunca antes te has encontrado
+horrores así; pierde 2 puntos de Cordura.
+Te ve y desata un torrente de energía arcana
+que desgarra tu mente. Pierde 3 puntos de
+Cordura a menos que gastes 1 Pista.
+Te asombra ver un rostro familiar leyendo tomos
+de hechicería oscura. Intentas atisbar lo que está
+leyendo sin alertarlo de tu presencia (| –1).
+1
+Te ve y desata un torrente de energía arcana
+que desgarra tu mente. Pierde 3 puntos de
+Te enteras de lo que está leyendo y te das cuenta de
+que ha abierto un portal entre los mundos; cierra
+este Portal. Después examinas el libro que estaba
+). Si superas la prueba, obtén 1 Pista o
+1 Hechizo. Si fallas, nunca antes te has encontrado
+horrores así; pierde 2 puntos de Cordura.
+Te asombra ver un rostro familiar leyendo tomos
+de hechicería oscura. Intentas atisbar lo que está –1).
+Efecto inicial
+Efecto de superación
+Efecto de fallo
+Efectos de una carta de encuentro complejo
+?
+QUÉ SON LAS HABILIDADES?
+Cada investigador tiene cinco habilidades distintas indicadas
+en la parte inferior de su hoja de Investigador. El número
+que hay bajo cada habilidad es el número de dados que tira
+el investigador al resolver una prueba (ver “Pruebas” en la
+parte izquierda).
+Las habilidades indicadas en una hoja de Investigador
+1 3 3 3 3
+Saber Influencia Observación Fuerza Voluntad
+
+13
+OBTENER PERTENENCIAS Y ESTADOS
+Con frecuencia, los investigadores obtienen Apoyos, Artefactos, Hechizos y Estados. Cuando un investigador obtiene una carta o fi cha,
+la coloca boca arriba junto a su hoja de Investigador.
+HECHIZOS Y ESTADOS
+Las cartas de Hechizo y Estado son únicas porque tienen información oculta en su dorso. Cuando un jugador obtiene una carta de
+Hechizo o de Estado, sólo puede mirar el anverso de la carta.
+La carta describe cuándo debe darle la vuelta el investigador, en cuyo
+momento resolverá inmediatamente el dorso de la carta.
+INVESTIGADORES RETRASADOS
+Los investigadores pueden quedar Retrasados por varios efectos. Un
+investigador Retrasado no puede realizar acciones.
+Cuando un investigador queda Retrasado, tumba de lado su fi cha de
+Investigador para recordar que está Retrasado. En lugar de realizar
+acciones durante su fase de Acción, pone de pie su fi cha de Investigador y deja de estar Retrasado.
+La fi cha de un investigador Retrasado
+Deuda
+TRATO – COMÚN
+Acción local: Realiza una
+prueba de ]. Si superas la
+prueba, descarta esta carta.
+@: Unos hombres han venido
+a cobrar tu deuda. Dale la
+vuelta a esta carta.
+Estado
+RITUAL
+Acción: Elige un investigador que esté en tu casilla y que no tenga
+el Estado Bendecido. Realiza una
+prueba de [ –1. Si superas la prueba, el investigador elegido
+obtiene el Estado Bendecido.
+A continuación, dale la
+vuelta a esta carta.
+Bendición de Isis
+Hechizo
+Acción: Elige un investigador que
+Anverso de carta
+de Estado
+Anverso de carta
+de Hechizo
+EJEMPLO DE ENCUENTRO
+DE OTROS MUNDOS
+1. Silas Marsh está en una casilla que contiene una fi cha
+de Portal durante la fase de Encuentros.
+2. Decide resolver un Encuentro con el Portal y roba
+una carta del mazo de Encuentros de Otros Mundos.
+Resuelve el efecto inicial y se topa con “(| –1)”. Esto
+signifi ca que debe poner a prueba su Observación.
+3. Mira la habilidad de su investigador en Observación
+(3) y le aplica el modifi cador de la prueba (–1).
+4. No tiene ninguna capacidad ni pertenencia que
+modifi quen este valor, así que tira 2 dados.
+5. No ha sacado un “5” o un “6”, por lo que falla la
+prueba. Resuelve el efecto de fallo, el cual le hace
+perder 3 puntos de Cordura a menos que gaste 1 Pista.
+A continuación, descarta la carta de Encuentro de
+Otros Mundos.
+1 3 3
+Saber Influencia Fuerza Voluntad Observación
+3 3
+3
+4
+1
+Gran sala de Celeno
+Te enteras de lo que está leyendo y te das cuenta de
+que ha abierto un portal entre los mundos; cierra
+este Portal. Después examinas el libro que estaba
+leyendo ([). Si superas la prueba, obtén 1 Pista o 1 Hechizo. Si fallas, nunca antes te has encontrado horrores así; pierde 2 puntos de Cordura.
+Te ve y desata un torrente de energía arcana
+que desgarra tu mente. Pierde 3 puntos de
+Cordura a menos que gastes 1 Pista.
+Te asombra ver un rostro familiar leyendo tomos
+de hechicería oscura. Intentas atisbar lo que está
+leyendo sin alertarlo de tu presencia (| –1).
+Obtener Hechizos Ensalmo
+arkham
+ARKHAM
+1
+Te ve y desata un torrente de energía arcana
+que desgarra tu mente. Pierde 3 puntos de 5
+2
+1
+13
+ROBO EN EL MUSEO CON
+TRÁGICO RESULTADO Por Rex Murphy
+Periodista de investigación
+Según una fuente anónima del
+departamento de policía, el
+intento de robo en el museo de
+esta última noche se ha resuelto
+con un baño de sangre y numerosas preguntas sin respuesta. Los
+investigadores piensan que los
+ladrones entraron por una ventana del segundopi
+14
+SALUD Y CORDURA
+Cada investigador comienza la partida con tantas fi chas de Salud y Cordura como indiquen su Salud y Cordura máximas
+respectivamente.
+Cuando un efecto haga que un investigador PIERDA Salud o Cordura, descarta fi chas de Salud o Cordura de su hoja de Investigador. Si
+un investigador RECUPERA Salud o Cordura, obtiene fi chas de Salud
+y Cordura de la reserva de fi chas. Un investigador no puede tener
+más fi chas de Salud o Cordura que el máximo indicado.
+INVESTIGADORES DERROTADOS
+Cuando un investigador tiene cero puntos de Salud o Cordura, queda DERROTADO inmediatamente y resuelve los siguientes pasos:
+1. Hacer avanzar la Perdición: Haz avanzar la Perdición 1 casilla.
+2. Reubicar: Mueve la fi cha de Investigador a la casilla de Ciudad
+más cercana. Luego tumba la fi cha de lado y coloca una fi cha de
+Salud sobre ella para indicar que el investigador ha perdido toda
+su Salud, o coloca una fi cha de Cordura sobre ella para indicar
+que el investigador ha perdido toda su Cordura.
+3. Reunir pertenencias: El investigador descarta todas las cartas
+de Estado y sus fi chas de Salud, Cordura y Mejora y coloca sus
+pertenencias (Apoyos, Artefactos, Hechizos, Pistas y billetes de
+viaje) sobre su hoja de Investigador. Coloca la hoja y las pertenencias aparte; se necesitarán si un investigador resuelve un
+encuentro con el investigador derrotado.
+4. Entregar investigador jefe: Si el investigador derrotado tiene la
+fi cha de Investigador jefe, debe pasarle la fi cha a un investigador
+de su elección.
+Tras resolver los pasos anteriores, los investigadores siguen resolviendo la fase actual de la partida.
+ELEGIR UN INVESTIGADOR NUEVO
+Si un investigador es derrotado, el jugador que controlaba a ese investigador elige un nuevo investigador al fi nal de la fase de Mitos.
+Para elegir un nuevo investigador, elige cualquier investigador que
+no se esté usando y sigue los pasos 3-4 de la preparación de la
+página 4.
+RESOLVER ENCUENTROS CON
+INVESTIGADORES DERROTADOS
+Los investigadores pueden resolver un encuentro con la fi cha de un
+investigador derrotado para recuperar sus pertenencias y quizás hacer retroceder la Perdición.
+Si durante la fase de Encuentros un investigador está en la misma
+casilla que la fi cha de un investigador derrotado, puede resolver uno
+de los encuentros del dorso de la hoja del investigador derrotado.
+Resuelve el encuentro “Lisiado” si la fi cha de Investigador tiene una
+fi cha de Salud encima o el encuentro “Loco” si la fi cha de Investigador tiene una fi cha de Cordura encima.
+Tras resolver este encuentro, retira del juego la fi cha y la hoja de Investigador del investigador derrotado. Ese investigador ya no podrá
+usarse durante el resto de la partida.
+INVESTIGADORES DEVORADOS
+Algunos efectos de juego harán que los investigadores sean DEVORADOS. Cuando un investigador es devorado, se considera derrotado,
+pero sólo sigue los pasos 1 y 4 de “Investigadores derrotados” de la
+parte izquierda de esta página. Luego descarta todos sus Estados,
+pertenencias y fi chas de Salud, Cordura y Mejora y retira su fi cha y
+hoja de Investigador del juego. Al fi nal de la fase de Mitos, elige un
+nuevo investigador como se describe en esta misma página.
+ENCUENTROS DE COMBATE
+La principal forma que tienen los investigadores de derrotar Monstruos para retirarlos del tablero de juego es resolviendo Encuentros
+de Combate.
+Al resolver un encuentro con un Monstruo, el investigador pone
+boca abajo la fi cha de Monstruo y lee la información del dorso de la
+fi cha. A continuación, resuelve dos pruebas para determinar el resultado del encuentro de combate, primero una PRUEBA DE VOLUNTAD y
+luego una PRUEBA DE FUERZA.
+Salud máxima
+Cordura máxima
+5 7
+ÍNDICE FISIOLÓGICO
+respectivamente.
+Salud máxima
+5 7
+ÍNDICE FISIOLÓGICO ÍNDICE PSICOLÓGICO
+Salud máxima
+Cordura máxima
+5
+La fi cha de un investigador derrotado
+EN CASO DE HERIDA INCAPACITANTE O MUERTE
+EN CASO DE LOCURA U OTRAS PSICOSIS
+UBICACIÓN INICIAL
+OBJETOS QUE DECLARAR NOMBRE
+HISTORIA PERSONAL
+FIRMA
+Encuentras a Silas y obtienes todas sus
+pertenencias. Está pálido, y su aliento es un
+fuerte silbido.
+–Soy un Marsh. Lo llevo en la sangre.
+Dentro de poco me uniré a mi familia en las
+profundidades –te dice.
+Pides a un médico que se encargue de él
+durante la noche (]). Si superas la prueba,
+el marino comparte contigo todo lo que sabe
+antes de morir en paz mientras duerme; haz
+retirarse la Perdición 1 casilla. Si fallas, Silas
+entrega su humanidad y desaparece en el
+mar. Tanto si la superas como si no, descarta
+su fi cha de Investigador.
+Silas ha ocultado todas sus cosas en el
+escondite acordado, pero él no aparece por
+ningún lado. Obtén todas sus posesiones.
+Buscas en los hospitales locales repletos de
+muertos o moribundos sin identifi car (|). Si superas la prueba, encuentras a Silas
+vivo pero incapacitado, y contratas a una
+enfermera privada para que cuide de él; haz
+retirarse la Perdición 1 casilla. Si fallas, Silas
+muere solo y sin ser reconocido. Tanto si
+la superas como si no, descarta su fi cha de
+Investigador.
+Incluso durante su niñez en Innsmouth, Silas ya tenía una
+conexión especial con el mar. Es un hombre capaz y razonable
+en tierra, pero en el océano posee una fuerza e ingenio
+singulares. Esto le ha ganado una brillante reputación en todos
+los puertos del mundo, especialmente en Sídney, donde Silas
+atracó anoche. Pero esta mañana, el aire salobre trae temor
+además de alegría. Hay algo en su pasado, algo en Innsmouth,
+que sabe que algún día lo atrapará.
+1 Apoyo Red de pesca
+Sídney, Australia
+Silas Marsh
+EN CASO DE LOCURA U OTRAS PSICOSIS
+Encuentras a Silas y obtienes todas sus
+pertenencias. Está pálido, y su aliento es un
+–Soy un Marsh. Lo llevo en la sangre.
+Dentro de poco me uniré a mi familia en las
+profundidades –te dice.
+Pides a un médico que se encargue de él
+durante la noche (]). Si superas la prueba, el marino comparte contigo todo lo que sabe
+EN CASO DE HERIDA INCAPACITANTE O MUERTE
+Silas ha ocultado todas sus cosas en el
+escondite acordado, pero él no aparece por
+ningún lado. Obtén todas sus posesiones.
+Buscas en los hospitales locales repletos de
+muertos o moribundos sin identifi car (|). Si superas la prueba, encuentras a Silas
+vivo pero incapacitado, y contratas a una
+enfermera privada para que cuide de él; haz
+retirarse la Perdición 1 casilla. Si fallas, Silas
+Encuentro Lisiado
+Encuentro Loco
+@: Cada investigador que
+esté en esta casilla pierde
+1 punto de Cordura.
+2 2
+}–1 1
+{
+Horror
+Fortaleza
+Daño
+@
+}
+Prueba de
+Voluntad
+Dorso de fi cha de Monstruo
+Horror
+ Cada investigador que
+esté en esta casilla pierde
+Fortaleza
+Daño
+2 Fortaleza
+Prueba de
+Fuerza
+Efecto
+
+15
+PRUEBA DE VOLUNTAD
+El investigador resuelve la prueba de Voluntad ({) indicada en la
+fi cha de Monstruo.
+Si el HORROR del Monstruo es mayor que la cantidad de éxitos sacados (“5” y “6”), el investigador pierde una cantidad de puntos de
+Cordura igual a la diferencia entre el horror y los éxitos (ver “Ejemplo de combate” más adelante).
+PRUEBA DE FUERZA
+El investigador resuelve la prueba de Fuerza (}) indicada en la
+fi cha de Monstruo.
+Si el DAÑO del Monstruo es mayor que la cantidad de éxitos sacados,
+el investigador pierde una cantidad de puntos de Salud igual a la
+diferencia entre el daño y los éxitos (ver “Ejemplo de combate” más
+adelante).
+El Monstruo pierde una cantidad de Salud igual a la cantidad de
+éxitos obtenidos. Indícalo colocando fi chas de Salud sobre la fi cha
+de Monstruo. Cuando un Monstruo haya perdido una cantidad de
+Salud igual o mayor que su FORTALEZA, el Monstruo es derrotado y
+devuelto a la reserva de Monstruos.
+Si el investigador no derrota al Monstruo, éste permanece en su
+casilla junto con las fi chas de Salud que tenga.
+MONSTRUOS ÉPICOS
+Algunos Monstruos son tan poderosos o intratables que son inmunes a algunos efectos.
+Los Monstruos épicos se consideran Monstruos a todos los efectos excepto por que no
+pueden ser movidos, descartados o devueltos
+a la reserva de Monstruos.
+Un Monstruo épico no puede ser derrotado
+a menos que haya perdido Salud igual a su
+fortaleza, en cuyo momento es devuelto a la
+caja del juego.
+Los Monstruos épicos son generados por efectos concretos que indican su nombre y nunca se colocan en la reserva de Monstruos.
+EMBOSCADA
+Algunos efectos hacen que los investigadores se encuentren con
+Monstruos que no están en el tablero de juego. Cuando un efecto
+dice “Un Monstruo te tiende una emboscada”, el investigador roba
+un Monstruo aleatorio de la reserva de Monstruos y resuelve inmediatamente un Encuentro de Combate. Tras resolver el combate,
+devuelve el Monstruo a la reserva de Monstruos (incluso si no lo
+ha derrotado) y sigue resolviendo el efecto que causó la emboscada.
+Un Monstruo épico
+EJEMPLO DE COMBATE
+1. Durante la fase de Encuentros, Lily Chen está en la misma
+casilla que un Monstruo y debe resolver un Encuentro de
+Combate con él.
+2. Lily da la vuelta a la fi cha de Monstruo. No tiene ningún
+efecto que se resuelva durante el combate.
+3. Lily resuelve una prueba de {. Su { es 3. El Monstruo no
+tiene modifi cadores, por lo que tira 3 dados.
+4. Saca 1 éxito y lo resta al horror del Monstruo ( ), que es
+2. Pierde 1 punto de Cordura, que es la diferencia obtenida.
+5. Lily resuelve una prueba de }. Su } es 4. Aplica el
+modifi cador del Monstruo (–1) y obtiene una bonifi cación
+por su “Revólver del .38” (+2), así que tira 5 dados.
+6. Saca 1 éxito, y lo resta al daño del Monstruo ( ), que es 1.
+Puesto que ha sacado una cantidad de éxitos igual a su daño,
+no pierde Salud.
+ Puesto que ha sacado 1 éxito, el Monstruo pierde 1 punto de
+Salud. Pone 1 fi cha de Salud sobre el Monstruo. Su fortaleza
+es 2, así que no es derrotado y el encuentro termina.
+Saber
+3
+Voluntad Observación
+4
+Fuerza
+3
+3
+Obtener Hechizos Ensalmo
+arkham
+Profundo
+@: Cada investigador que
+esté en esta casilla pierde
+1 punto de Cordura.
+2 2
+}–1 1
+{
+3
+6
+2 2
+Saber Influencia Observación
+2 2
+1
+OBJETO – ARMA
+Obtén +2 } durante Encuentros de Combate.
+Revólver del .38
+2 4
+5
+1 2 X
+ Cada investigador que
+esté en esta casilla pierde
+1 punto de Cordura.
+2 2
+1
+6
+4
+
+16
+RUMORES
+Las cartas de Mitos RUMOR a menudo colocan fi -
+chas de Rumor en casillas concretas del tablero de
+juego. Un investigador que esté en una casilla con
+una fi cha de Rumor puede resolver un encuentro
+con la fi cha durante la fase de Encuentros. Para
+ello, resuelve el efecto de la carta de Mitos en lugar
+de resolver una carta de Encuentro.
+Cuando una carta de Mitos es “resuelta”, descarta la carta junto con
+todas las fi chas que tenga, y luego descarta la fi cha de Rumor correspondiente del tablero de juego.
+MISTERIOS
+Para ganar la partida, los investigadores deben resolver tres Misterios.
+Cada Primigenio tiene su propio mazo de cartas de Misterio con un
+conjunto de tareas único que los investigadores deben resolver.
+Durante la preparación, roba una carta de Misterio y colócala boca
+arriba junto a la hoja de Primigenio. Cada carta indica cómo pueden resolver el Misterio los investigadores. En cuanto se resuelva un
+Misterio, roba una nueva carta de Misterio del mazo y colócala boca
+arriba sobre la carta de Misterio anterior.
+En cuanto se resuelvan tres Misterios, los investigadores ganan la
+partida. Si el Primigenio despierta, los investigadores deben resolver
+el Misterio fi nal además de tres cartas de Misterio (ver “Misterio
+fi nal” a la derecha).
+EL PRIMIGENIO DESPIERTA
+Cuando la fi cha de Perdición llega a la casilla “0” del medidor de
+Perdición, el Primigenio DESPIERTA. Da la vuelta a la hoja de Primigenio y resuelve inmediatamente los efectos “Despierta” (si los hay)
+de la esquina superior izquierda de la hoja. Esta hoja permanece
+boca abajo durante el resto de la partida, y sus efectos sustituyen a
+los del anverso de la hoja (incluyendo la información de Sectarios).
+El dorso de la hoja de Primigenio también describe cómo pueden
+perder la partida los investigadores.
+JUGADORES ELIMINADOS
+Después de que el Primigenio haya despertado, cuando un investigador sea derrotado o devorado, el jugador que controlaba ese investigador queda ELIMINADO. Los jugadores eliminados no eligen un
+nuevo investigador para controlarlo y dejan de poder participar en
+la partida.
+Si todos los jugadores quedan eliminados, los investigadores pierden
+la partida.
+MISTERIO FINAL
+Cuando el Primigenio despierta, es mucho más difícil que los investigadores ganen la partida. Cada hoja de Primigenio describe un
+MISTERIO FINAL que los investigadores deben resolver para ganar la
+partida, por lo general enfrentándose directamente al Primigenio.
+?
+CÓMO DETERMINAR UNA
+CASILLA ALEATORIA?
+Algunos efectos de las cartas de Mitos RUMOR y de las cartas
+de Misterio colocan fi chas en una “casilla aleatoria”. Siempre
+que un efecto se refi era a una casilla aleatoria, esa casilla se
+determina robando una fi cha de Pista de la reserva de Pistas
+y usando la casilla indicada en el dorso de dicha fi cha. A
+continuación, descarta la fi cha de Pista robada.
+?
+Y AHORA QUÉ?
+Ahora que has leído este reglamento, ¡estás listo para jugar tu
+primera partida! A medida que surjan preguntas durante el
+juego, consulta la guía de referencia. A continuación tienes
+algunos ejemplos de reglas que se emplean con frecuencia:
+• Al calcular la mitad de un número, redondea siempre
+hacia arriba.
+• El investigador jefe decide cualquier disputa.
+• Las pertenencias que afectan a “un investigador” pueden
+usarse sobre uno mismo a menos que especifi que “otro
+investigador”.
+Ficha
+de Rumor
+Un extraño cometa verde ha caído del cielo. Incluso
+tras el impacto, el meteorito sigue adentrándose
+lentamente en las profundidades de la tierra.
+Semilla del Sultán Demoníaco
+Cuando esta carta entra en juego, coloca la
+fi cha de Misterio en Tunguska.
+Como encuentro, un investigador que esté en Tunguska puede
+intentar buscar señales del impacto en el bosque muerto (|).
+Si supera la prueba, descubre el extraño meteorito verde; puede
+gastar 2 Pistas para colocar 1 fi cha de Arcano sobre esta carta.
+Al fi nal de la fase de Mitos, si hay una cantidad de fi chas de Arcano
+sobre esta carta igual a la mitad del ~, resuelve este Misterio.
+Un extraño cometa verde ha caído del cielo. Incluso
+La Luna Némesis aparece en el cielo
+nocturno, visible para todo el mundo y
+anunciando un desastre inminente.
+Augurio de devastación
+Cuando un investigador cierre un Portal que se
+corresponda con el Augurio actual, puede gastar 1 Pista para colocar 1 fi cha de Arcano sobre esta carta.
+Al fi nal de la fase de Mitos, si hay una cantidad de fi chas de Arcano
+sobre esta carta igual a la mitad del ~, resuelve este Misterio.
+Una carta de
+Misterio activa
+Una carta
+de Misterio
+Un extraño cometa verde ha caído del cielo. Incluso completada
+Semilla del Sultán Demoníaco
+Una carta de
+Misterio activa
+2 —
+}–2 1
+—
+Sectarios
+@: Mueve este Monstruo
+1 casilla hacia el Monstruo
+épico Shub-Niggurath.
+La Cabra Negra de los Bosques
+con Mil retoños
+• Cada vez que la Perdición fuese
+a avanzar, genera 1 Monstruo en la
+casilla que contenga el Monstruo épico
+Shub-Niggurath. A continuación, si hay 6
+o más Monstruos en esa casilla (incluyendo
+al Monstruo épico Shub-Niggurath), los
+investigadores pierden la partida.
+• @: Cada investigador que esté en la
+casilla que contenga al Monstruo
+épico Shub-Niggurath resuelve
+inmediatamente un encuentro
+con él.
+MISTERIO FINAL
+¡La madre feral de todas las monstruosidades
+se ha manifestado! Es una enorme nube desde
+la que se extienden y repliegan decenas de
+tentáculos. Dondequiera que vaya, deja detrás
+grandes huellas de pezuñas. Contemplar su
+verdadera y terrorífica forma es enfrentarse cara
+a cara con el horror verdadero y primario.
+Cuando el Monstruo épico Shub-Niggurath
+sea derrotado, el Misterio fi nal queda resuelto
+y los investigadores ganan la partida.
+Batalla en los bosques ¡Shub-Niggurath
+despierta!
+Genera el Monstruo épico
+Shub-Niggurath en El
+corazón de África. Luego
+mueve todos los Monstruos
+Gul, Engendro cabrío y
+Retoño oscuro que haya
+en el tablero a esa casilla.
+Misterio
+fi nal
+Efectos
+Información de
+Sectarios
+ISTERIO FINAL
+¡La madre feral de todas las monstruosidades
+se ha manifestado! Es una enorme nube desde
+la que se extienden y repliegan decenas de
+tentáculos. Dondequiera que vaya, deja detrás
+Batalla en los bosques Misterio
+fi nal
+¡Shub-Niggurath
+despierta!
+Genera el Monstruo épico
+Shub-Niggurath en El
+corazón de África. Luego
+mueve todos los Monstruos
+despierta!
+La Cabra Negra de los Bosques
+con Mil retoños
+Cada vez que la Perdición fuese
+a avanzar, genera 1 Monstruo en la
+casilla que contenga el Monstruo épico
+Shub-Niggurath. A continuación, si hay 6
+o más Monstruos en esa casilla (incluyendo
+al Monstruo épico Shub-Niggurath), los
+investigadores pierden la partida.
+— Efectos }–2 1
+—
+Sectarios
+@: Mueve este Monstruo
+1 casilla hacia el Monstruo
+épico Shub-Niggurath.
+Información de
+Sectarios
+Dorso de una hoja de Primigenio
+Efecto
+despierta

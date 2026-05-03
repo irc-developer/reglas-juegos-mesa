@@ -1,0 +1,204 @@
+1
+En el Valle de la Muerte, el mejor momento para sacar a pastar a tus vacas esqueléticas es en
+las noches de luna llena, cuando la magia negra reina por todo el desierto. En HIGH MOON te
+pondrás en la piel de un/a ranchero/a espectral (si es que los espectros tienen piel), cuyo objetivo es
+establecer rutas de ganado con las que suministrar a las principales destilerías de la región, donde
+se elaboran los mejores licores sin alcohol a base de ectoplasma vacuno.
+Componentes
+A 4 mazos de 8 cartas (1 por persona)
+B 4 cartas de ayuda/fichas descartadas
+C 2 cartas iniciales
+D 4 sets de 30 fichas de vaca/rancho (1 por persona)
+E 4 sets de 3 marcadores de lápidas (1 por persona)
+F 4 marcadores de puntuación (1 por persona)
+G 4 losetas de +40/+80 puntos (1 por persona)
+H 1 tablero de lápidas
+I 1 tablero de puntuación
+J 3 sets de 5 losetas de destilería (3 iconos distintos)
+K 3 sets de 8 botellas de licor (3 iconos distintos)
+L 3 sets de 4 botellas de licor dobles y triples (3 iconos distintos)
+M 4 cartas de criterios de puntuación reversibles
+1 reglamento
+Descripcion de las cartas
+Cada carta está
+dividida en
+12 casillas
+LÁPIDA
+DESTILERÍA
+LÁPIDA
+RANCHO COMODÍN2
+Preparacion de la partida
+1 · Crea una reserva con las losetas de destilería distribuidas al azar por el lado del símbolo de interrogación (en partidas a 2 y 3 personas, quita una de cada tipo).
+2 · Deja al alcance de todo el mundo las botellas de licores por su lado de botella llena.
+3 · Coloca en el centro de la mesa las dos cartas iniciales, superpuestas de la forma indicada, toma
+2 losetas de destilería de la reserva creada y colócalas al azar sobre cada casilla de destilería, por el
+lado del tipo de licor. Deja libre suficiente espacio alrededor de estas cartas iniciales ya que el mapa
+se extenderá a partir de ellas.
+4 · Baraja las cartas de criterios de puntuación, y coloca 3 de ellas por cualquiera de los lados a la
+vista de todo el mundo, de la forma indicada (una de las tres cartas tapando la mitad de las otras
+dos cartas). Estos serán los 4 criterios de puntuación en la partida. Las cartas marcadas con se
+puntúan de forma inmediata cuando se cumplen. El resto, se puntúan al final de la partida.
+En la primera partida, puedes jugar solamente con 1 carta (2 criterios de puntuación a la vista).
+5 · Coloca a un lado de la mesa los tableros de lápidas y de puntuación.3
+6 · Cada persona coloca sus tres marcadores de lápidas y su marcador de puntuación en las casillas
+iniciales de los tableros correspondientes.
+7 · Cada persona deja a su lado una reserva de 30 fichas, que serán las disponibles para toda la
+partida (limitadas).
+8 · Cada persona toma de su reserva 3 fichas y las deja junto a su carta de ayuda (estarán disponibles
+para colocar desde el primer turno).
+9 · Cada persona prepara su mazo (8/7/6 cartas según sean 2/3/4 personas) y lo baraja. En partidas a
+3, retira de la partida la carta con el icono y en partidas a 4 retira también la carta con el icono
+. Cada persona roba una carta de su mazo para empezar la partida con una carta en mano.
+Escoge al azar quién empezará a jugar.
+La partida se juega por turnos, en el sentido de las agujas del reloj.
+La partida finalizará cuando todo el mundo haya jugado todas las cartas de su mazo y ejecutado su turno.
+El turno
+El turno de cada persona se divide en dos fases.
+1ª fase: colocar carta (obligatorio)
+Durante la partida se irá construyendo un mapa a base de colocar cartas unas sobre otras. Empezarás tu turno colocando la carta que tienes en mano sobre el mapa:
+DEBES mantener la misma orientación que las
+dos cartas iniciales (puedes girarla 180 o, pero nunca colocarla de forma perpendicular).
+DEBES tapar al menos una casilla del mapa.
+DEBES dejar al menos una de las casillas de tu
+carta sin carta debajo (no puedes tapar por completo una parte entera del mapa).
+NO PUEDES colocar tu carta encima de ninguna
+ficha ni loseta que haya sobre el mapa.
+Por cada casilla de rancho de TU COLOR que
+tapes, ganas 3 fichas de tu reserva.
+Por cada casilla de rancho de OTRO COLOR
+que tapes, ganas 1 ficha de tu reserva, y la persona que juega con ese color (si la hay) gana 2
+fichas de su reserva.
+Si la carta que has colocado tiene una destilería,
+toma una loseta de destilería al azar de la reserva y colócala encima, por el lado del tipo de licor.4
+2ª fase: COLOCAR FICHAS o PASAR
+Coloca las fichas que quieras y puedas. Con estas fichas irás creando rutas desde tus
+ranchos a las destilerías.
+La primera ficha que coloques en tu turno no tiene coste, pero para colocar la segunda
+ficha tendrás que descartar 1 ficha, para colocar la tercera ficha tendrás que descartar
+2 fichas, y así consecutivamente.
+Para saber las fichas que has colocado y las que has tenido que
+descartar, utiliza la carta de ayuda. Almacena la primera ficha
+del turno en el espacio semicircular, que se quedará vacío cuando coloques la ficha en el mapa (1). Utiliza el resto de espacios
+para ir depositando las fichas que tienes que descartar para seguir colocando fichas en el mapa (2 y 3). Al final del turno, las
+fichas descartadas que están en la carta, van a tu reserva general
+de fichas.
+Si tu reserva general de fichas está vacía y debes robar fichas por
+algún efecto del juego durante tu turno, puedes tomar fichas ya
+descartadas, procurando hacerlo desde el primer hueco de la
+carta, teniendo en cuenta el coste de la siguiente ficha a colocar.
+Las fichas son reversibles, pudiendo usar para fundar ranchos y
+empezar o continuar rutas o usar si quieres continuar una ruta
+ya empezada.
+Coloca un RANCHO para fundar un rancho encima de
+cualquier casilla de rancho visible de tu color en el mapa.
+Coloca una VACA en una casilla libre, adyacente de forma
+ortogonal a cualquiera de tus fichas, o adyacente de forma
+ortogonal a una destilería conectada a una de tus rutas
+(es decir, tu ruta puede atravesar una destilería). Puedes
+continuar tu ruta por cualquier lado de una destilería en la que tengas una ficha adyacente, ya que
+se considera conectada.
+No se puede:
+1. Apilar fichas.
+2. Colocar fichas sobre las destilerías.
+3. Colocar fichas en ranchos de otro
+color que no sea el tuyo.5
+Se considera “conectar” cuando creas una ruta desde un rancho propio hasta una
+destilería, bien de forma adyacente o bien a través de fichas de vaca.
+Conectar a una destilería
+Cuando establezcas por primera vez en la partida una conexión entre uno de tus ranchos y una destilería concreta
+del mapa (ya sea de forma adyacente o bien a través de fichas de vaca),
+gana una botella del tipo de licor visible en la destilería (1).
+Si vuelves a conectar más ranchos a la misma destilería, no ganas de
+nuevo la botella de licor (2).
+Botellas de licor: permiten ejecutar acciones extra en tu turno y son
+de un solo uso. Puedes utilizar solamente una botella de licor por
+turno, en cualquier momento de este. Consérvalas por su lado de botella llena mientras no las hayas usado. Cuando uses una, voltéala
+(botella vacía) y colócala sobre el espacio de la carta de ayuda para
+recordar que ya no podrás utilizar más botellas este turno. Conserva
+tus botellas de licor (usadas y sin usar), ya que puntuarán al final de
+la partida.
+Tapar casillas de lápida
+Cuando tapes una casilla de lápida en el mapa, sube en el track
+correspondiente en el tablero de lápidas y ejecuta el bonus, si lo
+hubiera (ganar 1 ficha de tu reserva). Si tapas un comodín, puedes
+elegir en qué track subir.
+Subir en estos tracks aumentará tu puntuación final.
+PASAR
+En lugar de colocar fichas, puedes pasar (no colocas fichas ni usas botella de licor) para ganar 3
+fichas de tu reserva.
+LICOR DE MURCIÉLAGO: Coloca en el
+mapa hasta 2 fichas que tengas disponibles
+(sin tener que descartarte de otras fichas).
+LICOR DE CUERVO: Coloca 1 ficha en el
+mapa tomándola directamente de tu reserva
+(sin tener que descartarte de otras fichas).
+Las reglas de colocación
+se aplican igualmente en
+todos estos casos.
+LICOR DE ARAÑA:
+Gana hasta 3 fichas
+de tu reserva.6
+FIN DE TURNO
+Al finalizar el turno, vacía tu carta de ayuda: devuelve a tu reserva las fichas que hayas descartado,
+retira y conserva la botella de licor usada. Roba una nueva carta de tu mazo y pasa el turno a la
+siguiente persona.
+La partida acaba cuando todo el mundo haya colocado su última carta y ejecutado su turno.
+Puntuacion
+Ten en cuenta que:
+A) Una ruta debe tener al menos un rancho y una destilería para ser puntuada.
+B) Un rancho debe estar conectado con, al menos, una destilería para ser puntuado.
+Durante la partida:
+1. Cartas de criterios de puntuación INMEDIATOS:
+Las puntúas de forma inmediata en el momento que las cumples. Avanza tu marcador en el track de puntuación.
+Al finalizar la partida:
+2. Cartas de criterios de puntuación FINALES:
+Las cartas indican el número de Puntos de Victoria ( ) según las
+condiciones que cumplas.
+3. Suma todas las botellas de
+cada tipo de licor que tengas
+(usadas o sin usar) y multiplícalas por el nivel alcanzado en el
+track de lápidas de ese tipo.
+4. Comprueba en qué posición ha quedado tu marcador menos avanzado del tablero de lápidas y suma los indicados en ese nivel.
+5. Por último, súmate 1 por cada 2 fichas/losetas que no hayas
+utilizado (fichas fuera de tu reserva y botellas de licores sin usar).
+En caso de empate, gana quien más fichas tenga en la reserva. Si el empate persiste, compartid la
+victoria y brindad con un buen vaso de licor de ectoplasma vacuno.7
+Ejemplo de puntuacion
+Ejemplo del mapa final en una partida a 2.
+Para estos criterios de puntuación las puntuaciones serían:
+Jane: 1A: 16 2A: 16 2B: 12 3D:15
+Billy: 1A: 12 2A: 12 2B: 20 3D:128
+Jane consigue 16 :
+botellas de araña 3 x 2 = 6
+botellas de murciélago 2 x 3 = 6
+botellas de cuervo 4 x 1 = 4
+No obtiene bonificación ya que su ficha menos avanzada está en el espacio más bajo.
+Billy consigue 10 :
+botellas de araña 0 x 2 = 0
+botellas de murciélago 3 x 1 = 3
+botellas de cuervos 2 x 2 = 4
+Gana 3 puntos extra por la posición de su última ficha.
+También suman las fichas que les han sobrado.
+Jane 2 y Billy 1
+TOTAL:
+Jane: 16 +16 + 12 + 15 + 16 + 2 = 77
+Billy: 12 + 12- + 20 + 12 + 10 + 1= 67
+Creditos
+Autor: Antonio Guillamó ¨Guilla¨
+Ilustración y diseño gráfico: Pablo Sanz
+Diseño del manual: Dossom Studio
+Desarrollo: Manuel J. García Gata, Pablo Sanz,
+Kortes Serrano y Antonio Fernández Díez
+Editado por: Combo Games S.L.
+c/ Teresa Claramunt 3, 3B
+02006 Albacete (España)
+Agradecimientos
+A los antiguos egipcios por crear el Senet, el primer juego de mesa. Se lo debo TODO. A todas las personas
+que alguna vez pusieron su oído para escuchar mi loca idea de hacer prototipos. Y a aquellas que han tenido que probarlos alguna vez, o varias, lo siento mucho. Gracias a Protos y Miguelitos y a toda su gente, que
+vieron nacer y crecer a High Moon. Especial agradecimiento a Max, por dar al proto casi tantas partidas
+como yo. Y, finalmente, gracias a Combo Games por darme la oportunidad de hacer mi sueño realidad.
+Antonio Guillamó ¨Guilla¨
+Actualizaciones y novedades
+en nuestra web:
+www.combogames.es
+© 2026 Combo Games, S.L. Todos los derechos reservados.

@@ -1,0 +1,737 @@
+1
+A continuación se presentan las preguntas frecuentes, la fe de erratas
+y las aclaraciones de Eldritch Horror y sus expansiones.
+Última actualización: 11 de agosto de 2017. El contenido añadido
+en esta actualización va en rojo.
+Fe de erratas
+^ En la página 6 de la guía de referencia, el tercer punto de
+“Estados” debería decir lo siguiente: “Un investigador no puede
+obtener una copia de un Estado que ya tenga. Un investigador
+no puede elegir obtener una copia de un Estado que ya tenga.”
+^ En la página 6 de la guía de referencia, el cuarto punto de
+“Ganar/Perder” debería decir lo siguiente: “Si no se puede robar
+una carta de Mitos durante la fase de Mitos, la fase de Mitos
+termina. A continuación, si los investigadores no han ganado la
+partida, los investigadores pierden la partida.
+^ En la página 10 de la guía de referencia, el cuarto punto del
+paso 1 “Determinar la reserva de dados” de la sección “Pruebas”
+debería decir lo siguiente: “Añade la bonificación más alta que
+pueda aplicar (por ejemplo, “Obtienes +3 {”).”.
+^ En la página 11 de la guía de referencia, el tercer punto de la
+sección “Rumor” debería decir lo siguiente: “Cuando se resuelva
+una carta de Mitos Rumor, descártala, así como todas las fichas
+que tenga, y todas las fichas de Rumor, Monstruos épicos y fichas
+de Arcano que colocara en el tablero.”. Además, debería haber un
+subapartado bajo este punto que diga lo siguiente: “No descartes
+ninguna otra ficha colocada por la carta de Mitos Rumor,
+como Pistas, Monstruos no épicos o Portales generados por sus
+efectos. No descartes ningún Estado ni ficha obtenidos por los
+investigadores debido a los efectos de la carta de Mitos Rumor.”
+^ El efecto del Apoyo Dinamita debería decir lo siguiente: “Acción:
+Puedes descartar esta carta para hacer que cada Monstruo que
+esté en tu casilla pierda 3 puntos de Salud.”.
+^ El segundo efecto del Apoyo Agua bendita debería decir lo
+siguiente: “Acción: Puedes descartar esta carta para elegir un
+investigador que esté en tu casilla. Ese investigador obtiene el
+Estado Bendecido.”.
+^ El efecto del Apoyo Caja misteriosa debería decir lo siguiente:
+“Cuando realices una acción de descansar, puedes intentar abrir
+la caja misteriosa (| –2). Si superas la prueba, puedes descartar
+esta carta para obtener 1 Artefacto.”.
+^ En la expansión Las Montañas de la Locura, el último párrafo del
+Misterio Explorando Hiperbórea debería decir lo siguiente: “Al
+final de la fase de Mitos, si hay una cantidad de fichas de Arcano
+sobre esta carta igual a la mitad del ~, resuelve este Misterio.”.
+^ En la expansión Las Montañas de la Locura, el primer párrafo
+del dorso del Estado Financiación “No va más” debería decir lo
+siguiente: “Con tanto dinero quemándote los bolsillos, no puedes
+resistir la oportunidad de doblar tus ganancias. Tira 1 dado.”.
+^ En la expansión Las Montañas de la Locura, el efecto de la carta
+de Mitos Silencio frío debería decir lo siguiente: “Cuando no
+haya fichas de Arcano sobre esta carta, cada investigador que
+tenga el Estado Hipotermia pierde 4 puntos de Salud y queda
+Retrasado; a continuación, resuelve este Rumor.”.
+^ A partir del lanzamiento de la expansión Vestigios extraños, el
+formato de la línea de rasgos de las cartas ha cambiado. Ahora
+los rasgos de las cartas aparecen separados por espacios en lugar
+de por comas.
+^ En la expansión Bajo las pirámides, el efecto de la carta de
+Misterio El que acecha en la oscuridad debería decir lo siguiente:
+“Cuando esta carta entre en juego, genera el Monstruo épico
+El que acecha en la oscuridad en Arkham. Un investigador que
+esté en Arkham puede elegir encuentros como si el Monstruo
+épico no estuviera en su casilla a menos que tenga el Artefacto
+Trapezoedro brillante.”.
+^ En la expansión Bajo las pirámides, el efecto de sustitución de
+Perdición del dorso de la hoja de Primigenio de Abhoth debería
+decir lo siguiente: “· Cada vez que la Perdición fuese a avanzar,
+en vez de eso genera 1 Monstruo Sectario en una casilla de
+Naturaleza; genera el Monstruo en una casilla que no contenga
+un Monstruo Sectario si es posible. A continuación, si no
+quedan Monstruos Sectarios sobre esta hoja, los investigadores
+pierden la partida.”.
+^ En la expansión Las Tierras del Sueño, el segundo párrafo del
+Preludio Entrenamiento concentrado debería decir lo siguiente:
+“Se pueden obtener Estados Talento de la reserva como parte
+de una acción de adquirir Apoyos. Cada Estado Talento de la
+reserva tiene un valor de 1. Como coste adicional para obtener
+un Estado Talento, el investigador debe gastar 1 ficha de
+Concentración.”.
+^ En la expansión Las Tierras del Sueño, el primer párrafo de
+la carta de Mitos Podría ser peor debería decir lo siguiente:
+“Cuando esta carta entre en juego, el investigador jefe pierde
+toda su Cordura excepto 1 punto.”.
+Preguntas frecuentes
+A continuación se presentan varias preguntas frecuentes ordenadas
+por temas. Las aclaraciones de este documento prevalecen sobre
+cualquier otra.
+Mecánicas básicas
+P. ¿Puede un investigador resolver un efecto activado varias veces?
+R. No. Un efecto activado se resuelve exactamente una vez por cada
+vez que sea activado.
+Por ejemplo, el efecto “Préstamo del banco” se activa exactamente
+una vez cuando un investigador realice la acción de adquirir Apoyos.
+Por lo tanto, un investigador no podría resolver ese efecto más de
+una vez para añadir más de dos éxitos al resultado de su prueba.
+2
+P. ¿Puede un investigador usar una capacidad que le permita tirar dados
+“adicionales” después de que haya tirado los dados en una prueba?
+R. No. Cuando un investigador resuelve una prueba, debe declarar
+cualesquiera dados adicionales que quiera tirar antes de tirar ningún
+dado.
+P. ¿Cuándo se aplica la regla de tirar como mínimo 1 dado en cada
+prueba?
+R. Al resolver una prueba, el investigador calcula primero su reserva
+de dados. Es decir, suma su habilidad, mejoras, modificador de la
+prueba, bonificaciones y dados adicionales. A continuación tira su
+reserva de dados. En ese momento, si su reserva de dados es cero o
+menos dados, en lugar de eso tira 1 dado.
+P. ¿Qué ocurre si un efecto permite a un investigador repetir la tirada de
+un máximo de 2 dados, pero sólo ha tirado 1 dado?
+R. El investigador puede usar ese efecto para repetir la tirada del
+único dado que tiene. No puede usar ese efecto para repetir la tirada
+de 1 solo dado más de una vez.
+P. ¿Cada tirada se considera una prueba?
+R. No. Un efecto que te pida que tires una determinada cantidad de
+dados, como el efecto · de un Estado Maldito, no es una prueba.
+Estas tiradas no pueden repetirse ni ser modificadas por efectos que
+afecten a las pruebas.
+P. ¿Son opcionales aquellos efectos que digan “puede”, “o” y “a menos”?
+R. Sí. Los efectos que indican posibilidades con elementos como
+“puede”, “o” y “a menos” dan una elección al investigador. Si un
+efecto dice “puede”, el investigador elige si resolver o no el efecto.
+Si un efecto dice “o”, el investigador elige uno de los efectos separados por el “o”.
+Si un efecto dice “a menos”, el investigador puede resolver el efecto
+que sigue al “a menos”. Sin embargo, si no puede resolver el efecto
+o elige no hacerlo, debe resolver el efecto que precede al “a menos”.
+P. Si un investigador elige un efecto, ¿puede prevenirse ese efecto?
+R. Sí. El efecto elegido por un investigador puede ser prevenido por
+otro efecto. En ese caso, la elección del investigador no queda negada. Por ejemplo, un investigador debe descartar su Hechizo a menos
+que pierda 2 puntos de Cordura. Si ese investigador elige perder 2
+puntos de Cordura, esa pérdida de Cordura puede prevenirse con el
+Apoyo Whisky o el Hechizo Inspirar valor.
+P. ¿Puede un investigador elegir no aplicar una bonificación pasiva al
+resolver una prueba?
+R. No. Una bonificación pasiva, como “Obtienes +3 {”, siempre
+debe aplicarse al resolver una prueba con la habilidad indicada.
+Algunas bonificaciones, como “puedes obtener +5 } durante un
+Encuentro de Combate”, usan el verbo “poder”. Por lo tanto, estas
+bonificaciones son opcionales y no es obligatorio aplicarlas al resolver una prueba.
+Investigadores
+P. Si un investigador usa un efecto que se aplica a “investigadores” o a
+“un investigador”, ¿está incluido él mismo en ese efecto?
+R. Sí. A menos que el efecto diga “otros investigadores” u “otro investigador”, puede afectar a cualquier investigador o investigadores,
+incluyendo al que usa el efecto.
+P. ¿Qué ocurre si las pertenencias iniciales de un nuevo investigador
+están siendo usadas por otro investigador?
+R. Cuando un jugador elige un nuevo investigador, recibe las pertenencias iniciales de ese investigador de los mazos, pilas de descartes
+o reservas. Si las pertenencias iniciales no están en esos lugares, por
+ejemplo porque las tenga otro investigador o un investigador derrotado, el nuevo investigador no empieza con esas pertenencias.
+P. Si un investigador tiene una capacidad que funcione “una vez por
+ronda”, ¿puede esa capacidad afectar a la preparación?
+R. No. La preparación tiene lugar antes de que haya comenzado la
+primera ronda. Por lo tanto, los efectos con la restricción “una vez
+por ronda” no se pueden usar durante la preparación.
+P. Cuando un investigador es derrotado, ¿puede el nuevo investigador
+elegido recibir la ficha de Investigador jefe al final de la fase de Mitos?
+R. Sí. Tanto la elección del nuevo investigador como pasar la ficha
+de Investigador jefe ocurren “al final de la fase de Mitos”. El investigador jefe elige el orden en que se resuelven efectos que ocurran a la
+vez, así que puede elegirse un nuevo investigador y luego pasarle la
+ficha de Investigador jefe.
+P. Si todos los investigadores son derrotados a la vez, ¿pierden la partida
+los investigadores?
+R. No. Al final de la fase de Mitos, cada investigador derrotado elegirá un nuevo investigador con el que jugar. Sin embargo, si ser
+derrotado hiciera que un jugador quedase eliminado, como por
+ejemplo si el Primigenio ha despertado, todos los jugadores podrían
+ser eliminados. En este caso, los investigadores pierden la partida.
+P. ¿Cómo funciona la capacidad activa de Finn Edwards?
+R. Cuando Finn Edwards usa su capacidad activa, se elige a sí mismo, a otro investigador de su casilla o a sí mismo y a otro investigador de su casilla.
+Si Finn sólo se elige a sí mismo, se mueve a una casilla adyacente
+conectada por una ruta de Barco o de Tren.
+Si Finn sólo elige a otro investigador de su casilla, ese investigador
+puede moverse a una casilla adyacente conectada por una ruta de
+Barco o de Tren.
+Si Finn se elige a sí mismo y a otro investigador de su casilla, Finn se
+mueve a una casilla adyacente conectada por una ruta de Barco o de
+Tren, y el investigador elegido puede elegir moverse también a esa
+casilla. Finn y el investigador elegido no pueden moverse a casillas
+distintas.
+3
+P. ¿Qué ocurre si Finn Edwards usa su capacidad pasiva para no descartar un Apoyo único al que le ha dado la vuelta cuando su efecto le
+obligue a ello?
+R. Después de resolver los efectos del dorso de un Apoyo único, si el
+investigador no debe darle la vuelta a la carta, el Apoyo único vuelve
+al mazo de Apoyos únicos y el mazo es barajado.
+Esto suele ocurrir cuando Finn Edwards usa su capacidad pasiva
+para elegir no descartar un Apoyo único, pero podría ocurrir de
+otras formas. Independientemente de cómo ocurra, el Apoyo único
+vuelve al mazo de Apoyos únicos y el mazo es barajado.
+P. ¿Cómo funciona la capacidad pasiva de Ursula Downs?
+R. Una vez por ronda, Ursula puede elegir gastar una ficha de Concentración menos al cubrir el coste de un efecto, incluyendo gastar fichas
+de Concentración para volver a tirar un dado al resolver una prueba.
+Esto puede reducir el coste de un efecto a cero fichas de Concentración.
+P. ¿La capacidad pasiva de Wilson Richard le permite volver a tirar un
+mismo dado dos veces?
+R. No. Si Wilson u otro investigador que esté en la casilla de Wilson
+gasta una ficha de Concentración para volver a tirar un dado y su
+reserva de dados es de un solo dado, el investigador no puede usar la
+capacidad pasiva de Wilson.
+P. ¿Cómo funciona la capacidad de acción de Charlie Kane?
+R. La capacidad de acción de Charlie Kane puede permitir a otro investigador que realice una acción adicional tanto si ese investigador
+ya ha realizado acciones durante la ronda como si no lo ha hecho.
+Sin embargo, no puede afectar a un investigador Retrasado.
+P. ¿Mientras el Misterio Aprovisionar al norte esté en juego, puede Charlie
+Kane comprar un Apoyo único Provisiones para otro investigador?
+R. No. El efecto que permite a un investigador obtener un Apoyo
+único Provisiones se activa cuando el investigador realiza la acción
+de adquirir Apoyos, pero no es parte de esa acción. Por lo tanto,
+Charlie Kane no puede comprar un Apoyo único Provisiones y permitir a otro investigador obtener esa pertenencia.
+De igual modo, Charlie Kane no puede gastar dos éxitos durante
+una acción de adquirir Apoyos para mover a otro investigador al
+Puesto avanzado Miskatonic.
+P. ¿Puede “Malasombra” O’Toole volver a tirar un dado en el que saque
+un 1 si no es la primera vez que lo vuelve a tirar?
+R. Sí. Al resolver una prueba, “Malasombra” O’Toole puede volver
+a tirar cualquier dado en el que saque un 1. No hay límite a la cantidad de dados que puede volver a tirar, ni a la cantidad de veces que
+puede volver a tirar un dado.
+P. ¿Cómo funciona la capacidad pasiva de Hank Samson?
+R. Cuando Hank Samson resuelve un encuentro con un Monstruo,
+si dicho Monstruo tiene tanto una prueba de { como una prueba
+de }, resuelve primero la prueba de }. A continuación, resuelve
+la prueba de { sólo si perdió uno o más puntos de Salud por la
+prueba de }.
+Si el monstruo tiene una prueba de [ o de otro tipo en lugar de la
+prueba de }, Hank resuelve primero esa prueba, y luego resuelve la
+prueba de { sólo si perdió uno o más puntos de Salud.
+Si el monstruo tiene una prueba de | o de otro tipo en lugar de
+la prueba de {, la capacidad pasiva de Hank no tiene efecto en
+ese encuentro.
+P. Si Hank Samson derrota a un Monstruo y pierde Salud por esa misma prueba de }, ¿resuelve la prueba de {?
+R. No. Cuando un Monstruo es derrotado durante un Encuentro de
+Combate, dicho encuentro acaba inmediatamente y Hank Samson
+no resuelve la prueba de {. Nota: esta aclaración prevalece sobre
+cualquier otra aclaración que pueda contradecir.
+P. ¿Cómo funciona la capacidad de acción de Harvey Walters?
+R. Como acción, Harvey Walters elige a otro investigador que esté
+en su casilla. Ese investigador mejora una habilidad de su elección
+si el valor de Harvey en esa habilidad es igual o superior que el suyo
+propio. Esta comparación se realiza empleando el valor modificado
+de la habilidad, incluyendo fichas de Mejora y de Discapacidad. Las
+bonificaciones a las habilidades, como las de los Apoyos, no afectan
+al valor modificado de una habilidad.
+P. ¿La Pista adicional obtenida mediante la capacidad pasiva de Mandy
+Thompson se obtiene del Encuentro de Investigación?
+R. No. Tras resolver un Encuentro de Investigación, la capacidad
+pasiva de Mandy le permitiría obtener una Pista adicional. Sin embargo, esta Pista se obtiene de su capacidad pasiva, no del Encuentro
+de Investigación.
+P. ¿Puede Minh Thi Phan usar su capacidad de acción para obtener
+un billete de viaje incluso si su casilla no está conectada con otra casilla
+mediante la ruta apropiada?
+R. Sí. La capacidad de acción de Minh le permite obtener un billete
+de viaje de su elección, incluso si no pudiera obtener ese tipo de
+billete de viaje usando la acción de prepararse para viajar. Además,
+Minh puede usar su capacidad de acción incluso si no está en una
+casilla de Ciudad.
+P. ¿Cómo funciona la capacidad pasiva de Rex Murphy?
+R. Si en cualquier momento Rex Murphy no tiene el Estado Maldito, obtiene inmediatamente una Pista y mejora una habilidad de su
+elección y, a continuación, obtiene el Estado Maldito.
+P. ¿Cómo funciona la capacidad pasiva de la Hermana Mary?
+R. La Hermana Mary y los demás investigadores que estén en su
+casilla suman 1 al resultado de cada dado tirado como parte de un
+efecto impreso en una carta de Estado que tenga el rasgo Perdición
+o Ayuda. Esta modificación se aplica tanto si el dado se tiró como
+parte de una prueba como si no.
+P. ¿Puede Jenny Barnes usar su capacidad de acción para permitir que
+ella misma u otro investigador realice la acción de adquirir Apoyos si
+dicho investigador no está en una casilla de Ciudad o está en una casilla
+que contenga un Monstruo?
+R. No. Un investigador sólo puede realizar la acción de adquirir
+Apoyos si está en una casilla de Ciudad, y únicamente si no hay
+Monstruos en su casilla.
+P. ¿Puede Michael McGlen usar su capacidad de acción si ya tiene el
+Estado Buscado por la ley?
+R. Sí. Michael McGlen puede usar su capacidad de acción si tiene
+el Estado Buscado por la ley. Si lo hace, resuelve todos los efectos
+de la capacidad excepto que no obtiene otro Estado Buscado por
+la ley.
+4
+P. ¿Le permite su capacidad pasiva a Michael McGlen volver a tirar el
+dado que ha tirado como parte del efecto de retribución del Pacto oscuro?
+R. Sí. La capacidad pasiva de Michael McGlen le permite volver a
+tirar un dado que haya sido tirado como parte del efecto de un Estado Trato o Persecución, incluso si la tirada de dado no es parte
+de una prueba. Esto incluye el dado tirado al resolver el efecto · del
+Estado Pacto Oscuro o del Estado Promesa de poder.
+P. ¿Puede la capacidad pasiva de Wendy Adams evitar que obtenga un
+Estado que ella elija obtener?
+R. Sí. Si un efecto le permite a Wendy Adams obtener un Estado
+como parte de un coste, como “puedes obtener el Estado Locura” o
+“a menos que obtengas el Estado Aflicción”, puede usar su capacidad
+pasiva para no obtener dicho Estado. Si lo hace, se sigue considerando como si hubiera cubierto el coste de obtener el Estado.
+P. ¿Puede la capacidad de acción de Amanda Sharpe mejorar la misma
+habilidad varias veces?
+R. Sí. Si la capacidad de acción de Amanda se usa para descartar
+varios Estados Talento, puede mejorar la misma habilidad más de
+una vez. Sin embargo, no puede mejorar una habilidad más de dos
+puntos por encima de su valor impreso.
+P. ¿Qué ocurre si Kate Winthrop está en una casilla que contenga un
+Portal onírico y fuese a generarse un Portal en esa casilla?
+R. Tanto el efecto del Portal onírico como la capacidad pasiva de
+Kate Winthrop intentarán sustituir la generación del Portal. El investigador activo decide qué efecto tiene prioridad. Por lo tanto,
+podría hacer que la capacidad pasiva de Kate haga que el Portal sea
+descartado en lugar de generado.
+P. ¿Qué cuenta como “resolver un encuentro con un Portal” al usar la
+capacidad pasiva de Luke Robinson?
+R. Luke puede resolver su capacidad pasiva para ignorar Monstruos
+que haya en su casilla al elegir un encuentro. Sin embargo, debe
+elegir resolver un encuentro con un Portal.
+La forma más común de resolver un encuentro con un Portal es
+robar y resolver una carta de Encuentro de Otros mundos. Sin embargo, resolver cualquier encuentro que requiera que Luke ocupe
+una casilla que contenga un Portal ya es resolver un encuentro con
+un Portal. Por ejemplo, el Misterio Atrapado en la red proporciona
+una opción distinta para resolver un encuentro con un Portal.
+P. ¿Cuál es la casilla inicial de Luke Robinson si hay varios Portales en
+el tablero de juego o si no los hay?
+R. La ficha de Investigador de Luke no se coloca durante el paso 3
+de la preparación como sería lo normal. Tras resolver la preparación,
+Luke elige una casilla que contenga un Portal y coloca su ficha de Investigador en ella. Si no hay Portales en el tablero de juego, en lugar
+de eso coloca su ficha de Investigador en una casilla de su elección.
+Primigenios y Misterios
+P. ¿Afectan al Misterio final los efectos que hacen avanzar el Misterio
+activo o resuelven el Misterio activo?
+R. No. El Misterio final no es una carta de Misterio ni se considera
+el Misterio activo. Por lo tanto, los efectos que hacen avanzar o resuelven el Misterio activo no afectan al Misterio final.
+P. Si el tercer Misterio fuese a quedar resuelto al final de la fase de Mitos, pero los investigadores pierden la partida durante la fase de Mitos,
+¿significa esto que los investigadores ganan y pierden la partida a la vez?
+R. No. Si los investigadores pierden la partida al resolver una carta
+de Mitos, la fase de Mitos no ha terminado aún y el tercer Misterio
+aún no ha quedado resuelto.
+Un ejemplo en el que los investigadores ganan y pierden la partida a
+la vez sería si el único investigador restante está resolviendo un Encuentro de Combate contra el Monstruo épico Cthulhu y el resultado de su prueba de } hace que tanto el Monstruo épico Cthulhu
+como el investigador sean derrotados a la vez.
+P. Al jugar contra Azathoth, ¿qué hace la ficha de Arcano del medidor
+de Augurio?
+R. Cuando el Augurio avance a la casilla verde, la Perdición avanza
+una casilla por cada ficha de Arcano que haya en esa casilla. Ten en
+cuenta que las fichas de Arcano colocadas en la casilla verde del medidor de Augurio no sustituyen esa casilla del medidor. Este avance
+de la Perdición se realiza además del avance por cada Portal del tablero de juego que tenga el icono de Augurio verde.
+P. Al jugar contra Yig, ¿qué ocurre cuando un investigador sea derrotado
+y Yig haya despertado?
+R. A diferencia de lo que ocurre con los demás Primigenios, cuando un investigador es derrotado, su jugador no queda eliminado.
+El jugador elegirá un nuevo investigador como si el Primigenio no
+hubiera despertado.
+P. Al jugar contra Sicigia, ¿tienen los investigadores que resolver dos
+Misterios para ganar la partida?
+R. No. Cuando se le da la vuelta a la hoja de Primigenio de Sicigia,
+se colocará una Pista sobre la hoja de Primigenio por cada Misterio resuelto. Sin embargo, los Encuentros Especiales Sellar el portal
+también colocarán Pistas sobre la hoja de Primigenio.
+Resolver Misterios no es necesario para intentar los Encuentros Especiales o para ganar la partida. Sin embargo, resolver Misterios reduce en gran medida la dificultad del Misterio final.
+P. Si un investigador derrota a un Monstruo Sectario como parte de un
+Encuentro Especial Semilla de Abhoth durante la fase de Encuentros,
+¿puede resolver otro encuentro?
+R. Sí. Si un investigador derrota a todos los Monstruos de su casilla
+durante la fase de Encuentros, puede resolver un encuentro adicional de su elección.
+5
+P. Al resolver un Encuentro Especial Semilla de Abhoth, ¿puede un investigador beneficiarse de una bonificación que se aplique durante un
+Encuentro de Combate?
+R. No. Un Encuentro Especial Semilla de Abhoth no es un Encuentro de Combate. Por lo tanto, las bonificaciones que digan algo
+como “durante un Encuentro de Combate” no se aplican a las pruebas resueltas durante el Encuentro Especial. Nota: Esto contradice
+una de las respuestas de la sección Preguntas más frecuentes del reglamento de la expansión Bajo las pirámides, por lo que la aclaración de este documento prevalece sobre la de ese reglamento o sobre
+cualquier otra aclaración.
+P. Al resolver el efecto de retribución de Nephren-Ka, si ya hay un investigador en La Pirámide Torcida, ¿pierde Cordura?
+R. Sí. El efecto · de la hoja de Primigenio de Nephren-Ka primero
+permite a cada investigador moverse 1 casilla hacia La Pirámide Torcida. A continuación, cada investigador que no se moviera pierde
+1 punto de Cordura. Puesto que un investigador que ya esté en La
+Pirámide Torcida no puede acercarse más a la casilla que ocupa, no
+puede moverse y perderá 1 punto de Cordura.
+P. ¿Previene la capacidad del Monstruo épico Semilla de Hastur que
+pierda dos o más puntos de Salud durante un Encuentro de Combate?
+R. Sí. Si cualquier efecto, incluido el efecto de un Encuentro de
+Combate, fuese a hacer que el Monstruo épico Semilla de Hastur
+perdiese dos o más puntos de Salud, en lugar de eso pierde un punto
+de Salud.
+Pertenencias y Estados
+P. ¿Puede un investigador elegir descartar una pertenencia que no
+quiera?
+R. No. Un investigador no puede descartar sin más aquellas pertenencias que no quiera. Sin embargo, puede intercambiar esas pertenencias
+con otro investigador o descartarlas si un efecto le obliga a ello.
+P. ¿Cómo funciona el efecto del Apoyo Trabuco?
+R. De forma parecida a la Escopeta de doble cañón, un investigador que use el Trabuco obtiene dos éxitos por cada 6 que saque al
+resolver una prueba } durante un Encuentro de Combate. Sin
+embargo, por cada 1 que saque durante esa prueba, cancela un éxito.
+Esto significa que al calcular el total de éxitos, resta uno al resultado
+de la prueba por cada 1 que sacara, hasta un mínimo de cero éxitos.
+P. ¿Puede el Artefacto Estatua grotesca prevenir que otros investigadores
+pierdan Cordura?
+R. No. El segundo efecto del Artefacto Estatua grotesca permite al
+investigador gastar una Pista para prevenirle perder Cordura por un
+único efecto. No le permite prevenir que ningún otro investigador
+pierda Cordura.
+P. ¿Pueden el Apoyo Cuarentena de la Agencia o el Hechizo Consunción
+hacer que un Monstruo épico pierda Salud?
+R. Sí. Los efectos que hacen que los Monstruos pierdan Salud, como
+el Apoyo Cuarentena de la Agencia o el Hechizo Consunción, pueden hacer que los Monstruos épicos pierdan Salud.
+P. ¿Puede un investigador tener varias copias del mismo Apoyo único?
+R. Sí. No hay límite a la cantidad de Apoyos únicos que puede tener
+un investigador.
+P. ¿Puede un investigador obtener un Apoyo único aleatorio cuando
+deba obtener un Apoyo aleatorio?
+R. No. Si un efecto dice “obtén 1 Apoyo aleatorio del mazo”, el
+investigador obtiene dicho Apoyo del mazo de Apoyos, no del mazo
+de Apoyos únicos. Un investigador sólo obtiene un Apoyo único si
+el efecto especifica un Apoyo único.
+P. ¿Pueden los efectos del anverso de una carta de doble cara usarse
+mientras la carta está boca abajo?
+R. No. En cada momento, sólo está activa la cara que se muestre de
+una carta de doble cara. Mientras una carta de doble cara esté boca
+abajo, los efectos del anverso se ignoran y no pueden usarse.
+P. ¿Pueden los investigadores intercambiar Apoyos Tarea?
+R. Sí. Los Apoyos Tarea, como cualquier otro Apoyo, pueden intercambiarse con la acción de intercambiar. Si un Apoyo Tarea tiene
+una o más fichas sobre él, dichas fichas permanecen sobre la carta al
+intercambiarla.
+P. ¿Qué ocurre si un investigador obtiene un Apoyo único Servicio de
+entrega y no hay Pistas correspondientes a casillas de Ciudad en la reserva de Pistas?
+R. El investigador tendrá que descartar la Pista de la casilla de Ciudad más cercana que contenga una Pista y colocarla boca arriba en
+su Apoyo único Servicio de entrega.
+P. ¿Se puede aplicar un efecto que dé una bonificación de [ al resolver
+los efectos de un Hechizo a la prueba de [ del anverso de la carta de
+Hechizo?
+R. Sí. Todo el texto de la carta de Hechizo, tanto del anverso como
+del reverso, es el efecto del Hechizo. Por lo tanto, al resolver la prueba de [ del anverso del Hechizo, el investigador suma la bonificación a su [.
+P. Si un investigador falla al lanzar el Hechizo Ajar, ¿puede usar un
+Hechizo o Apoyo distinto para obtener una bonificación a su prueba de
+} durante un Encuentro de Combate?
+R. Sí. Elegir resolver el Hechizo Ajar no prohíbe al investigador usar
+otros efectos para modificar su prueba de }.
+P. ¿Puede un investigador lanzar el Hechizo Niebla de Releh si no hay
+Monstruos en su casilla?
+R. Sí. El Hechizo Niebla de Releh no requiere que un investigador
+esté en una casilla que contenga un Monstruo. Sin embargo, ese
+investigador sufrirá cualquier consecuencia de resolver los efectos
+del Hechizo.
+P. ¿Puede un investigador usar el Hechizo Niebla de Releh para resolver
+un encuentro con algunos de los Monstruos de su casilla, pero no con
+todos?
+R. No. Si un investigador supera la prueba de [ del Hechizo Niebla de Releh, elige un encuentro como si no hubiera Monstruos en
+su casilla o resuelve encuentros con todos los Monstruos de su casilla
+de forma normal.
+6
+P. ¿Puede el Hechizo Clarividencia permitir a un investigador ignorar
+los Monstruos de su casilla?
+R. No. El efecto del Hechizo Clarividencia permite a un investigador elegir resolver un encuentro con una Pista de otra casilla. Se
+considera que el investigador está en esa casilla a todos los efectos
+durante ese encuentro.
+P. Al lanzar un Hechizo Bendición de Isis o Surcar el vacío, ¿cuándo se
+elige el investigador?
+R. Al resolver los efectos de un Hechizo Bendición de Isis o Surcar el
+vacío, eliges un investigador antes de resolver la prueba de [. Esta elección se realiza independientemente de que la prueba tenga éxito o falle.
+P. ¿Puede un investigador beneficiarse a la vez del Hechizo Tormenta de
+espíritus y de un Apoyo Arma?
+R. No. El Hechizo Tormenta de espíritus permite a un investigador
+resolver una prueba [ en lugar de una prueba } durante un Encuentro de Combate. Si lo hace, las bonificaciones a su } no se
+aplican a la prueba de [. Sin embargo, sí se aplicarían las bonificaciones al [ del investigador.
+P. Si un investigador obtiene un Estado durante una acción de descansar, ¿puede resolver un efecto “cuando realices una acción de descansar”
+de ese Estado?
+R. No. Todos los efectos que se activan “cuando realices una acción
+de descansar” se activan a la vez que el investigador realiza la acción.
+Cualquier Estado que obtenga después no se activará hasta la siguiente vez que realice una acción de descansar.
+P. ¿Puede un investigador con el Estado Perdido en el tiempo y el espacio
+ser movido por otro investigador que use el Hechizo Surcar el vacío?
+R. No. Un investigador que tenga el Estado Perdido en el tiempo y
+el espacio (o un Estado Detenido) no puede moverse. Esto significa
+que no puede moverse por sí mismo ni ser movido por ningún otro
+efecto, lo que incluye el Hechizo Surcar el vacío.
+P. ¿Cuándo puede un investigador descartar el Estado Deuda con el
+Estado Financiación?
+R. Si un investigador fuese a obtener el Estado Deuda cuando ya
+tiene el Estado Financiación, puede descartar el Estado Financiación
+en lugar de obtener el Estado Deuda.
+Si un investigador tiene tanto el Estado Deuda como el Estado Financiación, puede descartar ambas cartas en cualquier momento
+siempre y cuando en ese momento no se esté resolviendo el efecto
+de ninguno de los dos Estados.
+Por ejemplo, una carta de Mitos pide a los investigadores que resuelvan los efectos ·; un investigador puede elegir descartar ambos
+Estados antes de resolver el efecto · de cualquiera de ellos, pero
+no puede empezar a resolver el Estado Deuda y luego decidir que
+no le gusta lo que ve y que quiere descartar ambos Estados antes de
+terminar la resolución del efecto.
+P. ¿Recupera un investigador Salud y Cordura adicionales por efectos
+como el Hechizo Palabras curativas o el Apoyo único Provisiones si tiene
+un Estado que restrinja la recuperación de Salud o Cordura durante
+una acción de descansar?
+R. No. Un investigador con un Estado que le restrinja la recuperación de Salud o Cordura, como Envenenado o Hipotermia, no
+puede recuperar Salud o Cordura por una acción de descansar, lo
+que incluye la Salud o Cordura adicionales por otros efectos durante
+una acción de descansar.
+Sin embargo, los efectos que hacen que un investigador recupere
+Salud o Cordura sin realizar una acción de descansar, como el Apoyo
+Seguro privado, afectan al investigador de forma normal.
+P. Cuando un investigador se mueve a otra casilla usando el efecto del
+Artefacto Khopesh del Abismo, ¿debe resolver un encuentro con el Monstruo de su nueva casilla?
+R. No. El investigador resolverá un encuentro con cada Monstruo
+de su casilla. A continuación, si derrota a todos los Monstruos de
+su casilla, puede moverse a la casilla más cercana que contenga un
+Monstruo. No resolverá encuentros con los Monstruos de su nueva
+casilla ni tampoco ningún otro encuentro adicional. Si permanece
+en esa casilla hasta la siguiente fase de Encuentros, entonces resolverá un encuentro con cada Monstruo de esa casilla de forma normal.
+P. ¿Puede el Artefacto Cristal de los Antiguos de la expansión Saber
+olvidado cancelar una pérdida de Salud que no pueda ser prevenida?
+R. Sí. Un investigador que tenga el Artefacto Cristal de los Antiguos
+no puede perder Salud ni Cordura por efectos del texto de reglas
+de las cartas de Mitos incluso si la pérdida de Salud o Cordura no
+puede ser prevenida. El Cristal no crea un efecto de prevención que
+“previene” la pérdida de Salud o Cordura si fuese a ocurrir. En lugar
+de eso, prohíbe que los efectos del texto de reglas de las cartas de
+Mitos hagan que el investigador pierda Salud o Cordura.
+P. Si un investigador que tenga el Apoyo único Conoce a tu enemigo obtiene más de una Pista durante un Encuentro de Investigación, ¿puede
+colocar varias fichas de Arcano sobre su tarea?
+R. Sí. El investigador coloca una ficha de Arcano sobre el Apoyo
+único Conoce a tu enemigo por cada Pista que obtenga como parte
+de un Encuentro de Investigación.
+Sin embargo, las Pistas obtenidas mediante otros efectos, como la
+capacidad pasiva de Mandy Thompson, no se obtienen como parte
+del Encuentro de Investigación y no permiten que el investigador
+coloque una ficha de Arcano sobre el Apoyo único Conoce a tu
+enemigo.
+P. ¿Qué ocurre si un investigador obtiene un Apoyo único Mapa del
+tesoro y no hay Pistas en la reserva de Pistas?
+R. El investigador tendrá que descartar la Pista de la casilla más cercana que contenga una Pista y colocarla boca arriba sobre su Apoyo
+único Mapa del tesoro.
+7
+Acciones y Retrasado
+P. ¿Puede usarse la acción “adicional” de un investigador para realizar
+una acción que ya haya realizado en esa ronda?
+R. No. Un investigador sólo puede realizar una acción una vez por
+ronda, incluso si es capaz de realizar una acción adicional, como
+mediante el Artefacto Rubí de R’lyeh o la capacidad de acción de
+Charlie Kane.
+P. ¿Puede un investigador quedar Retrasado más de una vez?
+R. No. Quedar Retrasado mientras ya se está Retrasado no tiene
+ningún efecto. Un investigador no puede elegir quedar Retrasado
+para cubrir el coste de un efecto si ya está Retrasado.
+P. ¿Qué ocurre si un investigador queda Retrasado durante su acción?
+R. Si un investigador queda Retrasado durante la fase de Acción,
+termina inmediatamente su acción actual, pierde cualquier acción
+restante y termina su turno. Si al investigador no le quedan acciones
+que perder, no quedará Retrasado y podrá realizar acciones en la
+próxima ronda.
+P. Si el investigador jefe o los investigadores como grupo eligen un investigador para que quede Retrasado, ¿puede ese investigador negar ese
+efecto con el Apoyo Reloj de bolsillo?
+R. Sí. El Apoyo Reloj de bolsillo o la capacidad pasiva de Mark Harrigan previenen que el investigador quede Retrasado a menos que
+elija quedar Retrasado para cubrir el coste de un efecto. En el caso
+de la pregunta, hay una elección de por medio, pero esa elección no
+cubre el coste de un efecto. Esto es así independientemente del papel
+de ese investigador en el proceso de toma de decisiones e incluso si el
+investigador jefe es Mark Harrigan o tiene el Apoyo Reloj de bolsillo
+y se elige a sí mismo.
+P. ¿Puede un investigador resolver efectos con una restricción “durante la
+fase de Acción si está Retrasado?
+R. No. Los efectos que especifican “durante la fase de Acción” pueden
+resolverse antes o después de realizar una acción. Un investigador que
+comience la fase de Acción Retrasado, endereza su ficha de Investigador,
+pero no realiza ninguna acción. Por lo tanto, no tiene la oportunidad de
+resolver efectos que especifiquen “durante la fase de Acción”.
+P. ¿Puede la acción de intercambiar hacer que un investigador “obtenga”
+las pertenencias que recibe?
+R. No. Como parte de la acción de intercambiar, ambos investigadores pueden darse cualquier cantidad de sus pertenencias el uno al
+otro. Sin embargo, ninguna de las pertenencias intercambiadas se
+obtiene como parte de la acción.
+P. ¿Puede un investigador usar una acción de componente varias veces si
+tiene acceso a varias copias del mismo componente?
+R. Sí. Un investigador puede usar cada acción de componente a la
+que tenga acceso una vez por ronda.
+Por ejemplo, un investigador podría realizar la acción local de componente del Estado Detenido de otro investigador que esté en su casilla como su primera acción, y luego podría realizar la misma acción
+local de componente del Estado Detenido de un tercer investigador
+como su segunda acción.
+De forma similar, si un investigador tiene dos copias del Apoyo único Trineo de perros, podría usar la acción de componente de ambos
+Apoyos únicos durante la misma ronda.
+Encuentros y combate
+P. ¿Puede un investigador resolver un efecto “como un encuentro” si hay
+un Monstruo en su casilla?
+R. No. Los efectos que dicen “como un encuentro” se consideran
+como cualquier otra opción de encuentros disponible. El investigador debe resolver encuentros con todos los Monstruos de su casilla.
+A continuación, si no hay Monstruos en su casilla, puede resolver
+ese efecto como su encuentro adicional.
+Si un efecto dice “en lugar de resolver un encuentro”, como el Estado Detenido, puede resolverse incluso en una casilla que contenga
+un Monstruo.
+P. ¿Por qué algunos Encuentros de Investigación no dan la Pista al
+investigador?
+R. Algunos Encuentros de Investigación no permiten al investigador
+“obtener esta Pista”. Sin embargo, estos encuentros suelen contener
+otros efectos beneficiosos para el investigador, como obtener un Artefacto o hacer retroceder la Perdición.
+P. ¿Puede un investigador usar varias armas durante el combate?
+R. Un investigador sólo puede aplicar una bonificación a una prueba. Sin embargo, puede usar otros efectos cualesquiera del resto de
+sus posesiones. Por ejemplo, si un investigador tiene un Apoyo Látigo y un Apoyo Automática del .45, puede aplicar la bonificación +3
+de la Automática a su } en lugar de la bonificación +1 del Látigo,
+y puede repetir una tirada usando el otro efecto del látigo.
+P. ¿Qué efectos quedan cancelados por la Resistencia física y la Resistencia mágica?
+R. Al resolver un Encuentro de combate contra un Monstruo que
+tenga Resistencia física o Resistencia mágica, un investigador no
+puede aplicar bonificaciones a su reserva de dados como indica el
+reglamento de Las Montañas de la Locura.
+Las bonificaciones son efectos de las cartas u otros componentes
+que otorgan dados adicionales al realizar una prueba de habilidad. Las bonificaciones siempre aparecen con el siguiente formato:
+“Obtén + X habilidad”, donde X es el número de dados y “habilidad” es la habilidad afectada. Por ejemplo, el Apoyo Revólver del .38
+dice “Obtén +2 }...”.
+Cualquier otro efecto que permita volver a tirar dados (como el
+Apoyo Pata de conejo), manipular dados (como el Apoyo Pitillera
+de la suerte) o “dados adicionales” (como las capacidades pasivas de
+Jim Culver y Agnes Baker) se siguen aplicando.
+P. ¿Evita la Resistencia física o la Resistencia mágica que un investigador
+use los Hechizos Tormenta de espíritus, Consunción o Destierro?
+R. No. El Hechizo Tormenta de espíritus permite a un investigador realizar una prueba de [ en lugar de } durante Encuentros
+de Combate. Esto no es una bonificación, y por lo tanto, no se ve
+afectada por la Resistencia mágica o la Resistencia física. De forma
+similar, los Hechizos de Consunción y Destierro no aplican una bonificación durante un Encuentro de Combate, así que tampoco se
+ven afectados por la Resistencia mágica o la Resistencia física.
+8
+Mitos, Portales y Monstruos
+P. Si el efecto de una carta de Mitos hace que se resuelva otra carta de
+Mitos, ¿deben resolverse también los iconos de esa carta de Mitos?
+R. Sí. Al resolver una carta de Mitos, deben resolverse todos los
+elementos de la carta si es posible. Si el efecto de una carta de Mitos
+es resolver una carta de Mitos adicional, también deben resolverse
+todos los elementos de esa carta adicional.
+P. ¿Es lo mismo cerrar un Portal que descartarlo?
+R. No. Aunque cerrar un Portal hace que sea descartado, descartar
+un Portal no se considera cerrarlo. Por ejemplo, si un efecto fuese a
+descartar un Portal mientras está en juego la carta de Mitos Luces
+misteriosas, ese efecto se resolvería y descartaría el Portal aunque “no
+pueden cerrarse Portales”.
+P. ¿Cuándo se resuelve el efecto de generación de un Monstruo?
+R. Cuando se genera un Monstruo, su efecto “Cuando se genere
+este Monstruo” se resuelve inmediatamente como parte del efecto
+que lo generó.
+P. Si la fortaleza de un Monstruo o de un Monstruo épico se reduce a
+cero, ¿queda derrotado el Monstruo?
+R. Sí. Un Monstruo o Monstruo épico queda derrotado si ha perdido una cantidad de Salud igual o mayor que su fortaleza. Si se reduce a cero la fortaleza de un Monstruo, queda derrotado. Incluso si
+no ha perdido Salud, cero puntos de Salud perdidos es una cantidad
+igual que cero puntos de fortaleza.
+P. ¿Qué ocurre si un efecto fuese a hacer que el Augurio avance a la
+casilla roja mientras ya está en esa casilla?
+R. “Haz avanzar el Augurio a la casilla roja del medidor de Augurio”
+significa hacer avanzar el Augurio hasta que esté en la casilla roja. Si
+el Augurio empieza en la casilla roja, avanzará cuatro veces en total
+y volverá a la casilla roja del medidor de Augurio.
+Si el Primigenio es Sicigia, esto activará su efecto “Cuando el Augurio avance a la casilla roja del medidor de Augurio”.
+P. ¿Qué ocurre con los Portales del montón de Portales después de que
+hayan sido revelados?
+R. Los Portales revelados permanecen donde están en el montón
+de Portales a menos que el efecto que haga que los Portales sean
+revelados diga algo distinto. El montón de Portales no se mezcla,
+ni tampoco se descartan los Portales o se mueven a otro lugar del
+montón de Portales.
+Después de que un Portal del montón de Portales sea revelado, permanece revelado hasta que sea retirado del montón de Portales o
+éste se mezcle.
+Preludios
+P. Si la Perdición comienza en una casilla que contenga una ficha de
+Arcano colocada por el Preludio “Se acerca el Apocalipsis”, ¿hay que
+resolver un Desastre?
+R. No. El Preludio indica que sólo se resuelve un Desastre cuando
+la Perdición avance a una casilla que contenga una ficha de Arcano.
+Para que el efecto se active, la Perdición debe avanzar.
+Casillas y rutas
+P. ¿Qué tipo de casilla son las casillas del tablero secundario de la
+Antártida?
+R. Las casillas del tablero secundario de la Antártida no tienen tipo.
+Cuando un investigador resuelva un encuentro con una Pista en el
+tablero secundario de la Antártida, roba y resuelve un Encuentro de
+Investigación de la Antártida.
+P. ¿Están adyacentes dos casillas conectadas por una ruta Local?
+R. Sí. Dos casillas conectadas por una ruta Local están adyacentes.
+P. ¿Las rutas que salen por el lateral del tablero de juego conectan con el
+lado opuesto del tablero?
+R. Sí. Las rutas que salen por el lateral del tablero de juego conectan con las rutas correspondientes del lado opuesto del tablero. Por
+ejemplo, Tokio y la casilla 2 están adyacentes y conectadas por una
+ruta de Barco.
+P. ¿Puede haber varias Pistas en una casilla?
+R. Sí. Algunos efectos mueven Pistas a otras casillas o generan Pistas
+en casillas concretas. No hay límite a la cantidad de Pistas que puede
+haber en una casilla. Sin embargo, el encuentro de cada Pista se
+resuelve por separado.
+P. ¿Puede un investigador interrumpir parte de su acción para moverse
+por una ruta Local?
+R. Sí. Una vez por ronda, durante la fase de Acción, un investigador
+puede moverse por cualquier cantidad de rutas Locales interconectadas. Este movimiento puede resolverse antes, después o durante
+cualquier acción que realice el investigador.
+P. ¿Siguen siendo “casillas de Ciudad con nombre” las ciudades
+devastadas?
+R. Las casillas devastadas dejan de ser casillas de Ciudad y no tienen tipo de casilla; sin embargo, una casilla devastada conserva su
+nombre. Un efecto que haga referencia a una “casilla de Ciudad
+con nombre” implica una casilla que sea tanto de Ciudad como que
+tenga nombre. Por lo tanto, una casilla devastada no es una casilla de
+Ciudad con nombre porque ya no es una casilla de Ciudad.
+CARTAS DE REFERENCIA ALTERNATIVAS
+Con la introducción de nuevas mecánicas en las expansiones de Eldritch Horror, algunos grupos de jugadores pueden querer
+disfrutar de una experiencia más difícil o más relajada para determinadas cantidades de jugadores. Las cartas de Referencia
+alternativas que se muestran a continuación pueden emplearse para aumentar o disminuir la dificultad del juego.
+PARA 1 O 5 JUGADORES
+Los jugadores que quieran una experiencia menos difícil para
+partidas de 1 o 5 jugadores pueden emplear las siguientes cartas
+de Referencia en lugar de las de la caja básica.
+PARA 4, 7, U 8 JUGADORES
+Los jugadores que quieran una experiencia más difícil para
+partidas de 4, 7 u 8 jugadores pueden emplear las siguientes
+cartas de Referencia en lugar de las de la caja básica.
+2 1
+1
+Referencia de iconos
+1
+Generar Pistas
+Numero de Jugadores
+Oleada de Monstruos
+Generar Portales
+1
+2
+3
+Referencia de iconos
+5
+Generar Pistas
+Numero de Jugadores
+Oleada de Monstruos
+Generar Portales
+2
+12
+Referencia de iconos
+4
+Generar Pistas
+Numero de Jugadores
+Oleada de Monstruos
+Generar Portales
+1
+3
+4
+Referencia de iconos
+7
+Generar Pistas
+Numero de Jugadores
+Oleada de Monstruos
+Generar Portales
+1
+3
+4
+Referencia de iconos
+8
+Generar Pistas
+Numero de Jugadores
+Oleada de Monstruos
+Generar Portales
+9
