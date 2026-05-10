@@ -199,7 +199,7 @@ eL amazonaS
 Cómo usar esta guía
 de referenCia
 Este documento está pensado como referencia para todas las consultas sobre reglas a las que no responda el reglamento principal. A diferencia de
-éste, la guía de referencia no enseña a los jugadores cómo jugar al juego. Los
+este, la guía de referencia no enseña a los jugadores cómo jugar al juego. Los
 jugadores deberían leer el reglamento completo en primer lugar, para luego
 usar esta guía de referencia cuando lo necesiten al jugar.
 Esta guía tiene 5 secciones principales:
@@ -1180,7 +1180,7 @@ haya resuelto un encuentro.
 Durante la fase de Encuentros, si un investigador está en una casilla
 que contenga uno o más Monstruos, debe resolver un solo Encuentro de Combate contra cada Monstruo que haya en esa casilla, de
 uno en uno, en el orden de su elección. Si no hay Monstruos en la
-casilla de un investigador, éste resuelve un Encuentro de Lugar o
+casilla de un investigador, este resuelve un Encuentro de Lugar o
 un Encuentro de Ficha, a su elección, de la forma descrita en las
 siguientes secciones.
 ENCUENTROS DE COMBATE
@@ -1892,7 +1892,7 @@ El Monstruo pierde una cantidad de Salud igual a la cantidad de
 de Monstruo. Cuando un Monstruo haya perdido una cantidad de
 Salud igual o mayor que su FORTALEZA, el Monstruo es derrotado y
 devuelto a la reserva de Monstruos.
-Si el investigador no derrota al Monstruo, éste permanece en su
+Si el investigador no derrota al Monstruo, este permanece en su
 casilla junto con las fi chas de Salud que tenga.
 MONSTRUOS ÉPICOS
 Algunos Monstruos son tan poderosos o intratables que son inmunes a algunos efectos.

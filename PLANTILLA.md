@@ -144,7 +144,7 @@ Nota especial: Si el Ladrón está en el desierto inicial, nadie cuenta como "ad
 ### Asentamientos
 
 - Se colocan en los vértices (esquinas donde se unen 3 hexágonos)
-- Cada vértice sólo puede tener 1 asentamiento
+- Cada vértice solo puede tener 1 asentamiento
 - Deben estar a 2 vértices de distancia mínimo de otro asentamiento
 - Deben estar conectados por carreteras propias
 - En el primer turno del juego (preparación), cada jugador coloca 2 sin carreteras previas

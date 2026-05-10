@@ -325,7 +325,7 @@ El Investigador Jefe roba 1 carta del mazo de Mitos y resuelve sus efectos en es
 - Voltear hoja de Primigenio
 - Es mucho más difícil
 - Debe resolverse **Misterio Final** (generalmente combate contra Primigenio épico)
-- Hasta entonces, jugadores derrotados resultado eliminados (no nuevos investigadores)
+- Hasta entonces, jugadores derrotados resultan eliminados (no nuevos investigadores)
 
 ---
 

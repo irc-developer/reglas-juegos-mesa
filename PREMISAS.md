@@ -362,8 +362,8 @@ Todos los documentos llevarán estas secciones en este orden:
 - Validación doble: Línea por línea vs documento fuente + Pruebas lógicas de coherencia
 
 **Público objetivo**: 
-- ✓ Utiles para **novatos** (reduce curva de aprendizaje)
-- ✓ Utiles para **experimentados** (referencia rápida)
+- ✓ Útiles para **novatos** (reduce curva de aprendizaje)
+- ✓ Útiles para **experimentados** (referencia rápida)
 - ✓ Diseñadas para ambos contextos simultáneamente
 
 **Proceso de creación**:

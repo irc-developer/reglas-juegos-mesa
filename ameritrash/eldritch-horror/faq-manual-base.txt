@@ -640,7 +640,7 @@ revelados diga algo distinto. El montón de Portales no se mezcla,
 ni tampoco se descartan los Portales o se mueven a otro lugar del
 montón de Portales.
 Después de que un Portal del montón de Portales sea revelado, permanece revelado hasta que sea retirado del montón de Portales o
-éste se mezcle.
+este se mezcle.
 Preludios
 P. Si la Perdición comienza en una casilla que contenga una ficha de
 Arcano colocada por el Preludio “Se acerca el Apocalipsis”, ¿hay que

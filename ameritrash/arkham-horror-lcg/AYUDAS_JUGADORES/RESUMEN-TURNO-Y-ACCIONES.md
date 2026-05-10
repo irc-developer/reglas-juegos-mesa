@@ -79,7 +79,7 @@ Hazlas en cualquier orden. Cuando terminas, pasa el turno al siguiente investiga
 
 ## Regla crítica
 
-Si estas enfrentado a un enemigo preparado, hacer cualquiera de estas acciones provoca **ataque de oportunidad**:
+Si estás enfrentado a un enemigo preparado, hacer cualquiera de estas acciones provoca **ataque de oportunidad**:
 
 - robar,
 - ganar recurso,

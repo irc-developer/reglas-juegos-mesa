@@ -4,7 +4,7 @@ Biblioteca centralizada de reglas, mecanismos y guías para juegos de mesa. Cada
 
 ---
 
-## 📚 Documentazione Fundamental
+## 📚 Documentación fundamental
 
 - [**PREMISAS**](PREMISAS.md) - Principios, roles, skills y criterios de calidad que rigen este proyecto
 - [**PLANTILLA**](PLANTILLA.md) - Template estándar para crear nuevos documentos de juegos
@@ -148,7 +148,7 @@ Todos los documentos son compatibles con Obsidian, con:
 
 ### Para Agregar un Nuevo Juego
 1. Copia la [PLANTILLA.md](PLANTILLA.md)
-2. Relléna los metadatos y secciones
+2. Rellena los metadatos y secciones
 3. Coloca el archivo en la carpeta de su género
 4. Actualiza este índice (README.md)
 
@@ -186,4 +186,4 @@ Todos los documentos son compatibles con Obsidian, con:
 
 ---
 
-**¿Necesitas ayuda?** Consulta [PREMISAS.md](PREMISAS.md#mi-rol-como-experto-jugador) sobre my rol como experto jugador y qué puedo hacer por ti.
+**¿Necesitas ayuda?** Consulta [PREMISAS.md](PREMISAS.md#mi-rol-como-experto-jugador) sobre mi rol como experto jugador y qué puedo hacer por ti.

@@ -2,99 +2,99 @@
 
 ## Objetivo
 
-Generar una imagen vertical de resumen de juego en formato carta tarot para Terraforming Mars. La prioridad ya no es hacer un poster grande, sino una ayuda visual compacta, clara y muy legible, en proporcion 7:12 vertical, pensada para condensar el flujo del juego y las mecanicas esenciales en una sola carta o mini-infografia de referencia rapida.
+Generar una imagen vertical de resumen de juego en formato carta tarot para Terraforming Mars. La prioridad ya no es hacer un póster grande, sino una ayuda visual compacta, clara y muy legible, en proporción 7:12 vertical, pensada para condensar el flujo del juego y las mecánicas esenciales en una sola carta o mini-infografía de referencia rápida.
 
 ---
 
 ## Prompt listo para pegar
 
-Crea una carta-resumen vertical en proporcion tarot 7:12, muy legible, elegante y funcional, basada en Terraforming Mars. Quiero una mini-infografia compacta que resuma el flujo completo del juego y sus mecanicas esenciales en una sola pieza visual, pensada para consulta rapida en mesa. No quiero un poster ni una escena panoramica: quiero una carta de ayuda visual de tamaño tarot, alta densidad de informacion, muy bien jerarquizada y facil de leer de un vistazo.
+Crea una carta-resumen vertical en proporción tarot 7:12, muy legible, elegante y funcional, basada en Terraforming Mars. Quiero una mini-infografía compacta que resuma el flujo completo del juego y sus mecánicas esenciales en una sola pieza visual, pensada para consulta rápida en mesa. No quiero un póster ni una escena panorámica: quiero una carta de ayuda visual de tamaño tarot, alta densidad de información, muy bien jerarquizada y fácil de leer de un vistazo.
 
-La carta debe conservar al maximo la identidad visual de Terraforming Mars: colores marcianos, sensacion de tablero cientifico-corporativo, iconografia de recursos, atmosfera de eurogame complejo, losetas de oceano, vegetacion y ciudad, tracks de temperatura, oxigeno y TR, cartas de proyecto y sensacion de terraformacion sistemica. Debe parecer una ayuda oficial o semioficial del juego, muy cercana al universo grafico original.
+La carta debe conservar al máximo la identidad visual de Terraforming Mars: colores marcianos, sensación de tablero científico-corporativo, iconografía de recursos, atmósfera de eurogame complejo, losetas de océano, vegetación y ciudad, tracks de temperatura, oxígeno y TR, cartas de proyecto y sensación de terraformación sistemática. Debe parecer una ayuda oficial o semioficial del juego, muy cercana al universo gráfico original.
 
-La composicion debe estar organizada en bloques verticales claros dentro de una carta 7:12:
+La composición debe estar organizada en bloques verticales claros dentro de una carta 7:12:
 
-- cabecera con titulo breve o rotulo discreto de Terraforming Mars;
+- cabecera con título breve o rótulo discreto de Terraforming Mars;
 - bloque de objetivo del juego;
-- bloque de secuencia de generacion;
+- bloque de secuencia de generación;
 - bloque de acciones disponibles;
-- bloque de produccion y conversion de recursos;
-- bloque de colocacion y puntuacion de losetas;
-- bloque final de fin de partida y puntuacion.
+- bloque de producción y conversión de recursos;
+- bloque de colocación y puntuación de losetas;
+- bloque final de fin de partida y puntuación.
 
-Quiero que el contenido mecanico resumido que aparezca visualmente sea este:
+Quiero que el contenido mecánico resumido que aparezca visualmente sea este:
 
 1. Objetivo:
-- gana quien tenga mas VP;
-- el final llega cuando se completan oceanos, oxigeno y temperatura.
+- gana quien tenga más VP;
+- el final llega cuando se completan océanos, oxígeno y temperatura.
 
-2. Estructura de generacion:
+2. Estructura de generación:
 - orden de jugador;
-- investigacion: roba 4, compra las que quieras por 3 M€ cada una;
+- investigación: roba 4, compra las que quieras por 3 M€ cada una;
 - acciones: en tu turno haces 1 o 2 acciones hasta pasar;
-- produccion: energia a calor, cobras TR + produccion de M€, luego el resto.
+- producción: energía a calor, cobras TR + producción de M€, luego el resto.
 
 3. Acciones principales:
 - jugar carta;
-- proyecto estandar;
+- proyecto estándar;
 - reclamar hito;
 - financiar recompensa;
-- usar accion azul;
-- 8 plantas = 1 vegetacion;
+- usar acción azul;
+- 8 plantas = 1 vegetación;
 - 8 calor = 1 temperatura.
 
 4. Reglas clave de losetas:
-- oceano: da TR y bonifica adyacencias;
-- vegetacion: sube oxigeno y da VP;
-- ciudad: puntua por vegetaciones adyacentes.
+- océano: da TR y bonifica adyacencias;
+- vegetación: sube oxígeno y da VP;
+- ciudad: puntúa por vegetaciones adyacentes.
 
-5. Puntuacion final:
+5. Puntuación final:
 - TR final;
 - recompensas;
 - hitos;
 - tablero;
 - cartas.
 
-El texto debe ser muy corto, de estilo ayuda de referencia, no parrafos largos. Cada bloque debe usar frases minimas, iconos, flechas, separadores y mini diagramas. Prioriza claridad absoluta sobre decoracion.
+El texto debe ser muy corto, de estilo ayuda de referencia, no párrafos largos. Cada bloque debe usar frases mínimas, iconos, flechas, separadores y mini diagramas. Prioriza claridad absoluta sobre decoración.
 
 Estilo visual deseado:
 
-- carta tarot vertical, proporcion 7:12, no A4;
+- carta tarot vertical, proporción 7:12, no A4;
 - diseño editorial premium de juego de mesa;
 - look cercano a una carta de ayuda oficial del propio Terraforming Mars;
-- iconografia clara y compacta;
-- aire tecnico, cientifico, marciano y corporativo;
-- mezcla de texto muy breve + simbolos + mini esquemas.
+- iconografía clara y compacta;
+- aire técnico, científico, marciano y corporativo;
+- mezcla de texto muy breve + símbolos + mini esquemas.
 
-Paleta cromatica:
+Paleta cromática:
 
-- rojos ferricos, ocres y siena para Marte;
-- azul intenso para oceanos y elementos de temperatura/agua;
-- verde controlado para vegetacion y oxigeno;
-- grises metalicos, negro suave y blanco roto para interfaz y texto.
+- rojos férricos, ocres y siena para Marte;
+- azul intenso para océanos y elementos de temperatura/agua;
+- verde controlado para vegetación y oxígeno;
+- grises metálicos, negro suave y blanco roto para interfaz y texto.
 
-La carta debe tener bordes limpios, buena separacion por modulos, contraste alto, tipografia muy legible y distribucion compacta. Debe sentirse como una ayuda de referencia premium para tener al lado del tablero.
+La carta debe tener bordes limpios, buena separación por módulos, contraste alto, tipografía muy legible y distribución compacta. Debe sentirse como una ayuda de referencia premium para tener al lado del tablero.
 
 Si puedes usar referencias visuales, prioriza parecerte al estilo del juego real, pero adaptado a un formato de ayuda tarot 7:12.
 
 ---
 
-## Prompt con imagenes adjuntas
+## Prompt con imágenes adjuntas
 
-Usa las imagenes adjuntas como referencia principal y prioritaria. Quiero una carta-resumen vertical de Terraforming Mars en formato tarot 7:12, muy parecida al aspecto real del juego, pero adaptada a una ayuda visual compacta. Conserva el lenguaje grafico del tablero, los colores, el estilo de iconos, la densidad visual y el look de eurogame cientifico-corporativo. La carta debe resumir objetivo, generacion, acciones, produccion, losetas y puntuacion final.
+Usa las imágenes adjuntas como referencia principal y prioritaria. Quiero una carta-resumen vertical de Terraforming Mars en formato tarot 7:12, muy parecida al aspecto real del juego, pero adaptada a una ayuda visual compacta. Conserva el lenguaje gráfico del tablero, los colores, el estilo de iconos, la densidad visual y el look de eurogame científico-corporativo. La carta debe resumir objetivo, generación, acciones, producción, losetas y puntuación final.
 
-No quiero una reinterpretacion libre. Quiero una ayuda tarot que parezca parte del propio ecosistema visual del juego. Usa las referencias para copiar color, iconografia, atmosfera, materiales y sensacion de producto fisico, pero reorganizado en una carta vertical de referencia rapida.
+No quiero una reinterpretación libre. Quiero una ayuda tarot que parezca parte del propio ecosistema visual del juego. Usa las referencias para copiar color, iconografía, atmósfera, materiales y sensación de producto físico, pero reorganizado en una carta vertical de referencia rápida.
 
 ---
 
 ## Referencias ideales para adjuntar
 
-Si puedes adjuntar imagenes, estas ayudan mucho mas que una sola portada:
+Si puedes adjuntar imágenes, estas ayudan mucho más que una sola portada:
 
 - una foto de una ayuda de juego o carta de referencia que te guste en formato vertical;
-- una captura clara del estilo de tipografia e iconografia del juego.
+- una captura clara del estilo de tipografía e iconografía del juego.
 
-Cuantas mas referencias de mesa real y de layout vertical adjuntes, mas facil sera conseguir una carta-resumen convincente.
+Cuantas más referencias de mesa real y de layout vertical adjuntes, más fácil será conseguir una carta-resumen convincente.
 
 ---
 
@@ -102,28 +102,28 @@ Cuantas mas referencias de mesa real y de layout vertical adjuntes, mas facil se
 
 Evitar:
 
-- formato poster o A4
-- composicion horizontal
-- exceso de ilustracion ambiental que quite espacio al resumen
-- texto largo en parrafos
-- jerarquia visual pobre
-- iconos demasiado pequenos o ilegibles
+- formato póster o A4
+- composición horizontal
+- exceso de ilustración ambiental que quite espacio al resumen
+- texto largo en párrafos
+- jerarquía visual pobre
+- iconos demasiado pequeños o ilegibles
 - deformar la estructura visual del juego
-- cambiar la logica visual del juego por una interfaz futurista generica
-- convertirlo en una portada de pelicula espacial
+- cambiar la lógica visual del juego por una interfaz futurista genérica
+- convertirlo en una portada de película espacial
 - exagerar personajes o naves como foco principal
 - sustituir componentes de mesa por hologramas abstractos
-- tipografia grande o bloques de texto
-- personajes posando a camara
-- astronautas protagonicos ocupando la escena
+- tipografía grande o bloques de texto
+- personajes posando a cámara
+- astronautas protagónicos ocupando la escena
 - estilo cartoon
 - estilo anime
 - exceso de neones
-- estetica cyberpunk saturada
+- estética cyberpunk saturada
 - ruido visual
-- composicion caotica
-- arte oscuro o terrorifico
-- aspecto de anuncio publicitario genrico
+- composición caótica
+- arte oscuro o terrorífico
+- aspecto de anuncio publicitario genérico
 - mockup de caja de juego
 - manos humanas sujetando componentes
 - elementos fantasy
@@ -133,17 +133,17 @@ Evitar:
 
 ---
 
-## Variante mas orientada a infografia pura
+## Variante más orientada a infografía pura
 
-Si Mundrel responde mejor a prompts mas concretos, usa esta variante:
+Si Mundrel responde mejor a prompts más concretos, usa esta variante:
 
-Carta tarot vertical 7:12 de ayuda rapida para Terraforming Mars, muy fiel al estilo visual del juego, con bloques claros de objetivo, generacion, acciones, produccion, losetas y puntuacion, iconografia compacta, colores marcianos, oceanos azules, vegetacion verde, TR, temperatura y oxigeno visibles, apariencia de componente oficial premium de juego de mesa, alta legibilidad, muy densa pero ordenada, pensada para consulta rapida en mesa.
+Carta tarot vertical 7:12 de ayuda rápida para Terraforming Mars, muy fiel al estilo visual del juego, con bloques claros de objetivo, generación, acciones, producción, losetas y puntuación, iconografía compacta, colores marcianos, océanos azules, vegetación verde, TR, temperatura y oxígeno visibles, apariencia de componente oficial premium de juego de mesa, alta legibilidad, muy densa pero ordenada, pensada para consulta rápida en mesa.
 
 ---
 
 ## Ajustes recomendados
 
-- Si te deja elegir proporcion: 7:12 vertical.
+- Si te deja elegir proporción: 7:12 vertical.
 - Si te deja elegir intensidad de detalle: alta.
 - Si te deja elegir estilo: ayuda de juego editorial / board game reference card / infographic premium.
 - Si te deja elegir fidelidad al prompt: alta.
@@ -153,4 +153,4 @@ Carta tarot vertical 7:12 de ayuda rapida para Terraforming Mars, muy fiel al es
 
 ## Nota de uso
 
-Si adjuntas imagenes reales del tablero y de los componentes, este prompt va a funcionar bastante mejor. Si Mundrel admite peso distinto por referencia, dale maxima prioridad a la foto cenital del tablero completo y a cualquier referencia de carta-resumen vertical bien maquetada.
+Si adjuntas imágenes reales del tablero y de los componentes, este prompt va a funcionar bastante mejor. Si Mundrel admite peso distinto por referencia, dale máxima prioridad a la foto cenital del tablero completo y a cualquier referencia de carta-resumen vertical bien maquetada.
