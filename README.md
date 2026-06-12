@@ -42,6 +42,7 @@ Juegos con narrativa y temática fuerte
 
 | Juego | Jugadores | Duración | Estado |
 |-------|-----------|----------|--------|
+| [The Witcher: El Viejo Mundo](./ameritrash/witcher-old-world/The-Witcher-El-Viejo-Mundo.md) | 1-5 | No esp. en manual | ✓ [Base](./ameritrash/witcher-old-world/The-Witcher-El-Viejo-Mundo.md) + [guía](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) + [resumen](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/RESUMEN-TURNO.md) + [ayuda visual](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/AYUDA-VISUAL-MESA.md) + [prompt](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/PROMPT-IMAGEN-MUNDREL.md) |
 | *(Próximamente)* | - | - | - |
 
 ### 🎲 Abstractos
