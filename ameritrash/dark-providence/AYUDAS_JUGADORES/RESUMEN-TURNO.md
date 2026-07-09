@@ -1,12 +1,12 @@
 # Cthulhu: Dark Providence - Resumen de turno
 
-**Uso**: consulta rapida en mesa  
-**Fuente**: reglamento ES local y aclaraciones BGG del disenador  
-**Ultima validacion**: 09/07/2026
+**Uso**: consulta rápida en mesa  
+**Fuente**: reglamento ES local y aclaraciones BGG del diseñador  
+**Última validación**: 09/07/2026
 
 ---
 
-## Leyenda rapida
+## Leyenda rápida
 
 <img src="../img/icons/influencia.png" alt="[INF]" width="18"> Influencia ·
 <img src="../img/icons/riqueza.png" alt="[RIQ]" width="18"> Riqueza ·
@@ -20,29 +20,29 @@
 
 ## Turno de jugador
 
-1. Realiza **2 acciones** mas acciones gratuitas disponibles.
-2. Coloca en el descarte las cartas usadas cuando su accion se resuelva.
+1. Realiza **2 acciones** más acciones gratuitas disponibles.
+2. Coloca en el descarte las cartas usadas cuando su acción se resuelva.
 3. Roba hasta tener **5 cartas**. Si el mazo se agota, baraja descartes y sigue robando.
 
-Una carta solo se usa para un proposito: recurso, ACCION o ACCION GRATUITA. La carta tiene prioridad sobre el reglamento. (Reglamento, p. 8)
+Una carta solo se usa para un propósito: recurso, ACCIÓN o ACCIÓN GRATUITA. La carta tiene prioridad sobre el reglamento. (Reglamento, p. 8)
 
-Si vas a **Reclamar**, no hagas acciones gratuitas antes: Reclamar debe ser lo primero del turno. No puedes sobrepagar recursos, pero no estas obligado a usar el menor numero fisico de cartas.
+Si vas a **Reclamar**, no hagas acciones gratuitas antes: Reclamar debe ser lo primero del turno. No puedes sobrepagar recursos, pero no estás obligado a usar el menor número físico de cartas.
 
 ---
 
 ## Acciones
 
-| Icono | Accion | Que hace | Aviso |
+| Icono | Acción | Qué hace | Aviso |
 |---|---|---|---|
-| <img src="../img/icons/influencia.png" alt="[INF]" width="18"> | **Anadir Influencia** | Coloca cubos en 1 unico objetivo: Activo principal, Mitos o Ciudad. | Puedes elegir cualquier carta/Ciudad; no necesitas Agente. |
-|  | **Reclamar** | Reclama 1 carta o Ciudad con mayoria de Influencia. | Solo como **1ª accion normal** y sin gratuitas antes. Empate no es mayoria. |
+| <img src="../img/icons/influencia.png" alt="[INF]" width="18"> | **Añadir Influencia** | Coloca cubos en 1 único objetivo: Activo principal, Mitos o Ciudad. | Puedes elegir cualquier carta/Ciudad; no necesitas Agente. |
+|  | **Reclamar** | Reclama 1 carta o Ciudad con mayoría de Influencia. | Solo como **1ª acción normal** y sin gratuitas antes. Empate no es mayoría. |
 |  | **Recuperar Influencia** | Recupera cubos propios desde cartas, Ciudades, Mitos o Limbo. | No recupera cubos del suministro general. |
 | <img src="../img/icons/riqueza.png" alt="[RIQ]" width="18"> | **Adquirir Influencia** | Por cada 2 riqueza, toma 1 cubo propio del suministro general. | Exceso de riqueza se pierde. |
-| <img src="../img/icons/viaje.png" alt="[MOV]" width="18"> | **Viajar** | Mueve Agentes/Profundos por rutas pagando movimiento. | Usa el coste de la ruta mas eficiente. |
-| <img src="../img/icons/ritual-subir.png" alt="[RIT+]" width="18"> <img src="../img/icons/investigacion-subir.png" alt="[INV+]" width="18"> | **Manipular Ritual/Investigacion** | Mueve 1 medidor en 1 direccion. | Si llega al final, dispara final de partida. |
-|  | **Accion de carta** | Resuelve ACCION de Activo o Mitos. | Las ACCIONES GRATUITAS no gastan accion normal. |
-|  | **Descartar cartas** | Descarta cualquier numero de cartas de la mano. | Sirve para renovar mano al final del turno. |
-|  | **Revelar Lealtad** | Gana PV por medidor/Portales segun Lealtad. | Solo si con ello activas final. |
+| <img src="../img/icons/viaje.png" alt="[MOV]" width="18"> | **Viajar** | Mueve Agentes/Profundos por rutas pagando movimiento. | Usa el coste de la ruta más eficiente. |
+| <img src="../img/icons/ritual-subir.png" alt="[RIT+]" width="18"> <img src="../img/icons/investigacion-subir.png" alt="[INV+]" width="18"> | **Manipular Ritual/Investigación** | Mueve 1 medidor en 1 dirección. | Si llega al final, dispara final de partida. |
+|  | **Acción de carta** | Resuelve ACCIÓN de Activo o Mitos. | Las ACCIONES GRATUITAS no gastan acción normal. |
+|  | **Descartar cartas** | Descarta cualquier número de cartas de la mano. | Sirve para renovar mano al final del turno. |
+|  | **Revelar Lealtad** | Gana PV por medidor/Portales según Lealtad. | Solo si con ello activas final. |
 |  | **Pasar** | Termina tu turno. | Robas igualmente hasta 5 al final. |
 
 ---
@@ -51,12 +51,12 @@ Si vas a **Reclamar**, no hagas acciones gratuitas antes: Reclamar debe ser lo p
 
 Requisitos:
 
-- Es tu primera accion normal, salvo efecto especial.
-- Tienes mayoria de Influencia.
-- Tienes al menos 1 cubo propio alli.
+- Es tu primera acción normal, salvo efecto especial.
+- Tienes mayoría de Influencia.
+- Tienes al menos 1 cubo propio allí.
 - No hay Bloqueo.
 
-Los Agentes de cualquier jugador cuentan siempre como Influencia para la Ciudad y para la carta de Activo principal revelada alli.
+Los Agentes de cualquier jugador cuentan siempre como Influencia para la Ciudad y para la carta de Activo principal revelada allí.
 
 Secuencia:
 
@@ -68,15 +68,15 @@ Secuencia:
 
 | Reclamas | Resultado |
 |---|---|
-| **Activo principal** | A tu descarte. Si es Agente, coloca ficha en esa Ciudad. Si era la ultima carta del mazo de Ciudad: Ritual +2 y anade 1 Mitos a la fila. |
+| **Activo principal** | A tu descarte. Si es Agente, coloca ficha en esa Ciudad. Si era la Última carta del mazo de Ciudad: Ritual +2 y añade 1 Mitos a la fila. |
 | **Ciudad** | Ganas control y PV de la Ciudad; tomas su carta de Ciudad. Si otro la controlaba, pierde esos PV. |
-| **Mitos** | Va junto a tu tablero. No se repone automaticamente. |
+| **Mitos** | Va junto a tu tablero. No se repone automáticamente. |
 
 ---
 
 ## Asesinar
 
-1. Tu Agente esta en la misma Ciudad que un Agente rival.
+1. Tu Agente está en la misma Ciudad que un Agente rival.
 2. Juegas carta que permita asesinar con ese Agente o con cualquier Agente.
 3. Igualas/superas el valor de control de la Ciudad con Poder <img src="../img/icons/poder.png" alt="[POD]" width="18"> de tus Agentes presentes y cartas extra.
 4. La carta que habilita el asesinato **no aporta su Poder**.
@@ -85,7 +85,7 @@ Secuencia:
 Recordatorios:
 
 - Resucitados no pueden ser asesinados salvo efecto.
-- Agente principal solo si su jugador no tiene otros Agentes y tiene 5 PV o mas.
+- Agente principal solo si su jugador no tiene otros Agentes y tiene 5 PV o más.
 - Profundos pueden ser asesinados; vuelven al suministro personal de su propietario.
 - Tener solo Profundos no protege al Agente principal.
 - Si el Agente principal revela Sectario, el asesinato se cancela.
@@ -97,11 +97,11 @@ Recordatorios:
 1. Tienes un Agente en una Ciudad sin Portal.
 2. Juegas carta que permita cerrar/abrir.
 3. Igualas/superas el valor de Portal con Poder <img src="../img/icons/poder.png" alt="[POD]" width="18"> de Agentes presentes y cartas extra.
-4. La carta que habilita la accion **no aporta su Poder**.
+4. La carta que habilita la acción **no aporta su Poder**.
 5. Coloca Portal por la cara correspondiente y tu Control encima.
 6. Haz Prueba de Cordura.
 
-Si un Agente reclutado hace la accion y roba Locura, queda aniquilado. Esa Locura tambien cuenta para el limite de 3 Locuras del jugador. El Agente principal no se aniquila por esto.
+Si un Agente reclutado hace la acción y roba Locura, queda aniquilado. Esa Locura también cuenta para el límite de 3 Locuras del jugador. El Agente principal no se aniquila por esto.
 
 ---
 
@@ -117,21 +117,21 @@ Hazla al reclamar una carta con icono de Cordura <img src="../img/icons/cordura.
 
 ---
 
-## Recordatorios criticos
+## Recordatorios críticos
 
-- Reclamar es solo la primera accion normal.
+- Reclamar es solo la primera acción normal.
 - Si reclamas, no hagas acciones gratuitas antes.
-- Empatar en Influencia no da mayoria.
+- Empatar en Influencia no da mayoría.
 - Debes tener al menos 1 cubo propio para reclamar.
 - Agentes propios y rivales cuentan como Influencia en Ciudad y carta revelada.
-- Los Bloqueos impiden reclamar, no anadir/recuperar Influencia.
+- Los Bloqueos impiden reclamar, no añadir/recuperar Influencia.
 - Los cubos usados al reclamar van al Limbo.
 - Maximo normal: 6 Agentes controlados.
-- Los Profundos no cuentan para ese limite de 6.
+- Los Profundos no cuentan para ese límite de 6.
 - Al final del turno robas hasta 5.
-- La fila de Mitos no se repone automaticamente al reclamar.
+- La fila de Mitos no se repone automáticamente al reclamar.
 - R'lyeh exige Prueba de Cordura cada vez que se usa.
 
 ---
 
-[Guia para novatos](./RESUMEN-Y-GUIA-NOVATO.md) - [Final y puntuacion](./RESUMEN-FINAL-Y-PUNTUACION.md) - [FAQ BGG](../FAQs-Dark-Providence.md) - [Reglas completas](../Dark-Providence.md)
+[Guía para novatos](./RESUMEN-Y-GUIA-NOVATO.md) - [Final y puntuación](./RESUMEN-FINAL-Y-PUNTUACION.md) - [FAQ BGG](../FAQs-Dark-Providence.md) - [Reglas completas](../Dark-Providence.md)
