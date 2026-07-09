@@ -43,6 +43,7 @@ Juegos con narrativa y temática fuerte
 | Juego | Jugadores | Duración | Estado |
 |-------|-----------|----------|--------|
 | [The Witcher: El Viejo Mundo](./ameritrash/witcher-old-world/The-Witcher-El-Viejo-Mundo.md) | 1-5 | No esp. en manual | ✓ [Base](./ameritrash/witcher-old-world/The-Witcher-El-Viejo-Mundo.md) + [guía](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) + [resumen](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/RESUMEN-TURNO.md) + [ayuda visual](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/AYUDA-VISUAL-MESA.md) + [prompt](./ameritrash/witcher-old-world/AYUDAS_JUGADORES/PROMPT-IMAGEN-MUNDREL.md) |
+| [Cthulhu: Dark Providence](./ameritrash/dark-providence/Dark-Providence.md) | 1-5 | No esp. en manual | ✓ [Base](./ameritrash/dark-providence/Dark-Providence.md) + [FAQ BGG](./ameritrash/dark-providence/FAQs-Dark-Providence.md) + [guía](./ameritrash/dark-providence/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) + [turno](./ameritrash/dark-providence/AYUDAS_JUGADORES/RESUMEN-TURNO.md) + [puntuación](./ameritrash/dark-providence/AYUDAS_JUGADORES/RESUMEN-FINAL-Y-PUNTUACION.md) + [solitario](./ameritrash/dark-providence/AYUDAS_JUGADORES/RESUMEN-MODO-SOLITARIO.md) + [ayuda visual](./ameritrash/dark-providence/AYUDAS_JUGADORES/AYUDA-VISUAL-MESA.md) + [prompt](./ameritrash/dark-providence/AYUDAS_JUGADORES/PROMPT-IMAGEN-MUNDREL.md) |
 | *(Próximamente)* | - | - | - |
 
 ### 🎲 Abstractos

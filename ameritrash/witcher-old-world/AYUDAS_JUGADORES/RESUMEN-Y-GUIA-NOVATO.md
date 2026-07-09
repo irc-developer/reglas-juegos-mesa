@@ -1,8 +1,8 @@
 # The Witcher: El Viejo Mundo — Guía para novatos
 
-**Fuente de reglas**: manual local en español  
-**Cobertura**: juego base competitivo  
-**Última validación**: 12/06/2026
+**Fuente de reglas**: manual local en español y FAQ v1.0 en inglés \
+**Cobertura**: juego base competitivo \
+**Última validación**: 13/06/2026
 
 ---
 
@@ -84,7 +84,7 @@ El manual recomienda que la primera partida sea de **1, 2 o 3 jugadores**. Para 
 
 ## 4. Anatomía de un turno
 
-Tu turno tiene tres fases fijas. Puedes saltarte la Fase I, pero en la Fase II debes elegir una opción y en la Fase III debes obtener una carta. (Manual, pp. 12, 15, 18-19)
+Tu turno tiene tres fases fijas. Puedes saltarte la Fase I, pero en la Fase II debes elegir una opción y en la Fase III debes intentar obtener una carta. Si no puedes pagar ninguna de las disponibles, no obtienes carta. (Manual, pp. 12, 15, 18-19; FAQ, p. 6)
 
 ### Fase I — Movimiento y acciones
 
@@ -109,7 +109,9 @@ Tras al menos un movimiento, puedes realizar en cualquier orden:
 - **Póquer de Dados** con otro brujo elegible;
 - resolver una **Misión** situada allí. (Manual, pp. 13-14, 17)
 
-La regla que más se olvida es esta: **debes moverte al menos una vez antes de realizar una Acción de Localización**. Si quieres usar la acción del lugar donde empezaste, sal y regresa durante ese turno. Cada Acción de Localización solo puede utilizarse una vez por turno. (Manual, p. 13)
+La regla que más se olvida es esta: **debes moverte al menos una vez antes de realizar una Acción de Localización**. Si quieres usar la acción del lugar donde empezaste, sal y regresa durante ese turno.
+
+Puedes realizar **varias Acciones de Localización durante la Fase I**, siempre que te muevas hasta esas Localizaciones y puedas seguir pagando los movimientos. El límite no es una acción total: **cada Localización solo puede utilizarse una vez por turno**. Por ejemplo, puedes usar la acción de una Localización, moverte a otra y usar también la de esta; si después regresas a la primera, no puedes repetir su acción durante ese turno. (Manual, p. 13)
 
 Puedes jugar al Póquer una vez por turno con cada brujo de tu Localización que tenga al menos 1 Oro. Ambos aportan 1 Oro y la banca añade otro. El jugador no activo puede repetir primero su tirada y después decide el activo. (Manual, pp. 13-14)
 
@@ -142,6 +144,8 @@ Elige Ciudad o Tierras Salvajes. El jugador de tu derecha lee la introducción y
 
 Los resultados pueden ser inmediatos o crear una Misión futura. Explorar no tiene requisitos y siempre está disponible. (Manual, pp. 16-17)
 
+Si un efecto se refiere a «tu próxima Exploración», se aplica la próxima vez que elijas **Explorar en la Fase II**, aunque transcurran varios turnos antes de hacerlo. Si una recompensa exige subir un atributo que ya está al máximo, no recibes esa recompensa ni repites una tirada que la haya determinado. (FAQ, pp. 3-4)
+
 **Regla de decisión:** explora cuando todavía necesitas crecimiento, Oro, Pociones, Rastros, cartas o Misiones y no estás listo para un combate rentable.
 
 ### Fase III — Robar y obtener cartas
@@ -150,7 +154,7 @@ Haz estos pasos en orden:
 
 1. Descarta opcionalmente cartas hasta conservar como máximo 3.
 2. Roba de tu mazo hasta tener 3.
-3. Obtén **obligatoriamente** 1 carta de Acción del mercado. (Manual, pp. 18-19)
+3. Obtén 1 carta de Acción del mercado si puedes pagarla. Si no puedes pagar ninguna, no obtienes carta. (Manual, pp. 18-19; FAQ, p. 6)
 
 El coste de una carta es el número de cartas que debes descartar de tu mano:
 
@@ -158,7 +162,11 @@ El coste de una carta es el número de cartas que debes descartar de tu mano:
 - tres posiciones centrales: coste impreso;
 - dos posiciones más a la izquierda: coste impreso **+1**. (Manual, pp. 18-19)
 
-La carta comprada entra directamente en tu mano. Después, desplaza las cartas hacia la derecha y repón el hueco izquierdo. El límite de mano es **7**; cualquier robo por encima se pierde. (Manual, p. 19)
+Cuando un efecto permite ganar una carta de Acción de un valor exacto, utiliza su **coste impreso**; los modificadores de posición `-1/+1` solo se aplican al obtener carta durante la Fase III. La carta comprada entra directamente en tu mano. Después, desplaza las cartas hacia la derecha y repón el hueco izquierdo. Si el mazo de Acción se agota, algo posible sobre todo a 5 jugadores, baraja su pila de descartes para formar uno nuevo. (Manual, pp. 18-19; FAQ, p. 4)
+
+El límite de mano es **7**. Fuera del combate, antes de robar una octava carta puedes descartar una o más cartas de la mano para hacer sitio. Durante un combate no puedes hacerlo: cualquier carta que exceda el límite simplemente no se roba. (Manual, p. 19; FAQ, p. 6)
+
+Fuera del combate, si debes robar y tu mazo está vacío, baraja inmediatamente tus descartes y continúa robando. Durante un combate nunca se reconstruye el Mazo de Vida de esta forma. (FAQ, p. 5)
 
 ---
 
@@ -197,7 +205,9 @@ En cada turno del monstruo, un jugador no activo elige **Embestida** o **Mordisc
 
 #### 1. Pociones, Especialidad y efectos
 
-Puedes usar Pociones, tu Especialidad y efectos de Equipo o Trofeos cuando corresponda. Puedes poseer hasta 4 Pociones, pero durante todo un combate solo puedes usar tantas como tu nivel de Alquimia. (Manual, pp. 11, 22)
+Puedes usar Pociones, tu Especialidad y efectos de Equipo o Trofeos cuando corresponda. Los efectos de Trofeo «una vez por combate» son opcionales. Puedes poseer hasta 4 Pociones, pero durante todo un combate solo puedes usar tantas como tu nivel de Alquimia. Cuando un efecto permite ignorar un límite, la excepción se aplica una sola vez y de inmediato. Por ejemplo, si robas hasta tener 5 Pociones ignorando el límite y después usas una, vuelves al límite normal de 4. (Manual, pp. 11, 22; FAQ, pp. 4-5)
+
+Cuando una carta exige bajar un atributo o gastar otro recurso para activar su efecto, debes poder pagar el coste completo. No puedes usarla y resolver únicamente la parte beneficiosa. (FAQ, p. 5)
 
 #### 2. Jugar un Combo
 
@@ -207,7 +217,11 @@ Juega al menos 1 carta si tienes cartas en la mano:
 2. Para añadir otra, su color debe coincidir con una Extensión de Combo de la carta inmediatamente anterior.
 3. Continúa mientras quieras y las conexiones sean legales. (Manual, pp. 22-23)
 
+Los iconos impresos dentro de una Extensión pertenecen a la carta que contiene esa Extensión y solo se aplican si la utilizas para conectar la carta siguiente. Por ejemplo, si una carta tiene una Extensión roja con «devuelve esta carta a tu mano» y colocas después una carta roja, vuelve a tu mano la carta que contiene la Extensión, no la carta roja añadida. Si no utilizas esa Extensión para prolongar el Combo, sus iconos se ignoran. (Manual, pp. 23-24)
+
 Una sola carta también es un Combo. No estás obligado a jugar todas las cartas que puedas enlazar. (Manual, p. 23)
+
+Si varias cartas del mismo Combo indican «devuelve esta carta a tu mano», devuelve todas ellas; el resto del Combo va al descarte. (FAQ, p. 3)
 
 #### 3. Resolver el Combo
 
@@ -215,13 +229,15 @@ Resuelve en este orden:
 
 1. **Daño**: suma los símbolos de Daño visibles.
 2. **Escudo**: después del Daño, suma los símbolos de Escudo y sube tu indicador.
-3. **Efectos especiales**: recuperar una carta, devolver una carta del Combo a la mano o modificar el robo. (Manual, pp. 23-24)
+3. **Efectos especiales**: recuperar una carta, devolver una carta del Combo a la mano o modificar el robo. Los efectos especiales de las cartas del Combo pueden resolverse en el orden que elijas. (Manual, pp. 23-24; FAQ, p. 3)
 
-El Escudo nunca puede superar tu Defensa. (Manual, p. 24)
+El Escudo nunca puede superar tu Defensa. Cada vez que aumentas Defensa, aumentas también el Escudo en 1, aunque el Escudo estuviera por debajo de su valor anterior. (Manual, p. 24; FAQ, p. 5)
+
+Cuando un efecto se activa «como resultado de tu Ataque», se activa si causas Daño al oponente, sea cual sea la carta o efecto que lo produjo. Las reglas generales de combate se aplican tanto contra monstruos como entre brujos, salvo que una habilidad indique una excepción. (FAQ, pp. 3, 6)
 
 #### 4. Robar cartas
 
-El robo base es tu Ataque. Súmale o réstale los modificadores del Combo, Pociones y otros efectos. Si el total es 0 o menos, no robas. Si el Mazo de Vida se agota, no se barajan descartes durante el combate. Después del robo, las cartas del Combo van a descartes. El límite de mano sigue siendo 7. (Manual, p. 24)
+El robo base es tu Ataque. Súmale o réstale los modificadores del Combo, Pociones y otros efectos. Si el total es 0 o menos, no robas. Si el Mazo de Vida se agota, no se barajan descartes durante el combate. Después del robo, las cartas del Combo van a descartes. El límite de mano sigue siendo 7 y, durante el combate, no puedes descartar cartas de la mano para hacer sitio a otras nuevas. (Manual, p. 24; FAQ, pp. 5-6)
 
 ### Qué hace cada atributo
 
@@ -231,6 +247,8 @@ El robo base es tu Ataque. Súmale o réstale los modificadores del Combo, Pocio
 | **Defensa** | Máximo de Escudo que puedes conservar. Al subir Defensa, sube también el Escudo. | pp. 10, 24 |
 | **Alquimia** | Número máximo de Pociones que puedes consumir durante todo el combate. | pp. 10-11, 22 |
 | **Especialidad** | Habilidad propia de la Escuela; define una ventaja y un estilo de combate distintos. | pp. 10, 34-35 |
+
+Un atributo en nivel 5 no puede reducirse, ni siquiera por el efecto de combate de un monstruo. Si una recompensa te indica subir un atributo que ya está en 5, pierdes esa recompensa. (FAQ, pp. 3-4)
 
 ### Daño a un brujo
 
@@ -252,6 +270,16 @@ Aplica cada punto en este orden:
 - ¿Cuántas cartas robo por Ataque y modificadores?
 - ¿Mi oponente está cerca de quedarse sin mazo y mano?
 - ¿Qué carta mediocre destruiré si gano un trofeo y sufro Fatiga?
+
+### Aclaraciones de cartas del juego base
+
+- **Rotfiend**: su efecto determina el robo de la Fase III tras combatir; no se combina con un efecto de Exploración, porque al combatir no exploras. (FAQ, p. 3)
+- **Grave Hag**: en su primer Turno de Combate, el Daño se aplica en el orden **mano → Escudo → Mazo de Vida**, sustituyendo el orden normal. (FAQ, p. 3)
+- **Bruxa**: su habilidad especial se aplica a las 2 últimas cartas de su Reserva de Vida; la condición se comprueba antes de revelar la carta. (FAQ, pp. 4-5)
+- **Glustyworp**: la habilidad de su Trofeo se resuelve después de crear el Mazo de Vida, como «paso 0» del primer Turno de Combate del brujo. (FAQ, p. 5)
+- **Blizzard**: «al terminar un Combo» significa después de jugar sus cartas, antes de resolverlo. La carta obtenida por la Poción no forma parte de ese Combo. (FAQ, p. 4)
+- **Escuela del Lobo**: su Especialidad se activa después de terminar de formar un Combo de 3 o más cartas; las cartas robadas no pueden añadirse a ese mismo Combo. (FAQ, p. 5)
+- **Thunderbolt**: necesitas tener al menos 1 punto de Escudo para usar esta Poción. (FAQ, p. 6)
 
 ---
 
@@ -313,7 +341,9 @@ Después de cualquier combate:
 - reconstruye los mazos indicados;
 - devuelve el Escudo de cada brujo hasta su Defensa;
 - tras un combate de monstruo, vuelve a barajar todas las cartas de Combate de Monstruo;
-- descarta las Pociones usadas. (Manual, pp. 22, 27-28)
+- descarta las Pociones usadas en una pila próxima a su mazo. (Manual, pp. 22, 27-28; FAQ, p. 3)
+
+Las cartas de Acción sí utilizan pilas de descartes con función de juego, incluido el descarte común de las cartas retiradas del mercado. Las cartas descartadas de Evento, Exploración, Poción o Monstruo pueden dejarse en pilas separadas donde resulte cómodo. (FAQ, p. 4)
 
 ### Fatiga tras trofeos
 
@@ -325,14 +355,14 @@ Después de avanzar en el marcador, destruye exactamente tantas cartas como indi
 
 Como los iconos del tablero no se reproducen aquí, utiliza estas etiquetas de texto y compáralas con el efecto impreso junto a cada Localización. Todas requieren que te hayas movido antes y cada una puede utilizarse una sola vez por turno. (Manual, pp. 13, 35-36)
 
-| Etiqueta | Qué hace | Cuándo es útil | Aviso para novatos | Manual |
+| Etiqueta | Qué hace | Cuándo es útil | Aviso para novatos | Fuente |
 |---|---|---|---|---|
 | **Entrenar Ataque/Defensa/Alquimia** | Sube el atributo indicado si su nivel actual es igual o inferior a tu nivel de Brujo. | Para mejorar combate sin gastar Oro. | No permite adelantar indefinidamente un atributo respecto al nivel de Brujo. | p. 35 |
 | **Escuela** | Paga Oro igual al nivel actual del atributo +1 y súbelo. En tu propia Escuela también puedes entrenar Especialidad. | Para especializarte y alcanzar nivel 5. | En otra Escuela no puedes entrenar Especialidad. | p. 36 |
 | **Poción** | Roba 1 Poción. | Antes de un combate difícil o para ampliar opciones. | Máximo 4 Pociones poseídas. | pp. 11, 35 |
 | **Póquer local** | Aporta 1 Oro; la banca aporta 2. Juega contra los lugareños. Si ganas, cobras los 3. | Cuando tienes Oro para arriesgar y quieres financiar entrenamiento. | Si pierdes, tu Oro vuelve a la banca. | pp. 14, 35 |
 | **Mejorar/Destruir carta** | Destruye 1 carta de tu mano y toma del mercado otra cuyo coste impreso sea como máximo 1 superior. | Para eliminar cartas débiles y mejorar conexiones. | Destruir es permanente; la carta nueva entra en la mano. | pp. 10, 35 |
-| **Información/Rastreo** | Gana 1 Oro e inicia una Misión de Rastreo de un monstruo. Al llegar al destino, cobra 1 Oro y convierte la ficha en Rastro. | Para empezar antes en un combate de monstruo. | No puede iniciarse si no queda ficha del Terreno requerido. | p. 36 |
+| **Información/Rastreo** | Gana 1 Oro e inicia una Misión de Rastreo de un monstruo. Al llegar al destino, cobra 1 Oro y convierte la ficha en Rastro. | Para empezar antes en un combate de monstruo. | Solo puedes tener 1 Rastro de cada Terreno. Si recibes uno repetido mientras tienes esa Misión de Rastreo, descarta la Misión sin cobrar su Oro. | p. 36; FAQ, p. 4 |
 | **Ayuda/Refrescar mercado** | Si no tienes Oro, gana 1. Además, puedes descartar 1 o 2 cartas del mercado y reponerlo. | Para salir de 0 Oro o buscar mejores cartas. | No ganas Oro si ya posees al menos 1. | p. 36 |
 
 ---
@@ -353,8 +383,8 @@ Como los iconos del tablero no se reproducen aquí, utiliza estas etiquetas de t
 ## 9. Errores frecuentes
 
 - **Usar la Localización inicial sin moverse.** Debes salir y regresar antes. (Manual, p. 13)
-- **Olvidar que obtener carta en Fase III es obligatorio.** Siempre debes tomar una. (Manual, p. 19)
-- **Superar el límite de mano de 7.** Los robos adicionales se pierden. (Manual, pp. 19, 24)
+- **No obtener carta en Fase III pudiendo pagarla.** Debes tomar una si puedes; si no puedes pagar ninguna, no obtienes carta. (Manual, p. 19; FAQ, p. 6)
+- **Aplicar igual el límite de mano dentro y fuera del combate.** Fuera del combate puedes descartar para hacer sitio antes de robar; durante el combate, las cartas por encima de 7 no se roban. (Manual, pp. 19, 24; FAQ, p. 6)
 - **Confundir descartar con destruir.** Descartar conserva la carta para futuros barajados; destruir la retira de la partida. (Manual, pp. 10, 29)
 - **Intentar ganar con meditación.** El cuarto trofeo debe venir de un combate. (Manual, pp. 15, 29)
 - **Olvidar la Fatiga al obtener un trofeo.** Normalmente debes destruir cartas después de avanzar. (Manual, p. 29)
@@ -384,6 +414,7 @@ Como los iconos del tablero no se reproducen aquí, utiliza estas etiquetas de t
 
 ---
 
-**Consulta rápida**: [RESUMEN-TURNO.md](./RESUMEN-TURNO.md)  
-**Reglas estructuradas**: [The-Witcher-El-Viejo-Mundo.md](../The-Witcher-El-Viejo-Mundo.md)  
-**Manual**: [the-witcher-el-viejo-mundo-reglas.pdf](../the-witcher-el-viejo-mundo-reglas.pdf)
+**Consulta rápida**: [RESUMEN-TURNO.md](./RESUMEN-TURNO.md) \
+**Reglas estructuradas**: [The-Witcher-El-Viejo-Mundo.md](../The-Witcher-El-Viejo-Mundo.md) \
+**Manual**: [the-witcher-el-viejo-mundo-reglas.pdf](../the-witcher-el-viejo-mundo-reglas.pdf) \
+**FAQ v1.0**: [FAQ_ENG_02.pdf](./FAQ_ENG_02.pdf)
