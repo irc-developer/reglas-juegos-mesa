@@ -18,6 +18,7 @@ Eurogames, juegos tácticos y de gestión de recursos
 
 | Juego | Jugadores | Duración | Estado |
 |-------|-----------|----------|--------|
+| [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md) | 2-6 | 90 min | ✓ Base + OCR + FAQ + ayudas |
 | [High Moon](./eurogames/high%20moon/High-Moon.md) | 2-4 | No esp. en manual | ✓ Base + guía novatos |
 | [Terraforming Mars](./eurogames/terraforming%20mars/Terraforming-Mars.md) | 2-5 | No esp. en manual | ✓ Base + ayudas |
 | [Catan](./estrategia/Catan/Catan.md) | 2-4 | 60-90 min | ✓ Base + 3 expansiones |
@@ -72,21 +73,21 @@ Juegos de misterio, detectives, rol e improvisación
 ## 🔍 Buscar por Criterios
 
 ### Por Número de Jugadores
-- **2 jugadores**: *(Próximamente)*
-- **3-4 jugadores**: *(Próximamente)*
-- **5+ jugadores**: *(Próximamente)*
+- **2 jugadores**: [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md)
+- **3-4 jugadores**: [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md)
+- **5+ jugadores**: [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md)
 - **Sin límite (escalable)**: *(Próximamente)*
 
 ### Por Duración
 - **Rápidos (< 30 min)**: *(Próximamente)*
-- **Medios (30-90 min)**: [Catan](./estrategia/Catan/Catan.md)
+- **Medios (30-90 min)**: [Catan](./estrategia/Catan/Catan.md), [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md)
 - **Largos (90+ min)**: [Terraforming Mars](./eurogames/terraforming%20mars/Terraforming-Mars.md)
 
 ### Por Mecanismo Principal
 - **Worker Placement**: *(Próximamente)*
 - **Push Your Luck**: *(Próximamente)*
 - **Deck Building**: *(Próximamente)*
-- **Área Control**: *(Próximamente)*
+- **Área Control**: [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md)
 - **Press Your Luck**: *(Próximamente)*
 - **Juego de Rol**: *(Próximamente)*
 - **Cooperativo**: *(Próximamente)*
@@ -165,10 +166,10 @@ Todos los documentos son compatibles con Obsidian, con:
 
 | Métrica | Cantidad |
 |---------|----------|
-| Juegos documentados | 2 |
+| Juegos documentados | 6 |
 | Expansiones incluidas | 0 |
 | Géneros representados | 7 |
-| Materiales de apoyo | 5 |
+| Materiales de apoyo | 32 |
 
 *(Se actualiza automáticamente al agregar juegos)*
 
@@ -176,8 +177,8 @@ Todos los documentos son compatibles con Obsidian, con:
 
 ## 🛠️ Mantenimiento
 
-- **Última actualización**: 3 de mayo de 2026
-- **Versión**: 1.0
+- **Última actualización**: 14 de julio de 2026
+- **Versión**: 1.1
 - **Estado**: 🟢 Activo - Listo para recibir juegos
 
 ### Próximas mejoras
