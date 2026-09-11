@@ -21,6 +21,7 @@ Eurogames, juegos tácticos y de gestión de recursos
 | [Cyclades: Edición Legendaria](./eurogames/cyclades/Cyclades.md) | 2-6 | 90 min | ✓ Base + OCR + FAQ + ayudas |
 | [High Moon](./eurogames/high%20moon/High-Moon.md) | 2-4 | No esp. en manual | ✓ Base + guía novatos |
 | [Terraforming Mars](./eurogames/terraforming%20mars/Terraforming-Mars.md) | 2-5 | No esp. en manual | ✓ Base + ayudas |
+| [Everdell — ayudas de juego](./eurogames/everdell/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) | 1-4 | 60-90 min | ✓ Ayudas del juego base |
 | [Catan](./estrategia/Catan/Catan.md) | 2-4 | 60-90 min | ✓ Base + 3 expansiones |
 | *(Próximamente)* | - | - | - |
 
