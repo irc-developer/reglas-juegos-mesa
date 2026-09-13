@@ -22,6 +22,7 @@ Eurogames, juegos tácticos y de gestión de recursos
 | [High Moon](./eurogames/high%20moon/High-Moon.md) | 2-4 | No esp. en manual | ✓ Base + guía novatos |
 | [Terraforming Mars](./eurogames/terraforming%20mars/Terraforming-Mars.md) | 2-5 | No esp. en manual | ✓ Base + ayudas |
 | [Everdell — ayudas de juego](./eurogames/everdell/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) | 1-4 | 60-90 min | ✓ Ayudas del juego base |
+| [Queen Alice — ayudas de juego](./eurogames/queen-alice/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) | 1-4 | 30-120 min | ✓ [guía](./eurogames/queen-alice/AYUDAS_JUGADORES/RESUMEN-Y-GUIA-NOVATO.md) + [turno](./eurogames/queen-alice/AYUDAS_JUGADORES/RESUMEN-TURNO.md) + [puntuación](./eurogames/queen-alice/AYUDAS_JUGADORES/RESUMEN-FINAL-Y-PUNTUACION.md) + [solo Dinah](./eurogames/queen-alice/AYUDAS_JUGADORES/RESUMEN-MODO-SOLITARIO.md) + [FAQ](./eurogames/queen-alice/AYUDAS_JUGADORES/FAQ-BASE.md) + [visual](./eurogames/queen-alice/AYUDAS_JUGADORES/AYUDA-VISUAL-MESA.md) |
 | [Catan](./estrategia/Catan/Catan.md) | 2-4 | 60-90 min | ✓ Base + 3 expansiones |
 | *(Próximamente)* | - | - | - |
 
